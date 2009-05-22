@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<track rank="1">
+	<name>Viva la Vida</name>
+	<playcount>925</playcount>
+	<mbid></mbid>
+	<url>http://www.last.fm/music/Coldplay/_/Viva+la+Vida</url>
+	<streamable fulltrack="1">1</streamable>
+	<artist>
+	    <name>Coldplay</name>
+	    <mbid>cc197bad-dc9c-440d-a5b5-d52ba2e14234</mbid>
+	    <url>http://www.last.fm/music/Coldplay</url>
+	</artist>
+	<image size="small">http://userserve-ak.last.fm/serve/34s/14349365.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64s/14349365.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/14349365.jpg</image>
+</track>

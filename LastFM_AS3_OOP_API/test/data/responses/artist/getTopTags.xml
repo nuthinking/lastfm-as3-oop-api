@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lfm status="ok">
+<toptags artist="Cher">
+<tag>
+    <name>pop</name> 
+    <count>100</count>
+    <url>http://www.last.fm/tag/pop</url>
+</tag>
+<tag>
+    <name>female vocalists</name> 
+    <count>71</count>
+    <url>http://www.last.fm/tag/female%20vocalists</url>
+</tag>
+<tag>
+    <name>80s</name> 
+    <count>47</count>
+    <url>http://www.last.fm/tag/80s</url>
+</tag>
+<tag>
+    <name>dance</name> 
+    <count>41</count>
+    <url>http://www.last.fm/tag/dance</url>
+</tag>
+<tag>
+    <name>rock</name> 
+    <count>27</count>
+    <url>http://www.last.fm/tag/rock</url>
+</tag>
+<tag>
+    <name>cher</name> 
+    <count>16</count>
+    <url>http://www.last.fm/tag/cher</url>
+</tag>
+<tag>
+    <name>female</name> 
+    <count>10</count>
+    <url>http://www.last.fm/tag/female</url>
+</tag>
+<tag>
+    <name>diva</name> 
+    <count>10</count>
+    <url>http://www.last.fm/tag/diva</url>
+</tag>
+<tag>
+    <name>classic rock</name> 
+    <count>9</count>
+    <url>http://www.last.fm/tag/classic%20rock</url>
+</tag>
+<tag>
+    <name>70s</name> 
+    <count>8</count>
+    <url>http://www.last.fm/tag/70s</url>
+</tag>
+<tag>
+    <name>90s</name> 
+    <count>7</count>
+    <url>http://www.last.fm/tag/90s</url>
+</tag>
+<tag>
+    <name>60s</name> 
+    <count>5</count>
+    <url>http://www.last.fm/tag/60s</url>
+</tag>
+<tag>
+    <name>american</name> 
+    <count>5</count>
+    <url>http://www.last.fm/tag/american</url>
+</tag>
+<tag>
+    <name>Disco</name> 
+    <count>5</count>
+    <url>http://www.last.fm/tag/disco</url>
+</tag>
+<tag>
+    <name>female vocalist</name> 
+    <count>4</count>
+    <url>http://www.last.fm/tag/female%20vocalist</url>
+</tag>
+<tag>
+    <name>gay</name> 
+    <count>4</count>
+    <url>http://www.last.fm/tag/gay</url>
+</tag>
+<tag>
+    <name>electronic</name> 
+    <count>2</count>
+    <url>http://www.last.fm/tag/electronic</url>
+</tag>
+<tag>
+    <name>00s</name> 
+    <count>2</count>
+    <url>http://www.last.fm/tag/00s</url>
+</tag>
+<tag>
+    <name>Gay Icon</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/gay%20icon</url>
+</tag>
+<tag>
+    <name>soft rock</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/soft%20rock</url>
+</tag>
+<tag>
+    <name>Pop-Rock</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/pop-rock</url>
+</tag>
+<tag>
+    <name>alternative</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/alternative</url>
+</tag>
+<tag>
+    <name>oldies</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/oldies</url>
+</tag>
+<tag>
+    <name>divas</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/divas</url>
+</tag>
+<tag>
+    <name>favorites</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/favorites</url>
+</tag>
+<tag>
+    <name>soul</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/soul</url>
+</tag>
+<tag>
+    <name>folk</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/folk</url>
+</tag>
+<tag>
+    <name>electronica</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/electronica</url>
+</tag>
+<tag>
+    <name>pop rock</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/pop%20rock</url>
+</tag>
+<tag>
+    <name>golden oldies</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/golden%20oldies</url>
+</tag>
+<tag>
+    <name>country</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/country</url>
+</tag>
+<tag>
+    <name>singer-songwriter</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/singer-songwriter</url>
+</tag>
+<tag>
+    <name>classic</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/classic</url>
+</tag>
+<tag>
+    <name>Ballad</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/ballad</url>
+</tag>
+<tag>
+    <name>House</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/house</url>
+</tag>
+<tag>
+    <name>dance pop</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/dance%20pop</url>
+</tag>
+<tag>
+    <name>icon</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/icon</url>
+</tag>
+<tag>
+    <name>Hip-Hop</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/hip-hop</url>
+</tag>
+<tag>
+    <name>Believe</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/believe</url>
+</tag>
+<tag>
+    <name>USA</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/usa</url>
+</tag>
+<tag>
+    <name>Armenian</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/armenian</url>
+</tag>
+<tag>
+    <name>best mouth in rock</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/best%20mouth%20in%20rock</url>
+</tag>
+<tag>
+    <name>California</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/california</url>
+</tag>
+<tag>
+    <name>techno</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/techno</url>
+</tag>
+<tag>
+    <name>legend</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/legend</url>
+</tag>
+<tag>
+    <name>80's</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/80%27s</url>
+</tag>
+<tag>
+    <name>indie</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/indie</url>
+</tag>
+<tag>
+    <name>japanese</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/japanese</url>
+</tag>
+<tag>
+    <name>Favorite Artists</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/favorite%20artists</url>
+</tag>
+<tag>
+    <name>new romantic</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/new%20romantic</url>
+</tag>
+<tag>
+    <name>party</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/party</url>
+</tag>
+<tag>
+    <name>glam</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/glam</url>
+</tag>
+<tag>
+    <name>female vocal</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/female%20vocal</url>
+</tag>
+<tag>
+    <name>female vocals</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/female%20vocals</url>
+</tag>
+<tag>
+    <name>cover</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/cover</url>
+</tag>
+<tag>
+    <name>Take Me Home</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/take%20me%20home</url>
+</tag>
+<tag>
+    <name>trance</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/trance</url>
+</tag>
+<tag>
+    <name>vocal</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/vocal</url>
+</tag>
+<tag>
+    <name>rnb</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/rnb</url>
+</tag>
+<tag>
+    <name>Classical</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/classical</url>
+</tag>
+<tag>
+    <name>music</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/music</url>
+</tag>
+<tag>
+    <name>80s Pop</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/80s%20pop</url>
+</tag>
+<tag>
+    <name>camp</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/camp</url>
+</tag>
+<tag>
+    <name>emo</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/emo</url>
+</tag>
+<tag>
+    <name>Female Voices</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/female%20voices</url>
+</tag>
+<tag>
+    <name>britpop</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/britpop</url>
+</tag>
+<tag>
+    <name>female singer-songwriter</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/female%20singer-songwriter</url>
+</tag>
+<tag>
+    <name>70s pop</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/70s%20pop</url>
+</tag>
+<tag>
+    <name>Suosikit</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/suosikit</url>
+</tag>
+<tag>
+    <name>Sinnet</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/sinnet</url>
+</tag>
+<tag>
+    <name>saw live</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/saw%20live</url>
+</tag>
+<tag>
+    <name>guilty pleasure</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/guilty%20pleasure</url>
+</tag>
+<tag>
+    <name>chanteuses</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/chanteuses</url>
+</tag>
+<tag>
+    <name>ladies</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/ladies</url>
+</tag>
+<tag>
+    <name>cherr</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/cherr</url>
+</tag>
+<tag>
+    <name>women</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/women</url>
+</tag>
+<tag>
+    <name>Fabulous</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/fabulous</url>
+</tag>
+<tag>
+    <name>HarukaEX S2</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/harukaex%20s2</url>
+</tag>
+<tag>
+    <name>great voice</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/great%20voice</url>
+</tag>
+<tag>
+    <name>actress</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/actress</url>
+</tag>
+<tag>
+    <name>nostalgia</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/nostalgia</url>
+</tag>
+<tag>
+    <name>lovely</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/lovely</url>
+</tag>
+<tag>
+    <name>boybands</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/boybands</url>
+</tag>
+<tag>
+    <name>dance-pop</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/dance-pop</url>
+</tag>
+<tag>
+    <name>1</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/1</url>
+</tag>
+<tag>
+    <name>1970s</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/1970s</url>
+</tag>
+<tag>
+    <name>girls</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/girls</url>
+</tag>
+<tag>
+    <name>70s80s</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/70s80s</url>
+</tag>
+<tag>
+    <name>hot</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/hot</url>
+</tag>
+<tag>
+    <name>girl power</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/girl%20power</url>
+</tag>
+<tag>
+    <name>beautiful</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/beautiful</url>
+</tag>
+<tag>
+    <name>metal</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/metal</url>
+</tag>
+<tag>
+    <name>Awesome</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/awesome</url>
+</tag>
+<tag>
+    <name>Grunge</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/grunge</url>
+</tag>
+<tag>
+    <name>Love</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/love</url>
+</tag>
+<tag>
+    <name>chillout</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/chillout</url>
+</tag>
+<tag>
+    <name>gay icons</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/gay%20icons</url>
+</tag>
+<tag>
+    <name>funk</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/funk</url>
+</tag>
+<tag>
+    <name>remix</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/remix</url>
+</tag>
+<tag>
+    <name>sexy</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/sexy</url>
+</tag>
+</toptags></lfm>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<image>
+    <title>CHER14</title>
+    <url>http://www.last.fm/music/Cher/+images/13638451</url>
+    <dateadded>Mon, 13 Oct 2008 22:06:36</dateadded>
+    <format>jpg</format>
+                <owner type="user">
+            <name>AngelPOA</name>
+            <url>http://www.last.fm/user/AngelPOA</url>
+        </owner>
+            <sizes>
+                <size name="original" width="402" height="343">http://userserve-ak.last.fm/serve/_/13638451/Cher+14.jpg</size>
+                <size name="large" width="126" height="108">http://userserve-ak.last.fm/serve/126/13638451.jpg</size>
+                <size name="largesquare" width="126" height="126">http://userserve-ak.last.fm/serve/126s/13638451.jpg</size>
+                <size name="medium" width="64" height="55">http://userserve-ak.last.fm/serve/64/13638451.jpg</size>
+                <size name="small" width="34" height="29">http://userserve-ak.last.fm/serve/34/13638451.jpg</size>
+            </sizes>
+    <votes>
+        <thumbsup>34</thumbsup>
+        <thumbsdown>13</thumbsdown>
+    </votes>
+</image>

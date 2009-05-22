@@ -1,0 +1,2433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lfm status="ok">
+<events venue="Cafe OTO" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" page="1" perPage="50" total="162" totalPages="4">
+    <event status="2">
+  <id>1031518</id>
+  <title>Adjacent Cafe # 1</title>
+
+  <artists>
+    <artist>Benedict Drew</artist>
+    <artist>Daniel Jones</artist>
+    <artist>Dominic Lash</artist>
+    <artist>Angharad Davies</artist>
+    <artist>Matt Milton</artist>
+    <artist>LINA LAPELYTE</artist>
+    <headliner>Benedict Drew</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Sun, 17 May 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">The first in a series of events curated by David Papapostolou which aims to explore the crossover point between modern composition and improvisation. <br />
+<br />
+The first event features the brand new trio of Benedict Drew, Matt Milton and Daniel Jones, followed by Dom Lash performing a new composition by Radu Malfatti and topped off with the duo of Angharad Davies and Lina Lapelyte. <br />
+<br />
+Should be a cracker - hope to see you there!</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/12335441.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/12335441.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/12335441.jpg</image>
+   <attendance>5</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1031518</tag>    
+  <url>http://www.last.fm/event/1031518</url>
+</event>    <event status="2">
+  <id>1061961</id>
+  <title>Okkyung Lee</title>
+
+  <artists>
+    <artist>Okkyung Lee</artist>
+    <artist>Steve Beresford</artist>
+    <artist>Peter Evans</artist>
+    <artist>Alan Tomlinson</artist>
+    <headliner>Okkyung Lee</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Wed, 13 May 2009 20:00:00</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/8518267.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/8518267.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/8518267.jpg</image>
+   <attendance>1</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1061961</tag>    
+  <url>http://www.last.fm/event/1061961</url>
+</event>    <event status="2">
+  <id>909301</id>
+  <title>Machinefabriek &amp; Yellow6</title>
+
+  <artists>
+    <artist>Machinefabriek</artist>
+    <artist>yellow6</artist>
+    <artist>Konntinent</artist>
+    <headliner>Machinefabriek</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Tue, 12 May 2009 02:37:01</startDate>
+  <description><![CDATA[<div class="bbcode">Full line up tba,<br />
+<br />
+ltd.tickets from:<br />
+<a href="http://www.wegottickets.com/event/44611" rel="nofollow">http://www.wegottickets.com/event/44611</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/590182.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/590182.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/590182.jpg</image>
+   <attendance>44</attendance>
+   <reviews>1</reviews>
+   <tag>lastfm:event=909301</tag>    
+  <url>http://www.last.fm/event/909301</url>
+</event>    <event status="2">
+  <id>1054374</id>
+  <title>Okkyung Lee</title>
+
+  <artists>
+    <artist>Okkyung Lee</artist>
+    <headliner>Okkyung Lee</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Sun, 10 May 2009 02:03:01</startDate>
+  <description><![CDATA[<div class="bbcode">After spending most of her life until the age of 25 in music schools, the cellist, improviser and composer Okkyung Lee finally found her artistic freedom in New York, where she moved in 2000. Since then, she has performed and recorded with numerous artists such as Laurie Anderson, Lotte Anker, Derek Bailey, Jell Bjørgeengen, Carla Bozulich, Nels Cline, Chris Corsano, Sylvie Courvoisier, Mark Dresser, Fred Frith, John Hollenbeck, Vijay Iyer, Lindha Kallerdahl, Andrew Lampert, Christian Marclay, Billy Martin, Miya Masaoka, Min Xiao-Fen, Thurston Moore, Ikue Mori, Lawrence D. &quot;Butch&quot; Morris, Larry Ochs, Jim O'rourke, Zeena Parkins, Marc Ribot, Wadada Leo Smith, Skuli Sverrisson, Spencer Yeah and John Zorn to name a few.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/8518267.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/8518267.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/8518267.jpg</image>
+   <attendance>1</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1054374</tag>    
+  <url>http://www.last.fm/event/1054374</url>
+</event>    <event status="2">
+  <id>1033821</id>
+  <title>Serpentine New Music Action: Shadazz</title>
+
+  <artists>
+    <artist>Danny Saunders</artist>
+    <artist>Lee Patterson</artist>
+    <artist>Apricot My Lady</artist>
+    <artist>Xentos Jones</artist>
+    <headliner>Danny Saunders</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Thu, 07 May 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Luke Fowler is a part of the experimental music scene in Glasgow through his bands Rude Pravo and Lied Music, and his record label and multimedia platform SHADAZZ. He curates an evening of music this May. Acts include Danny Saunders of indie group Correcto; Lee Patterson, sound artist who collaborated with Fowler on his 2007 film Bogman Palmjaguar; and quartet Apricot My Lady, with special guest DJ Coprolite, otherwise known as Xentos Jones, the post- punk pioneer who was the subject of Fowler’s 2003 film The Way Out.</div>]]></description>
+  <image size="small"/>
+  <image size="medium"/>
+  <image size="large"/>
+   <attendance>1</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1033821</tag>    
+  <url>http://www.last.fm/event/1033821</url>
+</event>    <event status="2">
+  <id>987351</id>
+  <title>James Ferraro</title>
+
+  <artists>
+    <artist>James Ferraro</artist>
+    <artist>Jazzfinger</artist>
+    <artist>Monopoly Child Star Searchers</artist>
+    <artist>Dolphins Into the Future</artist>
+    <artist>P.A.R.A.</artist>
+    <artist>Mick Flower</artist>
+    <headliner>James Ferraro</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Sat, 02 May 2009 23:45:01</startDate>
+  <description><![CDATA[<div class="bbcode">The Softest Voice Presents...<br />
+<br />
+Quasar<br />
+MICK FLOWER (UK) - JAMES FERRARO (US)<br />
+MONOPOLY CHILD STAR SEARCHERS (US)<br />
+JAZZFINGER (UK) - P.A.R.A (US)<br />
+DOLPHINS INTO THE FUTURE (BE)<br />
+<br />
+Saturday 2nd may 18.30hrs<br />
+Café oto. Dalston. London<br />
+£9 wegottickets.com/ £10<br />
+Mail: <a href="mailto:the_softest_voice@yahoo.com">the_softest_voice@yahoo.com</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/12794393.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/12794393.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/12794393.jpg</image>
+   <attendance>14</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=987351</tag>    
+  <url>http://www.last.fm/event/987351</url>
+</event>    <event status="2">
+  <id>1025657</id>
+  <title>The Skaters</title>
+
+  <artists>
+    <artist>The Skaters</artist>
+    <artist>Jazzfinger</artist>
+    <artist>Dolphins Into the Future</artist>
+    <artist>P.A.R.A</artist>
+    <artist>The Hunter Gracchus</artist>
+    <artist>Mick Flower</artist>
+    <headliner>The Skaters</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Sat, 02 May 2009 18:30:00</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/5001874.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/5001874.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/5001874.jpg</image>
+   <attendance>4</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1025657</tag>    
+  <url>http://www.last.fm/event/1025657</url>
+</event>    <event status="2">
+  <id>1016039</id>
+  <title>The Skaters solo - mick flower  - jazzfinger</title>
+
+  <artists>
+    <artist>The Skaters solo - mick flower  - jazzfinger</artist>
+    <artist>P.A.R.A - dolphins into the future - the hunter gracchus</artist>
+    <headliner>The Skaters solo - mick flower  - jazzfinger</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Sat, 02 May 2009 18:30:00</startDate>
+  <description/>
+  <image size="small"/>
+  <image size="medium"/>
+  <image size="large"/>
+   <attendance>1</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1016039</tag>    
+  <url>http://www.last.fm/event/1016039</url>
+</event>    <event status="2">
+  <id>1016207</id>
+  <title>skaters, mick flower, jazzfinger, P.A.R.A</title>
+
+  <artists>
+    <artist>skaters, mick flower, jazzfinger, P.A.R.A</artist>
+    <artist>dolphins into the future, the hunter gracchus</artist>
+    <headliner>skaters, mick flower, jazzfinger, P.A.R.A</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Sat, 02 May 2009 18:30:00</startDate>
+  <description/>
+  <image size="small"/>
+  <image size="medium"/>
+  <image size="large"/>
+   <attendance>0</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1016207</tag>    
+  <url>http://www.last.fm/event/1016207</url>
+</event>    <event status="2">
+  <id>1009305</id>
+  <title>Christian Marclay</title>
+
+  <artists>
+    <artist>Christian Marclay</artist>
+    <artist>Steve Beresford</artist>
+    <artist>John Butcher</artist>
+    <artist>Okkyung Lee</artist>
+    <headliner>Christian Marclay</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Fri, 01 May 2009 22:02:01</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/160963.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/160963.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/160963.jpg</image>
+   <attendance>12</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1009305</tag>    
+  <url>http://www.last.fm/event/1009305</url>
+</event>    <event status="2">
+  <id>1027376</id>
+  <title>A Hot New Trio &amp; John Edwards Solo </title>
+
+  <artists>
+    <artist>Seb Rochford</artist>
+    <artist>John Edwards</artist>
+    <artist>Tania Chen</artist>
+    <artist>Shabaka Hutchings</artist>
+    <headliner>Seb Rochford</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Wed, 29 Apr 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Multifaceted influences here from the experimental / jazz / rock worlds with this new Trio playing together for the first time...<br />
+<br />
+and a dynamic evening with John Edwards playing solo on double bass</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/23353285.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/23353285.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/23353285.jpg</image>
+   <attendance>1</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1027376</tag>    
+  <url>http://www.last.fm/event/1027376</url>
+</event>    <event status="2">
+  <id>1010546</id>
+  <title>Openlab 5</title>
+
+  <artists>
+    <artist>Openlab</artist>
+    <artist>Daniel Jones</artist>
+    <artist>Chris McCormick</artist>
+    <artist>Jeremah</artist>
+    <artist>Ryan Jordan</artist>
+    <artist>Robert Atwood</artist>
+    <artist>Rob Munro</artist>
+    <artist>DSKG</artist>
+    <artist>pixelpusher</artist>
+    <artist>TheNoiser</artist>
+    <artist>S Jagannathan</artist>
+    <headliner>Openlab</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Sat, 25 Apr 2009 12:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Openlab are providing a day of workshops &amp; presentations about opensource software, and cutting edge audiovisual performances in the evening at Cafe OTO, Dalston. THIS EVENT IS ON THE SATURDAY, 25TH APRIL</div>]]></description>
+  <image size="small"/>
+  <image size="medium"/>
+  <image size="large"/>
+   <attendance>6</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1010546</tag>    
+  <url>http://www.last.fm/event/1010546</url>
+</event>    <event status="2">
+  <id>962136</id>
+  <title>Bakirinosu</title>
+
+  <artists>
+    <artist>Bakirinosu</artist>
+    <headliner>Bakirinosu</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Tue, 21 Apr 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">RED ORANGE<br />
+presents the UK premiere of<br />
+<br />
+BAKIRINOSU [Osaka, Japan]<br />
+<br />
+Fed by diverse influences, the twin voices of Bakirinosu have their roots in popular Japanese music and travel, a cappella, along melodic lines that evoke both European folklore and the sound of unknown threnody, from further away. An eclecticism that is full of sap, autodidact and non-complex, thus proving that originality does not have to be technical.<br />
+<br />
+Part of Osaka’s art scene, Ras and Gaki collaborated on rock projects before testing out a more daring formula based on song. Far from the media circus of Tokyo, Bakirinosu is a young group, whose candour is captivating and whose voices are beautifully simple, spontaneous and tranquil, oscillating between ethnic breathlessness and poetic nursery rhymes.<br />
+<br />
+<a href="http://www.youtube.com/watch?v=fN4BEjW8QI0" rel="nofollow">http://www.youtube.com/watch?v=fN4BEjW8QI0</a><br />
+<a href="http://www.youtube.com/watch?v=p0Y6I5sYRT8" rel="nofollow">http://www.youtube.com/watch?v=p0Y6I5sYRT8</a><br />
+<a href="http://www.myspace.com/bakirinosu" rel="nofollow">http://www.myspace.com/bakirinosu</a><br />
+<a href="http://www.bakirinosu.net" rel="nofollow">http://www.bakirinosu.net</a><br />
+<br />
+Book now at <a href="http://www.wegottickets.com/event/45498" rel="nofollow">http://www.wegottickets.com/event/45498</a><br />
+£8 in advance, £10 at the door<br />
+<br />
+FOR FURTHER INFORMATION:<br />
+<br />
+Miguel Santos<br />
+RED ORANGE: International, Innovative, Inspiring<br />
+Email: <a href="mailto:info@redorange.org.uk">info@redorange.org.uk</a><br />
+Web: <a href="http://www.redorange.org.uk" rel="nofollow">www.redorange.org.uk</a> | <a href="http://www.myspace.com/redorangeuk" rel="nofollow">www.myspace.com/redorangeuk</a><br />
+Skype: aredorange</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/27014273.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/27014273.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/27014273.jpg</image>
+   <attendance>10</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=962136</tag>    
+  <url>http://www.last.fm/event/962136</url>
+</event>    <event status="2">
+  <id>1011425</id>
+  <title>Grey Daturas</title>
+
+  <artists>
+    <artist>Grey Daturas</artist>
+    <artist>helhesten</artist>
+    <artist>Timothy C. Holehouse</artist>
+    <headliner>Grey Daturas</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Sun, 19 Apr 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">GREY DATURAS<br />
+<br />
+ <br />
+<br />
+Melbourne Australia's Grey Daturas are an improvising, instrumental trio with no songs or melodies; they don't rehearse; yet they maintain a touring ethos to match that of early hardcore pioneers.Drawing sonic influence from a vast ocean of musical styles including free jazz, the avant garde, psychedelic rock, punk, metal, industrial and noise, Grey Daturas have developed a blend of harsh and dark psychedelia unmistakably their own.From their more nihilistic, sheer noise based beginnings improvising sound tracks to silent horror classics and sixties physics animations, Grey Daturas have over the course of the last 6 ½ years morphed into a surreal auditory nightmare, blending dark pulsating drones, slow low-end sludge riffs, crushing percussion, and walls of ear torturing noise.<br />
+<br />
+<a href="http://www.myspace.com/greydaturas" rel="nofollow">http://www.myspace.com/greydaturas</a><br />
+<br />
+<a href="http://www.milesofsmiles.co.uk" rel="nofollow">www.milesofsmiles.co.uk</a><br />
+<br />
+<a href="http://www.myspace.com/milesofsmileslondon" rel="nofollow">www.myspace.com/milesofsmileslondon</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/132085.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/132085.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/132085.jpg</image>
+   <attendance>5</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1011425</tag>    
+  <url>http://www.last.fm/event/1011425</url>
+</event>    <event status="2">
+  <id>1022268</id>
+  <title>CAROLINE WEEKS / JAMES BLACKSHAW / BIRDENGINE / LUCIE WREN / QUINTA</title>
+
+  <artists>
+    <artist>Caroline Weeks</artist>
+    <artist>James Blackshaw</artist>
+    <artist>Birdengine</artist>
+    <artist>Quinta</artist>
+    <artist>Lucie Wren</artist>
+    <headliner>Caroline Weeks</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Sat, 18 Apr 2009 19:30:00</startDate>
+  <description><![CDATA[<div class="bbcode">Times : 7:30pm<br />
+Tickets : £5 (Tickets on the door only)<br />
+ <br />
+CAROLINE WEEKS ALBUM LAUNCH<br />
+<a href="http://ws.audioscrobbler.com/music/Caroline+Weeks" class="bbcode_artist">Caroline Weeks</a>: minimal poetic avant-folk from Bat For Lashes collaborator.<br />
+<br />
+<a href="http://ws.audioscrobbler.com/music/James+Blackshaw" class="bbcode_artist">James Blackshaw</a>: 12-stringfinger-picking mantras, reminiscent of John Fahey.<br />
+<br />
+<a href="http://ws.audioscrobbler.com/music/Birdengine" class="bbcode_artist">Birdengine</a>: Sad, strange, dark tales with a nylon guitar and a unique voice.<br />
+<br />
+<br />
+<a href="http://ws.audioscrobbler.com/music/Lucie+Wren" class="bbcode_artist">Lucie Wren</a>: part of folkies 'men-an-tol' and possessing a beautiful voice, wren is playful, cascading, haunting folk.<br />
+<br />
+Musical pictures with <a href="http://ws.audioscrobbler.com/music/Quinta" class="bbcode_artist">Quinta</a>: strings and rain, music boxes and voices.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/24342335.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/24342335.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/24342335.jpg</image>
+   <attendance>4</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1022268</tag>    
+  <url>http://www.last.fm/event/1022268</url>
+</event>    <event status="2">
+  <id>1022248</id>
+  <title>AKIO SUZUKI</title>
+
+  <artists>
+    <artist>Akio Suzuki</artist>
+    <headliner>Akio Suzuki</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Thu, 16 Apr 2009 15:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Times : 3pm (performance starts 3:30PM)<br />
+Tickets : £4 (tickets on the door only)<br />
+ <br />
+Japanese musician / inventor / instrument builder / visionary and shaman Akio Suzuki will be demonstrating his sound producing tools including his echo instrument Analapos-70, an assortment of stones and replicas of prehistoric flutes.<br />
+ <br />
+Akio’s new limited edition DVD and book &quot;ki-date&quot; will be available for sale.<br />
+ <br />
+“I think of Akio Suzuki as a kind of<br />
+magician” David Toop<br />
+ <br />
+“Hearing this music, I remember many things, including playing in a puddle as a tiny kid” Yamatsuka Eye: Boredoms<br />
+ <br />
+LINKS:<br />
+<a href="http://www.akiosuzuki.com/" rel="nofollow">http://www.akiosuzuki.com/</a><br />
+<a href="http://www.last.fm/music/Akio+Suzuki">www.last.fm/music/Akio+Suzuki</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/22941167.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/22941167.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/22941167.jpg</image>
+   <attendance>1</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1022248</tag>    
+  <url>http://www.last.fm/event/1022248</url>
+</event>    <event status="2">
+  <id>1022244</id>
+  <title>JOHN BUTCHER / STEVE BERESFORD + TETRAS</title>
+
+  <artists>
+    <artist>John Butcher</artist>
+    <artist>Steve Beresford</artist>
+    <artist>Tetras</artist>
+    <headliner>John Butcher</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Wed, 15 Apr 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Times : 8pm<br />
+Tickets : £6 (Tickets on the door only)<br />
+ <br />
+<a href="http://ws.audioscrobbler.com/music/John+Butcher" class="bbcode_artist">John Butcher</a>, saxophones<br />
+<a href="http://ws.audioscrobbler.com/music/Steve+Beresford" class="bbcode_artist">Steve Beresford</a>, electronics<br />
+ <br />
+<a href="http://ws.audioscrobbler.com/music/Tetras" class="bbcode_artist">Tetras</a>:<br />
+Thanos Chrysakis: laptop/piano,<br />
+Jerry Wigens: Clarinet,<br />
+Oli Mayne: vibraphone/synth,<br />
+James O'Sullivan: guitar</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/4215732.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/4215732.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/4215732.jpg</image>
+   <attendance>0</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1022244</tag>    
+  <url>http://www.last.fm/event/1022244</url>
+</event>    <event status="2">
+  <id>1022180</id>
+  <title>Daichi Yoshikawa + others</title>
+
+  <artists>
+    <artist>Grundik Kasyansky</artist>
+    <artist>Seymour Wright</artist>
+    <artist>Paul Abbott</artist>
+    <artist>Sebastian Lexer</artist>
+    <artist>Guillaume Viltard</artist>
+    <artist>Daichi Yoshikawa</artist>
+    <artist>Jamie Coleman</artist>
+    <artist>UTE KANNGEISSER</artist>
+    <headliner>Grundik Kasyansky</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Tue, 14 Apr 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Times : 8pm<br />
+Tickets : £6 / £4 concs (Tickets on the door only)<br />
+ <br />
+A night of experimentation created by young London based improvisers.<br />
+ <br />
+<a href="http://ws.audioscrobbler.com/music/Grundik+Kasyansky" class="bbcode_artist">Grundik Kasyansky</a> (electronics): works in collaboration<br />
+(improvisation, live installation) and solo (composition, improvisation, installation). He also designs sound for dance, theatre and film. He formed Grundik+Slava together with Slava Smelovsky in Israel in 1995. The duo quickly emerged as the key project in the Israeli experimental and electronic scene. For the last ten years he collaborated with lots of musicians, dancers, filmmakers and artists. He was born in Moscow in 1974, moved to Israel in 1991, moved to New York in 2001, moved to London in 2007<br />
+ <br />
+ <br />
+<a href="http://ws.audioscrobbler.com/music/Seymour+Wright" class="bbcode_artist">Seymour Wright</a> (b.1976) is a saxophone player who plays saxophone music about the saxophone - music, history and technique actual and potential.<br />
+&quot; enquiry into saxophonic actuality, through the potential inherent in, for instance, imagination, re-proportion,<br />
+inversion, transformation, juxtaposition, construction, deconstruction, reconstruction, permutation, truncation<br />
+and extension &quot; (from ‘Acts of potential: learning future music' 2008)<br />
+ <br />
+<br />
+<a href="http://ws.audioscrobbler.com/music/Jamie+Coleman" class="bbcode_artist">Jamie Coleman</a> is a trumpet player, an improviser, a teacher, a handy man, a cyclist, a runner, a firm friend<br />
+and just occasionally a man in a queue at the London Underground lost property office (brass instrument window).<br />
+ <br />
+ <br />
+<a href="http://ws.audioscrobbler.com/music/Guillaume+Viltard" class="bbcode_artist">Guillaume Viltard</a> (Double base) : Born in 1975 in the North of Ivory Coast, Guillaume Viltard has grown up in a wild countryside with almost no music. He was dreaming about bass playing but started studying philosophy<br />
+… and stopped. After classical studies, he started playing with musicians of the french improv’ scene, as well as with poets and dancers. He moved in London in 2007, and since, has been playing with many improvisers. <a href="http://utofmu.free.fr/" rel="nofollow">http://utofmu.free.fr/</a><br />
+ <br />
+ <br />
+<a href="http://ws.audioscrobbler.com/music/UTE+KANNGEISSER" class="bbcode_artist">UTE KANNGEISSER</a> (Cello) is a London based cellist with main focus on improvised and experimental<br />
+music. Classically trained as a child and not playing at all for a few years she came back to music and improvisation while training in physical theatre and dance in Berlin. Since then she has been involved with a number of<br />
+collaborations with dancers, film makers and improvising musicians. She is currently playing with the London Improvisers Orchestra, Guillaume Viltard, Grundik Kasyansky, Jamie Coleman, Dale Berning, and Laura Hyland. And she is a regular player at Eddie Prévost's improvisation workshop.<br />
+ <br />
+ <br />
+<a href="http://ws.audioscrobbler.com/music/Daichi+Yoshikawa" class="bbcode_artist">Daichi Yoshikawa</a> is a young Japanese improviser. Daichi plays electronics and a regular player at Eddie Prévost's improvisation workshop.<br />
+ <br />
+<a href="http://ws.audioscrobbler.com/music/Paul+Abbott" class="bbcode_artist">Paul Abbott</a> is an artist and improviser who plays diverted and invented devices and metals. Paul also plays at Eddie 's workshop regulary.</div>]]></description>
+  <image size="small"/>
+  <image size="medium"/>
+  <image size="large"/>
+   <attendance>1</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1022180</tag>    
+  <url>http://www.last.fm/event/1022180</url>
+</event>    <event status="2">
+  <id>1022159</id>
+  <title>UJINO MUNETERU</title>
+
+  <artists>
+    <artist>UJINO MUNETERU</artist>
+    <headliner>UJINO MUNETERU</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Mon, 13 Apr 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Times : 8pm<br />
+Tickets : £5<br />
+ <br />
+<a href="http://ws.audioscrobbler.com/music/UJINO+MUNETERU" class="bbcode_artist">UJINO MUNETERU</a><br />
+ <br />
+Japanese artists and musician Ujino Muneteru who is currently in London for his show at the Hayward Gallery will be bringing his sound sculptures to life in a special one off performance.<br />
+ <br />
+Ujino creates sculptures and instruments out of “ a homogeneous mish-mash of materials that are around everywhere and accessible to everyone - electric sockets, junk, used vinyl discs, actuators - endlessly rotating, shedding all pretence of meaning, wildly and noisily gyrating: a brilliant, 21st-Century direct descendant of Futurism, Dada, Pop-Art, and Noise-Industrial!” - Noi Sawaragi<br />
+ <br />
+LINKS:<br />
+<a href="http://the-rotators.com/" rel="nofollow">http://the-rotators.com/</a><br />
+<a href="http://pingmag.jp/2008/03/10/muneteru-ujino/" rel="nofollow">http://pingmag.jp/2008/03/10/muneteru-ujino/</a><br />
+<a href="http://www.we-make-money-not-art.com/archives/2007/10/intro-image-1-h.php" rel="nofollow">http://www.we-make-money-not-art.com/archives/2007/10/intro-image-1-h.php</a><br />
+<br />
+<a href="http://www.straight.com/article-107559/a-new-spin-on-sonic-art" rel="nofollow">http://www.straight.com/article-107559/a-new-spin-on-sonic-art</a><br />
+<a href="http://www.southbankcentre.co.uk/calendar/productions/ujino-and-the-rotators-79f" rel="nofollow">http://www.southbankcentre.co.uk/calendar/productions/ujino-and-the-rotators-79f</a></div>]]></description>
+  <image size="small"/>
+  <image size="medium"/>
+  <image size="large"/>
+   <attendance>3</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1022159</tag>    
+  <url>http://www.last.fm/event/1022159</url>
+</event>    <event status="2">
+  <id>1022151</id>
+  <title>TREMBLING BELLS + BENJAMIN WETHERILL &amp; THE TRUMPETS OF DEATH</title>
+
+  <artists>
+    <artist>trembling bells</artist>
+    <artist>Benjamin Wetherill &amp; The Trumpets of Death</artist>
+    <headliner>trembling bells</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Sun, 12 Apr 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Times : 8pm<br />
+Tickets : £6<br />
+ <br />
+A great return for Alex Neilsons Trembling Bells, along with Ben Wetherill's haunting psychedelic folk. <a href="http://ws.audioscrobbler.com/music/trembling+bells" class="bbcode_artist">trembling bells</a>: Since serving apprenticeships with some uniquely talented songwriters (Bonnie Prince Billy, Jandek, Baby Dee, Alasdair Roberts, Red Krayola, Richard Youngs, Josephine Foster, Current 93, 6 Organs Of Admittance et al) Alex Neilson has formed a new song based group who seek to reanimate the psychic landscapes of Great Britain and relocate them to some vague, mythic land. The Trembling Bells will perform as a four piece with Alex Neilson, Lavinia Blackwall, Ben Reynolds and Simon Shaw.<br />
+ <br />
+<a href="http://www.myspace.com/tremblingbells" rel="nofollow">http://www.myspace.com/tremblingbells</a><br />
+<br />
+<br />
+<a href="http://ws.audioscrobbler.com/music/Benjamin%2BWetherill%2B%2526%2BThe%2BTrumpets%2Bof%2BDeath" class="bbcode_artist">Benjamin Wetherill &amp; The Trumpets of Death</a>: Wetherill’s debut album ‘Laura’, a record of ‘Intricate arrangements…gentle, unnerving stabs of magical, traditional folk’ (Plan B), produced by Jeremy Barnes of Neutral Milk Hotel and A Hawk &amp; A Hacksaw, was released last summer to critical acclaim. This new collaborative project sees him enter more experimental musical orifices. Hot, free sax grinds against darkly sexual synth-keys, spidery electric guitar and throbbing jazz percussion.<br />
+ <br />
+<a href="http://www.myspace.com/benjaminwetherill" rel="nofollow">http://www.myspace.com/benjaminwetherill</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/23361653.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/23361653.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/23361653.jpg</image>
+   <attendance>0</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1022151</tag>    
+  <url>http://www.last.fm/event/1022151</url>
+</event>    <event status="2">
+  <id>941885</id>
+  <title>Leverton Fox album launch party.</title>
+
+  <artists>
+    <artist>Leverton Fox</artist>
+    <artist>Rocket No.9</artist>
+    <artist>Charles Hayward Band</artist>
+    <headliner>Leverton Fox</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Fri, 10 Apr 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">To celebrate the release of their debut album 'Country Dances' on Gravid Hands, Leverton fox will be playing alongside ex This Heat drummer Charles Hayward and drone rock improv duo Rocket no.9.</div>]]></description>
+  <image size="small"/>
+  <image size="medium"/>
+  <image size="large"/>
+   <attendance>2</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=941885</tag>    
+  <url>http://www.last.fm/event/941885</url>
+</event>    <event status="2">
+  <id>1008006</id>
+  <title>Adam Bohman</title>
+
+  <artists>
+    <artist>Adam Bohman</artist>
+    <artist>Richard Sanderson</artist>
+    <artist>Steve Beresford</artist>
+    <artist>Paul Hood</artist>
+    <artist>Martin Hackett</artist>
+    <headliner>Adam Bohman</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Tue, 07 Apr 2009 05:41:01</startDate>
+  <description><![CDATA[<div class="bbcode">Tickets : £5 / £3 concs (tickets on the door only)<br />
+ <br />
+A night of live music programmed by Adam Bohman bringing together four players working with electronics, found objects, turntables and synthesisers. The evening will be split into solos, duos, trios and a quartet.<br />
+<br />
+ <br />
+<a href="http://ws.audioscrobbler.com/music/Paul+Hood" class="bbcode_artist">Paul Hood</a> – turntables, objects, electronics<br />
+<a href="http://ws.audioscrobbler.com/music/Martin+Hackett" class="bbcode_artist">Martin Hackett</a> – synthesiser and electronics<br />
+<a href="http://ws.audioscrobbler.com/music/Richard+Sanderson" class="bbcode_artist">Richard Sanderson</a> – small instruments and electronics<br />
+<a href="http://ws.audioscrobbler.com/music/Adam+Bohman" class="bbcode_artist">Adam Bohman</a> – Prepared strings, objects and wine glasses<br />
+<a href="http://ws.audioscrobbler.com/music/Steve+Beresford" class="bbcode_artist">Steve Beresford</a> - Keyboards, toys, electronics<br />
+ <br />
+<strong>Adam Bohman</strong><br />
+ <br />
+“As a free improviser Adam Bohman has pretty much everything required for the job. He weilds an armoury of soundmaking devices - a disassembled violin, springs, lightbulbs, a barbecue grill, a wire record rack, a wooden box with wires stretched across - and creates a post-serial slipstream of variegated events, where more detail is pressed into a split second than ought to be allowed.” - The WIRE<br />
+ <br />
+<strong>Steve Beresford</strong><br />
+ <br />
+Steve Beresford has played and composed a wide range of music on both pianos and electronics, from free improvisation to more commercial styles. Moving to London in 1974, he played in Derek Bailey’s Company, in the group Alterations with David Toop, Terry Day and Peter Cusack and in The Three Pullovers with Nigel Coombes and Roger Smith. Beresford has continued to play free improvisation with a large number of prominent musicians, including Evan Parker, Lol Coxhill, John Zorn and Han Bennink. He has collaborated with Christian Marclay in various ways for many years, and he has a new CD on Emanem – Check For Monsters – with Peter Evans and Okkyung Lee.<br />
+ <br />
+<strong>Richard Sanderson</strong><br />
+ <br />
+Time Out has called him &quot;A Toy Rattling Maniac&quot; and an &quot;Electronic Guru&quot;<br />
+Dan Warburton in the Paris Review said he &quot;flirts deliciously with the fringes of soft techno” <br />
+Everett True he &quot;played some very sweet and haunting laptop electronica, hidden among the rafters&quot; and &quot;deserved more attention for sure&quot;</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/90067.gif</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/90067.gif</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/90067.gif</image>
+   <attendance>2</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1008006</tag>    
+  <url>http://www.last.fm/event/1008006</url>
+</event>    <event status="2">
+  <id>1008001</id>
+  <title>LEAFCUTTER JOHN / SEB ROCHFORD / THE MAGIC LANTERN</title>
+
+  <artists>
+    <artist>Leafcutter John</artist>
+    <artist>The Magic Lantern</artist>
+    <artist>Seb Rochford</artist>
+    <headliner>Leafcutter John</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Mon, 06 Apr 2009 05:29:01</startDate>
+  <description><![CDATA[<div class="bbcode">Tickets : £6 (Tickets on the door only)<br />
+ <br />
+<strong>A Night of Songs</strong><br />
+<br />
+Presenting the vocal skills and beautiful song writing from three very special musicians:<br />
+ <br />
+<strong>Leafcutter John</strong> solo song set of new material;<br />
+<br />
+<strong>Seb Rochford</strong> with his band <strong>Room of Katinas</strong> (featuring Mandy Drummond, Viola/vocals/bass and Joe Bentley, drums);<br />
+<br />
+and <strong>Jamie Doe</strong>, with his five piece acoustic band making <strong>The Magic Lantern</strong> (Fred Thomas, Percussion/Phil Stevenson, Guitar/Dave Shulman, Bass Clarinet/Lucy Railton,Cello). <br />
+<br />
+<br />
+<strong>LEAFCUTTER JOHN</strong><br />
+<br />
+Leafcutter John is best known for combining ear-warping experimental electronic sound with sweetly melodic and sometimes mean malevolent folk. Leafcutter is also a member of Mercury Prize nominated band Polar Bear, a Jazz band like no other.<br />
+<br />
+At the moment John is working on his 5th studio album as well as commissions from the BBC, and Fuse 09 Festival. In the next few months he will be touring the UK with Polar Bear / Dirty Projectors. And traveling to the Swedish forest to record an album for the box project (RuneGrammofon).<br />
+<br />
+<br />
+<strong>SEB ROCHFORD</strong><br />
+<br />
+Although best known for his contribution as a drummer and band leader , tonight Seb will be singing and playing guitar with his band Room of Katinas, joined by Mandy Drummond on Viola, Vocals and Bass, and Joe Bentley on drums. Beautiful, intimate songs written in the room of Ruta katinas in Hoboken, New York.<br />
+<br />
+Seb's success ranges from studio work with musicians such as Patti Smith, Brian Eno, Herbie Hancock and Squarepusher to writing and producing for/with theremin player Pamelia Kurstin and gyspy/punk band Deathray Trebuchey, to performances with Yoko Ono, Sean Lennon, Marc Ribot and Stan Tracey.<br />
+<br />
+He won the 2004 BBC Jazz Award for Rising Star, 2005 BBC Best Band Award with Acoustic Ladyland, and with his band Polar Bear nominated for the Mercury Prize.<br />
+<br />
+LINKS<br />
+<a href="http://www.polarbearmusic.com/" rel="nofollow">http://www.polarbearmusic.com/</a><br />
+<a href="http://www.soundjunction.org/allaboutsebrochford.aspa?NodeID=1" rel="nofollow">http://www.soundjunction.org/allaboutsebrochford.aspa?NodeID=1</a> <br />
+<br />
+<br />
+<strong>THE MAGIC LANTERN</strong><br />
+<br />
+Formed above a north London post office in October 2006, The Magic Lantern is the wonderful world of music and words distilled in the songs of Jamie Doe. <br />
+<br />
+With an immediately arresting sound courtesy chiefly ofJamie's wholehearted head-back-and-emote singing, but also of the telling range of textures available from the various combinations of instruments in the band, The Magic Lantern shine a lighton the fertile hinterland between jazz and folk. Starting with Jamie's voice and the lyrics it carriesbutswiftlyleading to raucous bass clarinet woofs, delicate cello plucks, swooping guitar slides and crashing percussion slaps, The Magic Lantern never fail to wring raw emotion from the strangest places. <br />
+<br />
+Having released their debut EP, Patriots, in July 2008described variously as 'some of the loveliest music I have heard this year' by the Stool Pigeon and 'pretty special' by BBC 6 Music, 2009 promisesThe Magic Lantern's debut album, high profile London shows and number of festival dates.<br />
+<br />
+<a href="http://www.myspace.com/themagiclantern" rel="nofollow">http://www.myspace.com/themagiclantern</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/166628.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/166628.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/166628.jpg</image>
+   <attendance>7</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1008001</tag>    
+  <url>http://www.last.fm/event/1008001</url>
+</event>    <event status="2">
+  <id>1005242</id>
+  <title>Victor Herrero</title>
+
+  <artists>
+    <artist>Victor Herrero</artist>
+    <artist>The Balky Mule</artist>
+    <artist>George Thomas And The Owls</artist>
+    <artist>Kalbakken</artist>
+    <headliner>Victor Herrero</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Fri, 03 Apr 2009 14:02:01</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/23763125.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/23763125.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/23763125.jpg</image>
+   <attendance>2</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1005242</tag>    
+  <url>http://www.last.fm/event/1005242</url>
+</event>    <event status="2">
+  <id>986650</id>
+  <title>Lash/May/Russell+Otto Fischer+Bell/Day/Kanngiesser</title>
+
+  <artists>
+    <artist>Dominic Lash</artist>
+    <artist>Clive Bell</artist>
+    <artist>Terry Day</artist>
+    <artist>John Russell</artist>
+    <artist>paul may</artist>
+    <artist>Otto Fischer</artist>
+    <artist>Ute Kanngiesser</artist>
+    <headliner>Dominic Lash</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Thu, 02 Apr 2009 15:34:01</startDate>
+  <description><![CDATA[<div class="bbcode">Two improvising trios (the established bass &amp; drums pairing of Dominic Lash and Paul May with improvising guitar hero John Russell; and hugely experienced mulit-instrumentalists Clive Bell &amp; Terry Day with emerging cellist Ute Kanngiesser) perform live for the very first time. Plus the remarkable and mesmeric songs of Otto Fischer.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/17391055.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/17391055.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/17391055.jpg</image>
+   <attendance>2</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=986650</tag>    
+  <url>http://www.last.fm/event/986650</url>
+</event>    <event status="2">
+  <id>1007990</id>
+  <title>SETH CLUETT / BENEDICT DREW / LEE PATTERSON + RHODRI DAVIES + Special Guests</title>
+
+  <artists>
+    <artist>Seth Cluett</artist>
+    <artist>Lee Patterson</artist>
+    <artist>Rhodri Davies</artist>
+    <artist>Benedict Drew</artist>
+    <artist>Tom Mudd</artist>
+    <artist>Jonathan McHugh</artist>
+    <artist>Dawn Scarfe</artist>
+    <artist>Mel Gough</artist>
+    <artist>Jane Dickson</artist>
+    <headliner>Seth Cluett</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Wed, 01 Apr 2009 05:08:01</startDate>
+  <description><![CDATA[<div class="bbcode">Tickets: £7<br />
+<br />
+Organized by <strong>LOUDSPKR</strong> with support from <strong>Sonic Arts Network</strong><br />
+<a href="http://loudspkr.org" rel="nofollow">http://loudspkr.org</a><br />
+<br />
+Launching event in London, LOUDSPKR brings American sound artist <strong>Seth Cluett</strong> joined by <strong>Benedict Drew</strong> and <strong>Lee Patterson</strong> to fill the air (and their tables) with whirring gadgetry and homemade devices. Additionally, Welsh harpist <strong>Rhodri Davies</strong> will unearth gems from the battery of works he's commissioned to extend the possibilities and the repertoire of the solo harp. Artist and composer <strong>Dawn Scarfe</strong> will be joined by <strong>Mel Gough</strong> and a host of small loudspeakers which they will use to make objects sing. Lastly, the recently formed trio of <strong>Jane Dickson</strong>, <strong>Jonathan McHugh</strong>, and <strong>Tom Mudd</strong>, will merge together piano, electronics, and computer gadgets producing systems that are teetering on the brink of collapse... in which we are amplifying.<br />
+<br />
+<br />
+<strong>Seth Cluett</strong> (Troy, NY/USA lives in Paris, France) is an artist and composer whose work includes photography, drawing, video, installation, concert work, performance, and theoretical writing. His work focuses on the creative misuse and repurposing of technologies, acoustic phenomena, and perceptual attention. He has exhibited and presented at galleries, museums, festivals, and performance venues across North America, Europe, and Asia. His work is documented on Errant Bodies Press, Sedimental, Crank Satori, BoxMedia, Stasisfield, and Wavelet <br />
+Records.<br />
+<a href="http://www.onelonelypixel.org" rel="nofollow">http://www.onelonelypixel.org</a><br />
+<br />
+<strong>Benedict Drew</strong> is an Artist who works in performance, sound and video. Current projects include a collaboration with artist Emma Hart and the trio Portable with Rhodri Davies and Louisa Martin. Benedict has also worked with Otomo Yoshihide and Sachiko M and with various improvisers including Tom Chant [as duo Suscete] Angharad Davies, Lee Patterson, Steve Beresford, Seymour Wright, Rhodri Davies, Mark Wastell and Matt Davis. He has travelled widely performing. Benedict has also composed the soundtracks for five films by Emily Richardson. A CD of these soundtracks was released in September 2004. Radio work includes producing and presenting Instant Radio Meeting and the Kchunk Radio series Resonance FM.<br />
+<a href="http://www.benedictdrew.com" rel="nofollow">http://www.benedictdrew.com</a><br />
+<br />
+<strong>Lee Patterson</strong><br />
+Encompassing various forms, including improvised music, field recording, film soundtrack, sound installation and radio broadcast, Lee Pattersons' work is characterised by the revelation of subliminal or barely audible sounds. Utilising commonplace materials and invented methodologies, his practice aims toward a new understanding of his surroundings through altering perceptions of everyday reality. His unorthodox and idiosyncratic approaches to generating sound have led to collaborations with a host of international artists and experimental musicians.<br />
+<a href="http://www.myspace.com/therealleepatterson" rel="nofollow">http://www.myspace.com/therealleepatterson</a><br />
+<br />
+<strong>Rhodri Davies</strong><br />
+Davies works in the field of new, experimental and improvised music. He explores noise, live electronics, silence, texture and abstract sound. He has been based in London since 1995 and has performed in the US, Japan, Canada and Europe.<br />
+<a href="http://www.rhodridavies.com" rel="nofollow">http://www.rhodridavies.com</a><br />
+<br />
+<strong>Dawn Scarfe</strong> and <strong>Mel Gough</strong><br />
+Dawn’s work investigates the interplay between sound and space. She creates installations, compositions and performances which encourage audiences to consider details in the process of listening. Her most recent work explores how resonant sound imbues materials and environments with animate qualities. She has performed and exhibited her work throughout the UK and participated in festivals in Scandinavia and Asia. Mel Gough is an experimental composer and performer, with a special interest in ratio tuning systems and live electronics. She has performed her work in music venues, galleries and festivals in London and Europe.<br />
+<a href="http://www.dawnscarfe.co.uk" rel="nofollow">http://www.dawnscarfe.co.uk</a><br />
+<br />
+<strong>Jane Dickson</strong>, <strong>Jonathan McHugh</strong> and <strong>Tom Mudd</strong> is a semi-improvisational trio formed at the Electronic Music Studios at Goldsmiths' University of London in October 2008.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/27692195.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/27692195.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/27692195.jpg</image>
+   <attendance>1</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1007990</tag>    
+  <url>http://www.last.fm/event/1007990</url>
+</event>    <event status="2">
+  <id>905529</id>
+  <title>Kan Mikami</title>
+
+  <artists>
+    <artist>Kan Mikami</artist>
+    <headliner>Kan Mikami</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Tue, 31 Mar 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Kan Mikami returns to Café Oto for a two-night residency. This will be the third time Kan has played at Café Oto the first being his mind blowing three-day residency in September last year followed by a one night appearance in December. It’s hard to believe that prior to those performances Kan had never played in London.<br />
+<br />
+Kan has been a singular figure in the Japanese underground since the early seventies performing his unique Japanese Blues. As a live performer he is a completely mesmerizing presence.<br />
+<br />
+Press reviews of Kan’s past performances at Oto….<br />
+<br />
+“A fascinating and quite physical stage presence, he’s a curious mix of sweaty journeyman endeavour and flamboyant showmanship, switching easily from passionate, eyes-closed emoting to gurning leering invocations. His body tenses and uncoils in sympathy with the music, limbs curling and torso jerking laterally at irregular intervals, ducking away from and jolting back to the microphone... the magnetism of Mikami’s presence and the electricity of his performance amply convey the passion and emotion embedded in his songs, for all to see and hear.” - Nick Cain reviewing Kan’s past performance at Café Oto for The Wire.<br />
+<br />
+&quot;Head thrown back and jugular veins pushing through skin, Mikami prowls the stage like a wounded tiger. But then that’s when a beast is at its most dangerous. While his songs are rich with traditional influences – English folk, American blues, Portuguese fado and Japanese enka – his schizophrenic exorcisms – guttural caterwauls, froggy croaks and plaintive whispers – are in a world all of their own. The theatricality of his gestures betray his career as an actor (he appeared alongside David Bowie and Ryuichi Sakamoto in Merry Christmas Mr. Lawrence); his energy seemingly boundless (this was the final night of a three-day residency), a vigour drawn deep from within and poured out in tempestuous tumult. And as he roars, he swipes at his guitar, summoning a series of staccato stabs and half-played notes that decay back into the silence from whence they came. By turn bone-chilling, irritating and beautifully romantic, Mikami’s music tears down the barriers erected by language. It’s clear what this maestro is saying – you only have to look at his face.&quot; - Spencer Grady reviewing Kan’s past performance at Café Oto for the Record Collector magazine.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/391588.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/391588.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/391588.jpg</image>
+   <attendance>4</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=905529</tag>    
+  <url>http://www.last.fm/event/905529</url>
+</event>    <event status="2">
+  <id>903339</id>
+  <title>Kan Mikami</title>
+
+  <artists>
+    <artist>Kan Mikami</artist>
+    <headliner>Kan Mikami</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Mon, 30 Mar 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Kan Mikami returns to Café Oto for a two-night residency. This will be the third time Kan has played at Café Oto the first being his mind blowing three-day residency in September last year followed by a one night appearance in December. It’s hard to believe that prior to those performances Kan had never played in London.<br />
+<br />
+Kan has been a singular figure in the Japanese underground since the early seventies performing his unique Japanese Blues. As a live performer he is a completely mesmerizing presence.<br />
+<br />
+Press reviews of Kan’s past performances at Oto….<br />
+<br />
+“A fascinating and quite physical stage presence, he’s a curious mix of sweaty journeyman endeavour and flamboyant showmanship, switching easily from passionate, eyes-closed emoting to gurning leering invocations. His body tenses and uncoils in sympathy with the music, limbs curling and torso jerking laterally at irregular intervals, ducking away from and jolting back to the microphone... the magnetism of Mikami’s presence and the electricity of his performance amply convey the passion and emotion embedded in his songs, for all to see and hear.” - Nick Cain reviewing Kan’s past performance at Café Oto for The Wire.<br />
+<br />
+&quot;Head thrown back and jugular veins pushing through skin, Mikami prowls the stage like a wounded tiger. But then that’s when a beast is at its most dangerous. While his songs are rich with traditional influences – English folk, American blues, Portuguese fado and Japanese enka – his schizophrenic exorcisms – guttural caterwauls, froggy croaks and plaintive whispers – are in a world all of their own. The theatricality of his gestures betray his career as an actor (he appeared alongside David Bowie and Ryuichi Sakamoto in Merry Christmas Mr. Lawrence); his energy seemingly boundless (this was the final night of a three-day residency), a vigour drawn deep from within and poured out in tempestuous tumult. And as he roars, he swipes at his guitar, summoning a series of staccato stabs and half-played notes that decay back into the silence from whence they came. By turn bone-chilling, irritating and beautifully romantic, Mikami’s music tears down the barriers erected by language. It’s clear what this maestro is saying – you only have to look at his face.&quot; - Spencer Grady reviewing Kan’s past performance at Café Oto for the Record Collector magazine.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/391588.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/391588.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/391588.jpg</image>
+   <attendance>6</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=903339</tag>    
+  <url>http://www.last.fm/event/903339</url>
+</event>    <event status="2">
+  <id>992996</id>
+  <title>SOUND 323 RECORD SHOP LAUNCH CONCERT</title>
+
+  <artists>
+    <artist>For Barry Ray</artist>
+    <artist>Steve Beresford</artist>
+    <artist>John Wall</artist>
+    <artist>Max Eastley</artist>
+    <artist>Clive Bell</artist>
+    <artist>Tony Bevan</artist>
+    <artist>Mark Wastell</artist>
+    <artist>Patrick Farmer</artist>
+    <artist>Seymour Wright</artist>
+    <artist>Benedict Drew</artist>
+    <artist>Dominic Lash</artist>
+    <artist>Sarah Hughes</artist>
+    <artist>david papapostolou</artist>
+    <artist>Matt Milton</artist>
+    <artist>Samantha Robello</artist>
+    <headliner>For Barry Ray</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Sat, 28 Mar 2009 19:50:01</startDate>
+  <description><![CDATA[<div class="bbcode">Times : 1pm - 5pm<br />
+Tickets : FREE ENTRANCE<br />
+ <br />
+Performances by ;<br />
+ <br />
+For Barry Ray<br />
+<br />
+Sarah Hughes / Patrick Farmer / Dominic Lash / Matt Milton / Samantha Robello<br />
+<br />
+John Wall<br />
+<br />
+Ben Drew / Steve Beresford / Max Eastley<br />
+<br />
+Tony Bevan <br />
+<br />
+Clive Bell / Mark Wastell<br />
+<br />
+Dominic Lash / David Papapostolou / Seymour Wright</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/262120.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/262120.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/262120.jpg</image>
+   <attendance>8</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=992996</tag>    
+  <url>http://www.last.fm/event/992996</url>
+</event>    <event status="2">
+  <id>982538</id>
+  <title>Hulk Dash 8</title>
+
+  <artists>
+    <artist>Colin Webster</artist>
+    <artist>Pnak</artist>
+    <artist>Bradford Bahamas</artist>
+    <artist>pimeä</artist>
+    <artist>F(ave) M(uslim)</artist>
+    <artist>Shogun Dismay</artist>
+    <headliner>Colin Webster</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Sat, 28 Mar 2009 13:17:01</startDate>
+  <description><![CDATA[<div class="bbcode">HULK DASH is a monthly live electronics/noise/pop/dance/thrash music night in north east london, featuring all the bands you've always wanted to hear at a night but couldn't quite find the words to describe. This night offers a platform for DIYers, Noisetions and general mash-up artists Each month we also produce a promo track, a limited batch of hulk dash shirts, and a few dozen Hulk Dash CDs with all the music featured that month.<br />
+<br />
+Hulk Dash 8 Features;<br />
+<br />
+Colin Webster (Terrordactyl)<br />
+<a href="http://www.myspace.com/colinwebstermusic" rel="nofollow">http://www.myspace.com/colinwebstermusic</a><br />
+<br />
+Grindcore-free-jazz anyone? Spazzy saxaphone loops n improv, and hard drum excursions from Jazz-man Colin Webster and drummer for Agaskodo Teliverek/Gum takes tooth/Infants. This is not to be missed, should be utterly mad and fun and sexy in equal measure!<br />
+<br />
+PNAK<br />
+<a href="http://www.myspace.com/pnakmusic" rel="nofollow">http://www.myspace.com/pnakmusic</a><br />
+<br />
+PNAK emerged all the way back at the dawn of the new century from the disintegration of a larger ensemble. A rare opportunity to catch some ultra weirdcore noise delinquency from infamous these South London scene-sters, often seen fraternizing with the likes of our Flesh Dunce compadres. This couple of mad-hatters should soil the panties of any girl you happen to bring along.<br />
+<br />
+Bradford Bahamas<br />
+<a href="http://www.myspace.com/bradfordbahamas2" rel="nofollow">http://www.myspace.com/bradfordbahamas2</a><br />
+<br />
+A collective of guerilla veterans and circuit bending obsessives, last seen making degraded vinyl bootlegs within the bowels of ‘The Foundry’. Bradford Bahamas use immersive, interactive analogue audio/visual installations that evolve, adapt and grow as others interact with them. Pure electrical current and frequency is channeled to an array of cathode ray screens. The T.V’s emit the signal and when touched, analogue Sonics are produced as the body becomes a conductor.<br />
+<br />
+F(ave)M(uslim)<br />
+<a href="http://www.myspace.com/gtyourfavouritemuslimlt" rel="nofollow">http://www.myspace.com/gtyourfavouritemuslimlt</a><br />
+<br />
+Out there electronics, joke-dance fillers and layers of sample weirdness constitute some of the lunacy projected from this man’s musical creations. Having worked and played with the Liverpudlian ‘Class A audio’ collective, Stig Noise Soundsystem, Doddodo, Dj Scotch Egg, Action Beat, Gay Against you, amongst others. This is a rare performance in London for what we think could be a serious ‘up and coming’ for the unserious/serious lovers of electronics mash up.<br />
+<br />
+Shogun Dismay<br />
+<a href="http://www.myspace.com/wizardpuke" rel="nofollow">http://www.myspace.com/wizardpuke</a><br />
+<br />
+Part of the Sumocloud collective, for this band every song is different. That’s what we believe because each one is weird enough for us. Expect lo-fi emo weirdness, distorted everything and much more.<br />
+<br />
+Pimeä<br />
+<a href="http://www.myspace.com/mvggmvgg" rel="nofollow">http://www.myspace.com/mvggmvgg</a><br />
+<br />
+Hailing from Italy and Finland respectively, this duo will warm your cockles for the coming Spring with some full on drone electronics, glitch and noisey space music. Both studying at LCC, what better way to check out whats happening at that famous experimental electronic course down south than these fellas out at Dalston’s most happening venue.<br />
+<br />
+----------------------------------------------------------------------<br />
+Free limited T-shirts and CD's for early comers<br />
+<br />
+<a href="http://www.myspace.com/hulkdash" rel="nofollow">http://www.myspace.com/hulkdash</a><br />
+<br />
+Cafe OTO<br />
+18 - 22 Ashwin street<br />
+Dalston<br />
+London<br />
+E8 3DL <br />
+<br />
+28 March 2009<br />
+<br />
+Starts 8PM<br />
+<br />
+£2 Entry<br />
+<br />
+---------------------------------------------------------------------</div>]]></description>
+  <image size="small"/>
+  <image size="medium"/>
+  <image size="large"/>
+   <attendance>2</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=982538</tag>    
+  <url>http://www.last.fm/event/982538</url>
+</event>    <event status="2">
+  <id>959190</id>
+  <title>Sprawl presents at Cafe Oto...</title>
+
+  <artists>
+    <artist>Philippe Petit</artist>
+    <artist>AGF</artist>
+    <artist>Simon Fisher Turner</artist>
+    <artist>Iris Garrelfs &amp; Douglas Benford</artist>
+    <headliner>Philippe Petit</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Wed, 25 Mar 2009 19:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Tickets : £6 <br />
+<br />
+Experimental audio event organisers Sprawl showcase another evening of diverse acts, including a celebration of 10 years of french label Bip Hop at Dalston's Cafe Oto, with the label's founder Philippe Petit. [This coincides with a free CD, given away with the March issue of the Wire magazine, of Philippe's collaborations with a wide range artists.]<br />
+<br />
+The following acts will be performing:<br />
+<br />
+<strong>PHILIPPE PETIT</strong><br />
+Based in Marseille, France, where he started Djing on radio shows and editing and writing for zines in the 80s, and into the 90s, In 1991, he started Kinetic Vibes Music, a Garage Punk zine and label, and then in 1993 founded the experimental label Pandemonium Rdz, working with the likes of Guapo, Melt Banana, and Spaceheads. Petit's BiP_HOp label was born in 2000, releasing music by Scanner, Angel, Si-cut.db, Iris Garrelfs, Rothko, Bela Emerson, Spaceheads, Twine, David Toop and Janek Schaefer amongst others. DJing internationally as Dj/ip@bip-hop.com, Petit recently started the live collaboration project Strings Of Consciousness, which has already released two albums.<br />
+<a href="http://www.pandemoniumrecords.com" rel="nofollow">http://www.pandemoniumrecords.com</a><br />
+<a href="http://www.myspace.com/stringsofconsciousness" rel="nofollow">http://www.myspace.com/stringsofconsciousness</a><br />
+<a href="http://bip-hop.com/" rel="nofollow">http://bip-hop.com/</a><br />
+<br />
+<strong>AGF [aka Antye Greie]</strong><br />
+AGF is an East German singer and digital songwriter, producer, performer, e-poet, calligrapher, and digital media artist. Her projects include installations, the German electronic duo LAUB, The Lappetites, AGF/ DELAY (with Vladislav Delay), THE DOLLS (Vladislav Delay and Craig Armstrong) and Zavoloka/AG, collaborations with Craig Armstrong, Ellen Allien, Gudrun Gut, Eliane Radigue, Kaffe Matthews. In 2004 she won an Award of Distinction at the 2004 Ars Electronica festival, and in 2006 she was on the cover of the Wire magazine UK. AGF lives and works in Berlin and Hailuoto/ Finland.<br />
+<a href="http://www.poemproducer.com/" rel="nofollow">http://www.poemproducer.com/</a><br />
+<br />
+<br />
+<strong>SIMON FISHER TURNER</strong><br />
+Simon Turner, is a musician, songwriter, composer and actor. After dabbling with pop stardom in the early 70s, Simon has become an internationally renown film soundtrack composer - writing music for several of Derek Jarman films such as Blue &amp; Carravagio, and also recent films such as Lava, I'll Sleep When I'm Dead, William Eggleston in the Real World, Nadja and Un Chant D'amour. Simon is now also known as an established avant garde figure, with albums on the Mute label.<br />
+<a href="http://www.simonfisherturner.com" rel="nofollow">http://www.simonfisherturner.com</a><br />
+<a href="http://en.wikipedia.org/wiki/Simon_Fisher_Turner" rel="nofollow">http://en.wikipedia.org/wiki/Simon_Fisher_Turner</a><br />
+<a href="http://www.myspace.com/simonfisherturner" rel="nofollow">http://www.myspace.com/simonfisherturner</a><br />
+<br />
+<br />
+<strong>IRIS GARRELFS and DOUGLAS BENFORD</strong><br />
+Iris Garrelfs is best known for her emotive, improvised glitch-tech performances based around electronically manipulated and digitally warped voice sounds as well as site specific, multi-channel installations. The central theme of her work is the tension of the human and technology. Her album Specified Encounters was released on BipHop. International performaces and residences, including London's Royal Academy. She also on the board of the Sonic Arts Network, runs workshops and has hosted radio shows on Resonance FM. Douglas Benford aka SI-CUT.DB, has collaborated with Stephan Mathieu, Rechenzentrum, and Ben Edwards [as 'Tennis'] amongst others, with music available on labels Bip Hop, Highpoint Lowlife, and 12x50. Benford has performed at festivals internationally (Mutek, Transmediale, Synch etc) and also venues such as Tate Modern and the ICA.<br />
+<a href="http://myspace.com/irisgarrelfs" rel="nofollow">http://myspace.com/irisgarrelfs</a><br />
+<a href="http://.www.irisgarrelfs.com" rel="nofollow">http://.www.irisgarrelfs.com</a><br />
+<a href="http://en.wikipedia.org/wiki/Douglas_Benford" rel="nofollow">http://en.wikipedia.org/wiki/Douglas_Benford</a><br />
+<a href="http://blog.myspace.com/sicutdb" rel="nofollow">http://blog.myspace.com/sicutdb</a><br />
+<br />
+tickets now at <br />
+<a href="http://wegottickets.com/event/44796" rel="nofollow">http://wegottickets.com/event/44796</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/7359411.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/7359411.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/7359411.jpg</image>
+   <attendance>10</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=959190</tag>    
+  <url>http://www.last.fm/event/959190</url>
+</event>    <event status="2">
+  <id>957348</id>
+  <title>Cath &amp; Phil Tyler</title>
+
+  <artists>
+    <artist>Cath &amp; Phil Tyler</artist>
+    <artist>C. Joynes</artist>
+    <headliner>Cath &amp; Phil Tyler</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Fri, 20 Mar 2009 20:00:00</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/25027549.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/25027549.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/25027549.jpg</image>
+   <attendance>2</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=957348</tag>    
+  <url>http://www.last.fm/event/957348</url>
+</event>    <event status="2">
+  <id>935329</id>
+  <title>London Word Festival - FILM SCREENING</title>
+
+  <artists>
+    <artist>CocoRosie</artist>
+    <artist>Devendra Banhart</artist>
+    <artist>Low</artist>
+    <artist>Vashti Bunyan</artist>
+    <artist>Antony Hegarty</artist>
+    <artist>David Kleijwegt</artist>
+    <headliner>CocoRosie</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Tue, 17 Mar 2009 19:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">+ Q&amp;A with director David Kleijwegt + DJs<br />
+<br />
+A look at documentary filmmaking and alternative music through the UK première of two films by Dutch director David Kleijwegt. <br />
+<br />
+The Eternal Children (2006) investigates a group of musicians - prototypical exponents of the Freakfolk movement - including Devandra Banhart, Anthony &amp; the Johnsons, Vashti Bunyan and CocoRosie. Kleijwegt paints a touching portrait of artists who share and passionately extol a common spirituality and lyrical understanding of the world. Capturing members of one of the truly original art movements of recent years, this is a window into the world of a hopeful generation who have, in the words of Antony Hegarty, shifted away from the rage and depression of the early 90s and live ‘with their eyes wide-open.’ <br />
+ <br />
+For Low: You May Need a Murderer, a film crew followed Alan Sparhawk and Mimi Parker, husband and wife members of the seminal quiet-core band Low, to create a candid portrait of the band on tour, at home in Duluth, Minnesota, in their Mormon church community, and as parents. More than an on-the-road or behind-the-scenes video, it shows Sparhawk as the ambivalent main character in an intriguing movie about religion, violence, conscience and madness. It’s also a touching love story. A clear and unabridged rockumentary which soars above the conventions of the genre.<br />
+<br />
+Presented as a double-bill, the films are followed by a Q&amp;A session with David Kleijwegt.<br />
+<br />
+£6.50 adv</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/327533.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/327533.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/327533.jpg</image>
+   <attendance>55</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=935329</tag>    
+  <url>http://www.last.fm/event/935329</url>
+</event>    <event status="2">
+  <id>925188</id>
+  <title>OTOMO YOSHIHIDE &amp; SACHIKO M + EVAN PARKER / JOHN EDWARDS / TONY MARSH - THREE DAY RESIDENCY - DAY 3</title>
+
+  <artists>
+    <artist>Otomo Yoshihide</artist>
+    <artist>Evan Parker</artist>
+    <artist>Sachiko M</artist>
+    <artist>John Edwards</artist>
+    <artist>Tony Marsh</artist>
+    <headliner>Otomo Yoshihide</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Wed, 11 Mar 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Tickets : £10 / £22 (Three Day Pass)<br />
+ <br />
+<strong>OTOMO YOSHIHIDE</strong><br />
+ <br />
+Otomo Yoshihide was born on August 1, 1959 in Yokohama, Japan. He spent his teenage years in Fukushima, about 300 kilometers north of Tokyo. Influenced by his father, an engineer, Otomo began making electrical devices such as a radio and an electronic oscillator. In junior high school, his hobby was making sound collages using open-reel tape recorders. This was his first experience creating music. Soon after entering high school he formed a band which played rock and jazz, with Otomo on guitar. It wasn't long, however, before he became a free jazz aficionado, listening to artists like <a href="http://ws.audioscrobbler.com/music/Ornette+Coleman" class="bbcode_artist">Ornette Coleman</a>, <a href="http://ws.audioscrobbler.com/music/Erick+Dolphy" class="bbcode_artist">Erick Dolphy</a> and <a href="http://ws.audioscrobbler.com/music/Derek+Bailey" class="bbcode_artist">Derek Bailey</a>; and hearing music, both on disk and at concerts, by Japanese free jazz artists. The musician who influenced him most at that time was alto sax player <a href="http://ws.audioscrobbler.com/music/Kaoru+Abe" class="bbcode_artist">Kaoru Abe</a> (two of whose concerts he went to hear) and guitarist <a href="http://ws.audioscrobbler.com/music/Masayuki+Takayanagi" class="bbcode_artist">Masayuki Takayanagi</a>. For Otomo, this was a turning point--the point at which he decided to play free jazz....CLICK HERE FOR MORE<br />
+ <br />
+<a href="http://www.japanimprov.com/yotomo/" rel="nofollow">www.japanimprov.com/yotomo/</a><br />
+ <br />
+<strong>SACHIKO M</strong><br />
+ <br />
+Sachiko M has been active as a sampler player since 1994. Early in her career she was involved in the cut-up and &quot;plunderphonic&quot; (or &quot;plagiaristic&quot;) sampling movements. In '98, in a drastic departure from those approaches, she originated the revolutionary method she uses to this day--manipulating the sampler's internal test tones. With the 2000 release of Sine Wave Solo, her extreme solo recording consisting entirely of sine waves, Sachiko M suddenly became the focus of intense interest on the international scene, including European music festivals and Britain's Wire magazine. Since then she's been active on an irregular basis in a number of projects--including the experimental electronic music duo <a href="http://ws.audioscrobbler.com/music/Filament" class="bbcode_artist">Filament</a>, the electronics trio <a href="http://ws.audioscrobbler.com/music/I.S.O." class="bbcode_artist">I.S.O.</a>, a duo with <a href="http://ws.audioscrobbler.com/music/Toshimaru+Nakamura" class="bbcode_artist">Toshimaru Nakamura</a>, and the duo <a href="http://ws.audioscrobbler.com/music/Cosmos" class="bbcode_artist">Cosmos</a> with <a href="http://ws.audioscrobbler.com/music/Ami+Yoshida" class="bbcode_artist">Ami Yoshida</a>--in addition to collaborating with various musicians from other countries. Two of the solo projects she's currently working on are the live performance series Bar Sachiko and the sound installation I'm Here.<br />
+ <br />
+Sachiko M's radical stance consistently draws interest and provokes debate.<br />
+ <br />
+<a href="http://www.japanimprov.com/sachikom/" rel="nofollow">www.japanimprov.com/sachikom/</a><br />
+ <br />
+ <br />
++ Special Guests TBC</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/516222.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/516222.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/516222.jpg</image>
+   <attendance>18</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=925188</tag>    
+  <url>http://www.last.fm/event/925188</url>
+</event>    <event status="2">
+  <id>925177</id>
+  <title>OTOMO YOSHIHIDE &amp; SACHIKO M + CHRISTIAN MARCLAY - THREE DAY RESIDENCY - DAY 2</title>
+
+  <artists>
+    <artist>Otomo Yoshihide</artist>
+    <artist>Christian Marclay</artist>
+    <artist>Sachiko M</artist>
+    <headliner>Otomo Yoshihide</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Tue, 10 Mar 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Tickets : £10 / £22 (Three Day Pass)<br />
+ <br />
+<strong>OTOMO YOSHIHIDE</strong><br />
+ <br />
+Otomo Yoshihide was born on August 1, 1959 in Yokohama, Japan. He spent his teenage years in Fukushima, about 300 kilometers north of Tokyo. Influenced by his father, an engineer, Otomo began making electrical devices such as a radio and an electronic oscillator. In junior high school, his hobby was making sound collages using open-reel tape recorders. This was his first experience creating music. Soon after entering high school he formed a band which played rock and jazz, with Otomo on guitar. It wasn't long, however, before he became a free jazz aficionado, listening to artists like <a href="http://ws.audioscrobbler.com/music/Ornette+Coleman" class="bbcode_artist">Ornette Coleman</a>, <a href="http://ws.audioscrobbler.com/music/Erick+Dolphy" class="bbcode_artist">Erick Dolphy</a> and <a href="http://ws.audioscrobbler.com/music/Derek+Bailey" class="bbcode_artist">Derek Bailey</a>; and hearing music, both on disk and at concerts, by Japanese free jazz artists. The musician who influenced him most at that time was alto sax player <a href="http://ws.audioscrobbler.com/music/Kaoru+Abe" class="bbcode_artist">Kaoru Abe</a> (two of whose concerts he went to hear) and guitarist <a href="http://ws.audioscrobbler.com/music/Masayuki+Takayanagi" class="bbcode_artist">Masayuki Takayanagi</a>. For Otomo, this was a turning point--the point at which he decided to play free jazz....CLICK HERE FOR MORE<br />
+ <br />
+<a href="http://www.japanimprov.com/yotomo/" rel="nofollow">www.japanimprov.com/yotomo/</a><br />
+ <br />
+<strong>SACHIKO M</strong><br />
+ <br />
+Sachiko M has been active as a sampler player since 1994. Early in her career she was involved in the cut-up and &quot;plunderphonic&quot; (or &quot;plagiaristic&quot;) sampling movements. In '98, in a drastic departure from those approaches, she originated the revolutionary method she uses to this day--manipulating the sampler's internal test tones. With the 2000 release of Sine Wave Solo, her extreme solo recording consisting entirely of sine waves, Sachiko M suddenly became the focus of intense interest on the international scene, including European music festivals and Britain's Wire magazine. Since then she's been active on an irregular basis in a number of projects--including the experimental electronic music duo <a href="http://ws.audioscrobbler.com/music/Filament" class="bbcode_artist">Filament</a>, the electronics trio <a href="http://ws.audioscrobbler.com/music/I.S.O." class="bbcode_artist">I.S.O.</a>, a duo with <a href="http://ws.audioscrobbler.com/music/Toshimaru+Nakamura" class="bbcode_artist">Toshimaru Nakamura</a>, and the duo <a href="http://ws.audioscrobbler.com/music/Cosmos" class="bbcode_artist">Cosmos</a> with <a href="http://ws.audioscrobbler.com/music/Ami+Yoshida" class="bbcode_artist">Ami Yoshida</a>--in addition to collaborating with various musicians from other countries. Two of the solo projects she's currently working on are the live performance series Bar Sachiko and the sound installation I'm Here.<br />
+ <br />
+Sachiko M's radical stance consistently draws interest and provokes debate.<br />
+ <br />
+<a href="http://www.japanimprov.com/sachikom/" rel="nofollow">www.japanimprov.com/sachikom/</a><br />
+ <br />
+ <br />
++ Special Guests TBC</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/516222.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/516222.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/516222.jpg</image>
+   <attendance>17</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=925177</tag>    
+  <url>http://www.last.fm/event/925177</url>
+</event>    <event status="2">
+  <id>925166</id>
+  <title>OTOMO YOSHIHIDE &amp; SACHIKO M + EDDIE PRÉVOST - THREE DAY RESIDENCY - DAY 1</title>
+
+  <artists>
+    <artist>Otomo Yoshihide</artist>
+    <artist>Sachiko M</artist>
+    <artist>Eddie Prévost</artist>
+    <headliner>Otomo Yoshihide</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Mon, 09 Mar 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Tickets : £10 / £22 (Three Day Pass)<br />
+ <br />
+<strong>OTOMO YOSHIHIDE</strong><br />
+ <br />
+Otomo Yoshihide was born on August 1, 1959 in Yokohama, Japan. He spent his teenage years in Fukushima, about 300 kilometers north of Tokyo. Influenced by his father, an engineer, Otomo began making electrical devices such as a radio and an electronic oscillator. In junior high school, his hobby was making sound collages using open-reel tape recorders. This was his first experience creating music. Soon after entering high school he formed a band which played rock and jazz, with Otomo on guitar. It wasn't long, however, before he became a free jazz aficionado, listening to artists like <a href="http://ws.audioscrobbler.com/music/Ornette+Coleman" class="bbcode_artist">Ornette Coleman</a>, <a href="http://ws.audioscrobbler.com/music/Erick+Dolphy" class="bbcode_artist">Erick Dolphy</a> and <a href="http://ws.audioscrobbler.com/music/Derek+Bailey" class="bbcode_artist">Derek Bailey</a>; and hearing music, both on disk and at concerts, by Japanese free jazz artists. The musician who influenced him most at that time was alto sax player <a href="http://ws.audioscrobbler.com/music/Kaoru+Abe" class="bbcode_artist">Kaoru Abe</a> (two of whose concerts he went to hear) and guitarist <a href="http://ws.audioscrobbler.com/music/Masayuki+Takayanagi" class="bbcode_artist">Masayuki Takayanagi</a>. For Otomo, this was a turning point--the point at which he decided to play free jazz....CLICK HERE FOR MORE<br />
+ <br />
+<a href="http://www.japanimprov.com/yotomo/" rel="nofollow">www.japanimprov.com/yotomo/</a><br />
+ <br />
+<strong>SACHIKO M</strong><br />
+ <br />
+Sachiko M has been active as a sampler player since 1994. Early in her career she was involved in the cut-up and &quot;plunderphonic&quot; (or &quot;plagiaristic&quot;) sampling movements. In '98, in a drastic departure from those approaches, she originated the revolutionary method she uses to this day--manipulating the sampler's internal test tones. With the 2000 release of Sine Wave Solo, her extreme solo recording consisting entirely of sine waves, Sachiko M suddenly became the focus of intense interest on the international scene, including European music festivals and Britain's Wire magazine. Since then she's been active on an irregular basis in a number of projects--including the experimental electronic music duo <a href="http://ws.audioscrobbler.com/music/Filament" class="bbcode_artist">Filament</a>, the electronics trio <a href="http://ws.audioscrobbler.com/music/I.S.O." class="bbcode_artist">I.S.O.</a>, a duo with <a href="http://ws.audioscrobbler.com/music/Toshimaru+Nakamura" class="bbcode_artist">Toshimaru Nakamura</a>, and the duo <a href="http://ws.audioscrobbler.com/music/Cosmos" class="bbcode_artist">Cosmos</a> with <a href="http://ws.audioscrobbler.com/music/Ami+Yoshida" class="bbcode_artist">Ami Yoshida</a>--in addition to collaborating with various musicians from other countries. Two of the solo projects she's currently working on are the live performance series Bar Sachiko and the sound installation I'm Here.<br />
+ <br />
+Sachiko M's radical stance consistently draws interest and provokes debate.<br />
+ <br />
+<a href="http://www.japanimprov.com/sachikom/" rel="nofollow">www.japanimprov.com/sachikom/</a><br />
+ <br />
+ <br />
++ Special Guests TBC</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/516222.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/516222.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/516222.jpg</image>
+   <attendance>14</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=925166</tag>    
+  <url>http://www.last.fm/event/925166</url>
+</event>    <event status="2">
+  <id>970797</id>
+  <title>Akira Sakata</title>
+
+  <artists>
+    <artist>Akira Sakata</artist>
+    <artist>Otomo Yoshihide</artist>
+    <artist>Asaf Sirkis</artist>
+    <artist>Yumi Hara Cawkwell</artist>
+    <headliner>Akira Sakata</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Sun, 08 Mar 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Breaking News! Otomo Yoshihide will be appearing as a secret guest this coming Sunday alongside Akira Sakata, Yumi Hara Cawkwell and Asaf Sirkis. <br />
+<br />
+Akira Sakata is one of the most well known and respected free jazz players and a household name in Japan. He has performed in continental Europe, and collaborated with many international musicians such as Bill Laswell and Jim O'Rouke. However, his only appearance in the UK was in the '70s with the Yamashita Yousuke Trio, and this will be the first occasion for London audience to experience one of his live performances which will draw on a wide range of musical influences such as Japanese traditional folk music and Western art music.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/22073855.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/22073855.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/22073855.jpg</image>
+   <attendance>2</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=970797</tag>    
+  <url>http://www.last.fm/event/970797</url>
+</event>    <event status="2">
+  <id>905396</id>
+  <title>Zomes</title>
+
+  <artists>
+    <artist>Zomes</artist>
+    <artist>Joanne Robertson</artist>
+    <artist>Invisible Bees</artist>
+    <headliner>Zomes</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Mon, 02 Mar 2009 11:57:01</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/11007857.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/11007857.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/11007857.jpg</image>
+   <attendance>8</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=905396</tag>    
+  <url>http://www.last.fm/event/905396</url>
+</event>    <event status="2">
+  <id>935077</id>
+  <title>Sunny Day Sets Fire</title>
+
+  <artists>
+    <artist>Sunny Day Sets Fire</artist>
+    <headliner>Sunny Day Sets Fire</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Fri, 27 Feb 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">&quot;SDSF launch Summer Palace at Cafe Oto on Friday 27th February and this marks the start of a string of London dates ahead of hitting the road to take their kaleidoscopic sound to the provinces and across Europe culminating in the festival circuit this summer.&quot;<br />
+<a href="http://www.cafeoto.co.uk/programme/SUNNYDAYSETSFIRE2.shtm" rel="nofollow">Details from Cafe OTO website</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/4493451.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/4493451.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/4493451.jpg</image>
+   <attendance>1</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=935077</tag>    
+  <url>http://www.last.fm/event/935077</url>
+</event>    <event status="2">
+  <id>932497</id>
+  <title>Chris Corsano/John Edwards/Mick Beck - Solo/duo/trio</title>
+
+  <artists>
+    <artist>Chris Corsano</artist>
+    <artist>John Edwards</artist>
+    <artist>Mick Beck</artist>
+    <headliner>Chris Corsano</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Thu, 26 Feb 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">CHRIS CORSANO<br />
+<br />
+&quot;The most riotosly energetic and creative drummer in contemporary free jazz. Corsano's sudden shifts of texture and dynamics are a wonder to behold.&quot; - The Wire<br />
+<br />
+ <br />
+<br />
+Chris Corsano has gained a well-earned reputation as one of the hardest-working drummers around. Equally at home with intense kinetic explosions of energy and concentrated near-silence, he effortlessly flows from one idea to the next, always sympatico with his fellow musicians. He has recorded and gigged with, among others, Paul Flaherty, Thurston Moore, Jessica Rylan, Jim O'Rourke, Matt Heyner, Mick Flower, Nels Cline, Jandek, Greg Kelly, Daniel Carter, Six Organs of Admittance, Evan Parker, Sunburned Hand Of Man, Okkyung Lee, Wally Shoup, MV&amp;EE, Keiji Haino, Dredd Foole, Vampire Belt, Joe McPhee, Carlos Giffoni, Akira Sakata, Christina Carter and Heather Leigh Murray.<br />
+<br />
+ <br />
+<br />
+<a href="http://www.myspace.com/chriscorsano" rel="nofollow">http://www.myspace.com/chriscorsano</a><br />
+<br />
+ <br />
+<br />
+MICK BECK<br />
+<br />
+ <br />
+<br />
+&quot;He plays the tenor with conviction that can border on lawlessness. Mick Beck has been causing jaws to drop by playing the bassoon. He is now getting something personal and unheralded out of the bassoon&quot; - The Wire.<br />
+<br />
+ <br />
+<br />
+&quot;Ace tenor saxophonist Mick Beck incorporates an amplified bassoon (in a way) that defies even the most oddball stereotypes&quot; - All About Jazz, June 2006.<br />
+<br />
+ <br />
+<br />
+&quot;Beck's abstract resources extend to all manner of whistles and squeals, but his tenor sax playing is a resourceful development of Evan Parker's&quot; - The Guardian, May 2005.<br />
+<br />
+ <br />
+<br />
+&quot;Able to double- and triple-tongue on a double reed, he creates dissonant textures you wouldn't associate with the usual orchestral instrument&quot; - Cadence Jazz Records no. 1164.<br />
+<br />
+ <br />
+<br />
+Mick Beck has been working since 1980 in jazz, free music and as a composer and club/ festival organiser.<br />
+<br />
+After leading the touring quartet, Jazzmine, in the early 1980s, he was a member of Will Evans multi-dimensional group, Dan Kolobi, and since 1984 has been a member from time to time of Derek Bailey's Company. Blending performance with composition, in 1987 he founded FeetPackets, a Sheffield-based large improvising band which toured England three times between 1988 and 1990. It has given one-off performances since then when opportunities arise, and produced a CD and two cassettes. In 1993, he was a member of the 11-piece band which celebrated the Leeds City centenary with a specially commissioned work, Piece for 10(0) by Simon Fell.<br />
+<br />
+ <br />
+<br />
+Recent collaborations have included a trio with Stuart Brown, keyboards and Will Evans, percussion; pianist Alex Maguire, bass player Marcio Mattos, and drummers Steve Noble and Louis Moholo; Hugh Metcalf and Bob Cobbins; and duos with Tony Marsh, drums and Mary Oliver, voice. His trio 'Something Else!' with Simon Fell (bass) and Paul Hession (drums) toured extensively in 1993 and has produced a cassette and CD. Beck also plays straight jazz and in this medium has worked with, among others, Fred T Baker (bass) and Pete Fairclough (drums).<br />
+<br />
+ <br />
+<br />
+Mick Beck sees his development mainly as a small group and solo performer. He seeks to extend appreciation of harmonic relationships which go beyond the tempered keyboard, and to re-introduce some of the rhythms and instrumental techniques which have been ignored or under-used by contemporary improvisors. He also wishes to continue to be technically innovative on the tenor saxophone.<br />
+<br />
+ <br />
+<br />
+JOHN EDWARDS<br />
+<br />
+ <br />
+<br />
+After taking up the bass, around 1987, John Edwards co-formed The Pointy Birds who went on to win awards for their music for The Cholmondeleys and Featherstonehaughs dance troupes. The group appeared at festivals in Glasgow, Edinburgh, Moers, Leverkusen, Copenhagen. Around 1990, Edwards played his first gigs with London improvisers such as Roger Turner, Lol Coxhill, Maggie Nicols, Phil Minton.<br />
+<br />
+ <br />
+<br />
+Between 1990 and 1995 Edwards was a member of three touring groups simultaneously: B-Shops For The Poor, The Honkies and GOD. During this period he also became an increasingly regular player on the London improvised music scene and performed his first solo gigs; he composed and performed music theatre with the bass and cello duo The Great Explorers, street-busked a lot and appeared at many more festivals in Germany, Estonia, France, Italy, Czech, etc.<br />
+<br />
+ <br />
+<br />
+Since 1995 John Edwards has become a &quot;mainstay&quot; of the London scene, playing with just about everybody, an activity that has seen him clocking up between 150 and 200 gigs a year. He has become regular player with Evan Parker, in many groupings, and with Tony Bevan, Veryan Weston, and Elton Dean, often in collaboration with Mark Sanders on percussion. He has become a more frequent player on the European (and festival) scene, appearing at Taktlos, Ulrichsburg, Nickelsdorf, Budapest, New Zealand and in the USA. He continues to work on solo performances.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/121970.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/121970.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/121970.jpg</image>
+   <attendance>3</attendance>
+   <reviews>1</reviews>
+   <tag>lastfm:event=932497</tag>    
+  <url>http://www.last.fm/event/932497</url>
+</event>    <event status="2">
+  <id>943104</id>
+  <title>Small But Perfectly Formed presents ”A SERIES OF FORTUNATE EVENTS”</title>
+
+  <artists>
+    <artist>The Seen</artist>
+    <artist>Tom Jackson</artist>
+    <artist>Mark Wastell</artist>
+    <artist>Autopoiesis</artist>
+    <artist>Matt Davis</artist>
+    <artist>Dominic Lash</artist>
+    <artist>Phil Durrant</artist>
+    <artist>Paul Abbott</artist>
+    <artist>phil julian</artist>
+    <artist>Ashley John Long</artist>
+    <artist>Nancy Ruffer</artist>
+    <headliner>The Seen</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Thu, 19 Feb 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode"><strong>Tickets : £6</strong> (Tickets on the door)<br />
+ <br />
+Small But Perfectly Formed presents ”A Series of Fortunate Events” exploring the relationship between improvisation and composition. <br />
+<br />
+THE SEEN - Improvisations by new sextet put together by <a href="http://ws.audioscrobbler.com/music/Mark+Wastell" class="bbcode_artist">Mark Wastell</a> that mixes musical styles, backgrounds and experiences to investigate different involvements in the music making. It includes <a href="http://ws.audioscrobbler.com/music/Phil+Durrant" class="bbcode_artist">Phil Durrant</a> (maschine), <a href="http://ws.audioscrobbler.com/music/Matt+Davis" class="bbcode_artist">Matt Davis</a> (trumpet), <a href="http://ws.audioscrobbler.com/music/phil+julian" class="bbcode_artist">phil julian</a> (contact microphones, surfaces/objects and electronics), <a href="http://ws.audioscrobbler.com/music/Dominic+Lash" class="bbcode_artist">Dominic Lash</a> (contrabass), <a href="http://ws.audioscrobbler.com/music/Paul+Abbott" class="bbcode_artist">Paul Abbott</a> (piezo discs, metal, cymbal, mylar speaker, tape recorder, mixer) and <a href="http://ws.audioscrobbler.com/music/Mark+Wastell" class="bbcode_artist">Mark Wastell</a> (tam tam, scrutti box)<br />
+<br />
+<br />
+NANCY RUFFER (flutes)  - <a href="http://ws.audioscrobbler.com/music/Nancy+Ruffer" class="bbcode_artist">Nancy Ruffer</a> is an outstanding flautist that specialises in performing contemporary music. She has performed and recorded for the BBC, and in festivals and concert halls throughout the world. She is an Associate of The Royal Academy of Music. Tonight she performs composed pieces (expect Lachenman, Dillon, Cowell….) and improvisations .<br />
+<br />
+<br />
+AUTOPOIESIS - <a href="http://ws.audioscrobbler.com/music/Autopoiesis" class="bbcode_artist">Autopoiesis</a> are <a href="http://ws.audioscrobbler.com/music/Ashley+John+Long" class="bbcode_artist">Ashley John Long</a> (double bass) / <a href="http://ws.audioscrobbler.com/music/Tom+Jackson" class="bbcode_artist">Tom Jackson</a> (reeds). <br />
+The Cardiff duo plays for the first time in London.<br />
+<br />
+<span title="Unknown artist" class="bbcode_unknown"> Ashley John Long</span> is a muli-intrumentalist and composer. Work includes Keith Tippett quartet, Chamber Orchestra of Wales, Millenium Ensemble, the Heavy Quartet…</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/443846.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/443846.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/443846.jpg</image>
+   <attendance>1</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=943104</tag>    
+  <url>http://www.last.fm/event/943104</url>
+</event>    <event status="2">
+  <id>878935</id>
+  <title>Sprawl presents at Cafe Oto....</title>
+
+  <artists>
+    <artist>Alexis O'Hara</artist>
+    <artist>Invisible Bees</artist>
+    <artist>Nine Owls In A Baguette</artist>
+    <headliner>Alexis O'Hara</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Tue, 17 Feb 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">...another diverse evening of sound experiences at<br />
+Dalston's Cafe Oto.<br />
+<br />
+The following acts will be performing:<br />
+<br />
+ALEXIS O'HARA<br />
+Alexis O'Hara is an interdisciplinary artist whose work was nurtured in the lively cabaret &amp; avant-noise scenes in Montreal. Sampling and processing her voice in real-time, using lo-tech electronics and the chimerical properties of electrical feedback, she creates live performances that combine electro-acoustic maximalism and psychedelic story telling. With improvisation she explores the possibilities of error and failure, circumstances in which the spectator is refocused with present-minded awareness. The eclecticism of her work attracts international programmers from various disciplines from spoken word and sound art to live art and music. Alexis has been known to wear clothes that run on batteries.<br />
+<a href="http://www.myspace.com/alexisohara" rel="nofollow">http://www.myspace.com/alexisohara</a><br />
+<br />
+INVISIBLE BEES<br />
+Invisible bees are a primitive-psych-folk-duo 'united in their aim to send time out of joint'. Their sound is 'darkly hypnotic-droney-buzzy with primitive saz-warm accordion swell, minimal guitar motifs-strummed violin-tolling bells-bowed metal and devotional vocals'. The Bees' Damian Burgess and Norwegian Elin Eriksen are both London-based, but originally from Manchester and Oslo respectively, and list Black Sabbath, Harry Partch, Sonic Youth, Philip K Dick, The Melvins, Neil Young, Derek Bailey, Tarkovsky, Henry Flynt and Beefheart amongst their inspirations.<br />
+<a href="http://www.myspace.com/invisiblebees" rel="nofollow">http://www.myspace.com/invisiblebees</a><br />
+<br />
+NINE OWLS IN A BAGUETTE<br />
+This surreal group's founder is artist Patrick Furness, primarily a sound designer, who has run workshops with the Sonic Arts Network (including their Sonic Postcard project) and Cineclub. As well as also being a radio producer (for Horse Hospital Radio on Resonance FM), Furness is involved with other collaborative projects such as Naked With Horses, and Daydream Nation. Wearing bizarre outfits and making a strange noise, the Nine Owls are a sight and sound to behold.<br />
+<a href="http://www.patrickfurness.com/" rel="nofollow">http://www.patrickfurness.com/</a><br />
+<br />
+doors: 8pm<br />
+<br />
+ticket price: £6<br />
+advance booking<br />
+<a href="http://www.wegottickets.com/event/41598" rel="nofollow">http://www.wegottickets.com/event/41598</a><br />
+<br />
+Cafe OTO website<br />
+<a href="http://www.cafeoto.co.uk" rel="nofollow">http://www.cafeoto.co.uk</a><br />
+<a href="mailto:info@cafeoto.co.uk">info@cafeoto.co.uk</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/322713.gif</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/322713.gif</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/322713.gif</image>
+   <attendance>6</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=878935</tag>    
+  <url>http://www.last.fm/event/878935</url>
+</event>    <event status="2">
+  <id>922910</id>
+  <title>Tanya Tagaq</title>
+
+  <artists>
+    <artist>Tanya Tagaq</artist>
+    <headliner>Tanya Tagaq</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Mon, 16 Feb 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Startlingly innovative vocal explorations from the Inuit throat-singer who has collaborated with Bjork, Kronos Quartet, Mike Patton, Sainkho Namtchylak...<br />
+<br />
+Tanya Tagaq is genuinely one of those rare artists whose sounds and styles are truly groundbreaking. 'Inuit throat singer' is one part of her sonic quotient, so are descriptions like 'orchestral', 'hip-hop-infused' and 'primal' but these words are not usually used collectively. Since the release of her debut CD Sinaa (meaning 'edge') in 2005, the Nunavut-born singer has not just attracted the attention of some of the world's most groundbreaking artists, they have invited her to participate on their own musical projects. Recently recording once again with Bjork (on the soundtrack for the Matthew Barney film Drawing Restraint 9), having appeared on Bjork's Medulla CD and accompanied her on the Vespertine tour. In 2007, another monumental collaborative project came to fruition, when the world-renowned Kronos Quartet invited Tanya to participate - as co-writer and performer - on a project aptly titled Nunavut, performed across North America in 2008, from its debut at the Chan Centre, Vancouver BC through to New York's Carnegie Hall. Tagaq is a Contemporary Inuk Throat Singer from Canada's North. Sinaa was nominated for a Juno Award (Best Aboriginal Recording) and won in three categories at the Canadian Aboriginal Music Awards, including Best Female Artist. She has just released her sophomore album, 'AUK~BLOOD' featuring Mike Patton and Buck 65.<br />
+<br />
+&quot;Tanya is directly musically in touch with something that is almost a ghost. To me, it is something that is so special and so much a part of the earth and the land and the environment.&quot; David Harrington, Kronos Quartet<br />
+<br />
+&quot;[Tanya's music is] like Edith Piaf or something...totally emotional.&quot; Bjork<br />
+<br />
+&quot;Traditional throat singing is a game between two women that is an emulation of the sounds from the land. It is a very complicated game where you are making two sounds and you have to go back and forth alternating the sounds. The leader can change the song to the next verse anytime they want to, so you have to be able to follow them. It is not emotional, although it may sound that way. It is a game, you giggle afterwards.&quot; Tanya Tagaq<br />
+<br />
+&quot;Calling Tanya Tagaq an Inuit throat singer is like calling Yo-Yo Ma a cello player. Sure, it's accurate, but it's not the whole of what he does. Like Ma, Tagaq is the best of what she does - innovative, inspired. Seeing her live, she gets deep into her rhythms and her passions are obvious.&quot; Brad Frenette, The National Post<br />
+<br />
+&quot;It was one of the most powerful shows in the history of the festival!&quot; Malcolm Levy, New Forms Festival<br />
+<br />
+<a href="http://www.myspace.com/tagaq" rel="nofollow">http://www.myspace.com/tagaq</a><br />
+<a href="http://tanyatagaq.com" rel="nofollow">http://tanyatagaq.com</a><br />
+<br />
+Book now at <a href="http://www.wegottickets.com/event/41559" rel="nofollow">http://www.wegottickets.com/event/41559</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/10664183.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/10664183.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/10664183.jpg</image>
+   <attendance>4</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=922910</tag>    
+  <url>http://www.last.fm/event/922910</url>
+</event>    <event status="2">
+  <id>884345</id>
+  <title>Babel</title>
+
+  <artists>
+    <artist>Babel</artist>
+    <artist>Essie Jain</artist>
+    <artist>Eoin O Ruainigh</artist>
+    <headliner>Babel</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Sat, 14 Feb 2009 11:17:01</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/3094101.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/3094101.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/3094101.jpg</image>
+   <attendance>6</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=884345</tag>    
+  <url>http://www.last.fm/event/884345</url>
+</event>    <event status="2">
+  <id>993764</id>
+  <title>Peggy sue</title>
+
+  <artists>
+    <artist>Peggy sue</artist>
+    <headliner>Peggy sue</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Fri, 13 Feb 2009 13:15:01</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/22845445.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/22845445.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/22845445.jpg</image>
+   <attendance>1</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=993764</tag>    
+  <url>http://www.last.fm/event/993764</url>
+</event>    <event status="2">
+  <id>933709</id>
+  <title>Noble/Edwards/Ward - Duo/Solo/Trio</title>
+
+  <artists>
+    <artist>John Edwards</artist>
+    <artist>N.E.W</artist>
+    <artist>Steve Noble &amp; Alex Ward</artist>
+    <headliner>John Edwards</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Thu, 12 Feb 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Tonight’s concert will be in three parts. A duo followed by a solo and ending with a trio.<br />
+<br />
+ <br />
+<br />
+DUO- Steve Noble and Alex Ward- on drums and clarinet-now in the 20th year of working as a duo.<br />
+<br />
+ <br />
+<br />
+SOLO- John Edwards has been playing solo for many years, but has just released his first solo cd &quot; VOLUME&quot;- tonight, he will further explore the possibilities of the acoustic double bass.<br />
+<br />
+ <br />
+<br />
+TRIO- N.E.W- Nobles power trio, finds Ward switching to guitar- in the words of Jazzwise &quot; there’s as much rock here as jazz- Ward is phenomenal, all spidery glissandi and slashing chords. Edwards is a dark magus of a bass player thundering against the elements, while Noble is a violent, malevolent presence. A white -knuckle ride you'll be glad to take. (Duncan Heining)<br />
+<br />
+ <br />
+<br />
+ALEX WARD<br />
+<br />
+ <br />
+<br />
+Born in 1974, Alex Ward has been active in free improvisation since being given his first gig by Derek Bailey in 1987, going on to work with a wide range of musicians as a clarinetist (sometimes also on alto sax), and increasingly since 2000 as a guitarist. His debut recording ‘Ya boo, reel and rumble’, a duo with Noble was released in 1990 on Baileys label Incus, to great critical acclaim.<br />
+<br />
+ <br />
+<br />
+He has played in bands led by Simon Fell and Eugene Chadbourne, as well as his own quartet “Help Point”, featuring Fell, Steve Noble and Luke Barlow (with whom he runs the label Copepod). He also co-led the rock band Camp Blackfoot with Benjamin Herve, and in 2005 released a solo album of songs entitled “Hapless Days”. He currently writes the material (as well as playing guitar and singing) for “Dead Days Beyond Help”, a 2-piece band with drummer Jem Doulton.<br />
+<br />
+ <br />
+<br />
+JOHN EDWARDS<br />
+<br />
+ <br />
+<br />
+Since taking up the double bass in 1987 and playing with the Pointy Birds and the Cholomondeleys dance company-he went on to play with B Shops for the Poor, The Honkies and GOD as well as busking in the street and composing and performing music theatre with The Great Explorers. Since the early 1990s he has built a reputation as one of the finest, and most in demand bass players currently active on the British and European improv/ jazz and New music scenes- a first choice for musicians such as Evan Parker, Louis Moholo, Veryan Weston, Charles Hayward and Spring Heel Jack- Other groups include BRUISE and the Obliquity trio with Alan Wilkinson and Noble.<br />
+<br />
+ <br />
+<br />
+STEVE NOBLE<br />
+<br />
+ <br />
+<br />
+From playing with Nigerian master drummer Elkan Ogunde, Rip Rig and Panic, Brion Gysin and the Bow Gamelan Ensemble, Noble went on to work with the pianist Alex Maguire and with Derek Bailey (including Company Weeks 1987,89 and 90) and was featured (along with Alex Ward) in the TV series based on Baileys book ‘Improvisation; its nature and practice’. He has toured and performed throughout Europe, Africa and America. Currently leads the groups ‘4tet’ - ‘Say What’- ‘Shakedown Club’- ‘Harry Love All Stars’ and a trio with Lol Coxhil / Edwards-he also fills the drum stool in the following groups; SFQ, Badland, Gannets, Freebase and Tim Hills group Tongues of Fire.<br />
+<br />
+Has been MD for the Spanish dance company MAL PELO since 1998. Noble also runs the record company PING PONG PRODUCTIONS.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/20392659.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/20392659.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/20392659.jpg</image>
+   <attendance>1</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=933709</tag>    
+  <url>http://www.last.fm/event/933709</url>
+</event>    <event status="2">
+  <id>898199</id>
+  <title>COMPOST AND HEIGHT</title>
+
+  <artists>
+    <artist>Matt Davis</artist>
+    <artist>Jez Riley French</artist>
+    <artist>Lee Patterson</artist>
+    <artist>Helena Gough</artist>
+    <artist>Daniel Jones</artist>
+    <artist>Patrick Farmer</artist>
+    <artist>Benedict Drew</artist>
+    <artist>Matt Milton</artist>
+    <headliner>Matt Davis</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Sat, 07 Feb 2009 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Tickets : £5 (tickets on the door only)<br />
+<br />
+<br />
+<strong>COMPOST AND HEIGHT</strong> 1ST BIRTHDAY CELEBRATION - <a href="http://ws.audioscrobbler.com/music/Matt+Davis" class="bbcode_artist">Matt Davis</a>, <a href="http://ws.audioscrobbler.com/music/Lee+Patterson" class="bbcode_artist">Lee Patterson</a>, <a href="http://ws.audioscrobbler.com/music/Benedict+Drew" class="bbcode_artist">Benedict Drew</a>, <a href="http://ws.audioscrobbler.com/music/Jez+Riley+French" class="bbcode_artist">Jez Riley French</a>, <a href="http://ws.audioscrobbler.com/music/Helena+Gough" class="bbcode_artist">Helena Gough</a>, <a href="http://ws.audioscrobbler.com/music/Daniel+Jones" class="bbcode_artist">Daniel Jones</a>, <a href="http://ws.audioscrobbler.com/music/Matt+Milton" class="bbcode_artist">Matt Milton</a> &amp; <a href="http://ws.audioscrobbler.com/music/Patrick+Farmer" class="bbcode_artist">Patrick Farmer</a><br />
+<br />
+<br />
+<strong>Compost and Height</strong> was set up in February 2008 by <a href="http://ws.audioscrobbler.com/music/Patrick+Farmer" class="bbcode_artist">Patrick Farmer</a> and <a href="http://ws.audioscrobbler.com/music/Sarah+Hughes" class="bbcode_artist">Sarah Hughes</a> as a label that promotes a conscientious creative field. The content of the work is focused upon individual and collective responses to the surrounding environment and the development of awareness.<br />
+<br />
+<br />
+<strong><a href="http://ws.audioscrobbler.com/music/Matt+Davis" class="bbcode_artist">Matt Davis</a></strong>, <strong><a href="http://ws.audioscrobbler.com/music/Lee+Patterson" class="bbcode_artist">Lee Patterson</a></strong>, <strong><a href="http://ws.audioscrobbler.com/music/Benedict+Drew" class="bbcode_artist">Benedict Drew</a></strong> - Trumpet, Amplified Devices, Laptop<br />
+<br />
+<a href="http://www.f-i-e-l-d.co.uk" rel="nofollow">www.f-i-e-l-d.co.uk</a><br />
+<a href="http://www.benedictdrew.com" rel="nofollow">www.benedictdrew.com</a><br />
+<br />
+<br />
+<strong><a href="http://ws.audioscrobbler.com/music/Benedict+Drew" class="bbcode_artist">Benedict Drew</a></strong><br />
+<br />
+Benedict Drew is an Artist who works in performance, sound and video. For several years he has been involved in promoting concerts in London such as Audit and currently produces concerts for the London Musicians' Collective . <br />
+<br />
+<br />
+<strong><a href="http://ws.audioscrobbler.com/music/Matt+Davis" class="bbcode_artist">Matt Davis</a></strong><br />
+<br />
+Matt Davis has performed with <a href="http://ws.audioscrobbler.com/music/Robin+Hayward" class="bbcode_artist">Robin Hayward</a>, <a href="http://ws.audioscrobbler.com/music/Otomo+Yoshihide" class="bbcode_artist">Otomo Yoshihide</a>'s <span title="Unknown artist" class="bbcode_unknown">Core Anode</span>, <a href="http://ws.audioscrobbler.com/music/Keith+Rowe" class="bbcode_artist">Keith Rowe</a>, <a href="http://ws.audioscrobbler.com/music/Rhodri+Davies" class="bbcode_artist">Rhodri Davies</a>, <a href="http://ws.audioscrobbler.com/music/Ben+Drew" class="bbcode_artist">Ben Drew</a>, <a href="http://ws.audioscrobbler.com/music/Lee+Patterson" class="bbcode_artist">Lee Patterson</a>, <a href="http://ws.audioscrobbler.com/music/Angharad+Davies" class="bbcode_artist">Angharad Davies</a>, <a href="http://ws.audioscrobbler.com/music/Mark+Wastell" class="bbcode_artist">Mark Wastell</a> and <a href="http://ws.audioscrobbler.com/music/Graham+Halliwell" class="bbcode_artist">Graham Halliwell</a>. Please visit Matt's site as he has a wonderful solo trumpet album available for free download .<br />
+<br />
+<br />
+<strong><a href="http://ws.audioscrobbler.com/music/Lee+Patterson" class="bbcode_artist">Lee Patterson</a></strong><br />
+<br />
+Encompassing various forms, including improvised music, field recording, film soundtrack, sound installation and radio broadcast, Lee Pattersons' work is characterised by the revelation of subliminal or barely audible sounds. Utilising commonplace materials and invented methodologies, his practice aims toward a new understanding of his surroundings through altering perceptions of everyday reality. His unorthodox and idiosyncratic approaches to generating sound have led to collaborations with a host of international artists and experimental musicians.<br />
+<br />
+---------------------------------------------------------------------------------------------------------------------------------------------<br />
+<br />
+<strong><a href="http://ws.audioscrobbler.com/music/Jez+Riley+French" class="bbcode_artist">Jez Riley French</a></strong><br />
+<br />
+Solo set plus slide projections<br />
+<br />
+<a href="http://jezrileyfrench-inplace.blogspot.com/" rel="nofollow">http://jezrileyfrench-inplace.blogspot.com/</a><br />
+<br />
+---------------------------------------------------------------------------------------------------------------------------------------------<br />
+ <br />
+<strong><a href="http://ws.audioscrobbler.com/music/Shale" class="bbcode_artist">Shale</a> - <a href="http://ws.audioscrobbler.com/music/Helena+Gough" class="bbcode_artist">Helena Gough</a>, <a href="http://ws.audioscrobbler.com/music/Daniel+Jones" class="bbcode_artist">Daniel Jones</a>, <a href="http://ws.audioscrobbler.com/music/Matt+Milton" class="bbcode_artist">Matt Milton</a>, <a href="http://ws.audioscrobbler.com/music/Patrick+Farmer" class="bbcode_artist">Patrick Farmer</a></strong> - Laptop, Turntables, Violin, Snare Drum. <br />
+<br />
+<a href="http://www.helenagough.com" rel="nofollow">www.helenagough.com</a> <br />
+<br />
+<a href="http://www.myspace.com/woodandwhisks" rel="nofollow">www.myspace.com/woodandwhisks</a><br />
+<br />
+<a href="http://www.myspace.com/stringspingsandboingythings" rel="nofollow">www.myspace.com/stringspingsandboingythings</a><br />
+<br />
+<a href="http://www.myspace.com/mattmilton" rel="nofollow">www.myspace.com/mattmilton</a><br />
+ <br />
+---------------------------------------------------------------------------------------------------------------------------------------------<br />
+<br />
++ 1 TBC<br />
+<br />
++ Sound 323 stall, Limited number of free 1st birthday compost and height CDs.. <br />
+<br />
+<a href="http://www.compostandheight.blogspot.com" rel="nofollow">www.compostandheight.blogspot.com</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/16439331.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/16439331.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/16439331.jpg</image>
+   <attendance>3</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=898199</tag>    
+  <url>http://www.last.fm/event/898199</url>
+</event>    <event status="2">
+  <id>831487</id>
+  <title>Ben Reynolds</title>
+
+  <artists>
+    <artist>Ben Reynolds</artist>
+    <artist>Ashtray Navigations</artist>
+    <artist>Wooden Spoon</artist>
+    <artist>Chora</artist>
+    <headliner>Ben Reynolds</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Sat, 31 Jan 2009 19:30:00</startDate>
+  <description><![CDATA[<div class="bbcode">ashtray navigations<br />
+ben reynolds (w/<a href="http://ws.audioscrobbler.com/music/Alex+Neilson" class="bbcode_artist">Alex Neilson</a>+<a href="http://ws.audioscrobbler.com/music/Simon+Shaw" class="bbcode_artist">Simon Shaw</a>)<br />
+chora<br />
+wooden spoon<br />
+<br />
+cafe oto, ashwin street<br />
+31st january 2009<br />
+8pm / £5 / wegottickets.com/colourride</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/366389.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/366389.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/366389.jpg</image>
+   <attendance>17</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=831487</tag>    
+  <url>http://www.last.fm/event/831487</url>
+</event>    <event status="2">
+  <id>903803</id>
+  <title>Mark McGuire</title>
+
+  <artists>
+    <artist>Mark McGuire</artist>
+    <headliner>Mark McGuire</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Thu, 29 Jan 2009 20:00:00</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/7857515.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/7857515.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/7857515.jpg</image>
+   <attendance>4</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=903803</tag>    
+  <url>http://www.last.fm/event/903803</url>
+</event>    <event status="2">
+  <id>847628</id>
+  <title>Attack!!!! magazine live</title>
+
+  <artists>
+    <artist>Cottonmouth Rocks</artist>
+    <artist>Yusuf Azak</artist>
+    <artist>Wes White</artist>
+    <artist>Gethan Dick</artist>
+    <artist>Erica Viola</artist>
+    <headliner>Cottonmouth Rocks</headliner>
+  </artists>
+  <venue>
+    <id>8908030</id>
+    <name>Cafe OTO</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>20 Ashwin St</street>
+      <postalcode>E8 3DL</postalcode>
+      <geo:point>
+         <geo:lat>51.548909</geo:lat>
+         <geo:long>-0.077081</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8908030</url>
+  </venue>
+  <startDate>Wed, 28 Jan 2009 19:30:00</startDate>
+  <description><![CDATA[<div class="bbcode">Attack!!!! is a collaborative series of creative works which you can see more details of at <a href="http://www.ecartilage.co.uk/attack" rel="nofollow">http://www.ecartilage.co.uk/attack</a><br />
+<br />
+The zine has been called 'revered' by Dazed and Confused, 'curious' by Fanzine Fanatique, 'engrossing and thought-provoking' by Bypasszine, 'really good' by Huw Stephens and 'a niche product, unlikely to appeal to the masses' by Leeds Music Scene.<br />
+<br />
+At Attack!!!! live nights, contributors get together and do their thing on stage.<br />
+<br />
+This time around it's:<br />
+<br />
+<a href="http://ws.audioscrobbler.com/music/Cottonmouth+Rocks" class="bbcode_artist">Cottonmouth Rocks</a><br />
+<a href="http://www.myspace.com/cottonmouthrocks" rel="nofollow">http://www.myspace.com/cottonmouthrocks</a><br />
+Cottonmouth Rocks are a girl-boy duo who whisper dark things over loud guitars.<br />
+<br />
+Their songs are songs inspired by 'big American cars, werewolves, voodoo, deserts, forests, storms and cheap motels'. Artrocker, Unpeeled, Mixmag, Fresh Deer Meat, The Source, Leeds Music Scene and The Observer have called them 'dirty', 'rolling', 'relentless', 'feral', 'menacing', 'hauntingly beautiful' and 'smart!'. We agree with all of these things.<br />
+<br />
+Wellcome's Magic Ink<br />
+<a href="http://www.wellcomecollection.org/exhibitionsandevents/onlineexhibits/index.htm?deepLink=Gethan_and_Wes_Wellcome%27s_Magic_Ink" rel="nofollow">http://www.wellcomecollection.org/exhibitionsandevents/onlineexhibits/index.htm?deepLink=Gethan_and_Wes_Wellcome%27s_Magic_Ink</a><br />
+<a href="http://ws.audioscrobbler.com/music/Gethan+Dick" class="bbcode_artist">Gethan Dick</a> and <a href="http://ws.audioscrobbler.com/music/Wes+White" class="bbcode_artist">Wes White</a> were commissioned in 2008 to produce a text for the inaugural exhibition on the Wellcome Collection's gallery of online exhibits. The resulting, interactive text, which is exclusively available on the Collection's website linked above, explores themes of sex, death and lemon juice. Gethan and Wes will read it together for Attack!!!! live.<br />
+<br />
+<a href="http://ws.audioscrobbler.com/music/Yusuf+Azak" class="bbcode_artist">Yusuf Azak</a><br />
+<a href="http://www.myspace.com/yusufazak" rel="nofollow">http://www.myspace.com/yusufazak</a><br />
+Yusuf is a singer-songwriter based in Glasgow. His intricate guitar-picking style and wash of vocals combine to give his songs a haunting, transcendant feel.<br />
+&quot;A special set of songs that beg to be heard by a wider audience&quot; - Is This Music?<br />
+&quot;A major new talent&quot; - Caught in the Carousel<br />
+&quot;Let's not beat about the bush here, shall we - this is really, really good&quot; - Song by Toad<br />
+<br />
+<a href="http://ws.audioscrobbler.com/music/Erica+Viola" class="bbcode_artist">Erica Viola</a><br />
+<a href="http://www.myspace.com/cheapdreams" rel="nofollow">http://www.myspace.com/cheapdreams</a><br />
+A poet in Omaha Nebraska whose work for us Bypasszine called 'superb', we can't afford to fly Erica over (just yet), so she's made some recordings specially for the night. That's just in case the satellite link-up fails...<br />
+<br />
+Also (to be confirmed) - <a href="http://ws.audioscrobbler.com/music/Robh+Hokum" class="bbcode_artist">Robh Hokum</a><br />
+<a href="http://www.myspace.com/robhhokum" rel="nofollow">http://www.myspace.com/robhhokum</a><br />
+More details if we're able to confirm him...<br />
+<br />
+<br />
+Cottonmouth Rocks and Yusuf Azak (respectively) recorded 'Yes I Do' and 19:19 specially for issue 9 of Attack!!!!, which you can buy online.<br />
+<a href="http://www.ecartilage.co.uk/attack0901.htm" rel="nofollow">http://www.ecartilage.co.uk/attack0901.htm</a><br />
+<br />
+Gethan Dick has contributed to every issue of Attack!!!!, Erica Viola a fair old few, and Wes White is the editor.<br />
+<br />
+£5 on the night, get there by 7.30 to avoid missing any brilliance.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/22840703.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/22840703.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/22840703.jpg</image>
+   <attendance>1</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=847628</tag>    
+  <url>http://www.last.fm/event/847628</url>
+</event></events></lfm>

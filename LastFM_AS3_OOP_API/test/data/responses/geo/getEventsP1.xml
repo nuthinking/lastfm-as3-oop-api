@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<events location="Madrid, Spain" page="1" totalpages="45" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" total="445">
+<event>
+  <id>963563</id>
+  <title>error cancelado</title>
+  <artists>
+    <artist>Error</artist>
+    <headliner>Error</headliner>
+
+  </artists>
+  <venue>
+    <name>Penélope</name>
+    <location>
+      <city>Madrid</city>
+      <country>Spain</country>
+      <street>HIlarion Eslava 30</street>
+
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>40.475498</geo:lat>
+         <geo:long>-3.579149</geo:long>
+      </geo:point>
+              <timezone>CET</timezone>
+          </location>
+
+    <url>http://www.last.fm/venue/9010413</url>
+  </venue>
+  <startDate>Mon, 04 May 2009</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/88558.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/88558.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/88558.jpg</image>
+
+   <attendance>0</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=963563</tag>  
+  <url>http://www.last.fm/event/963563</url>
+</event>
+<event>
+  <id>1017467</id>
+  <title>Pilar Jurado</title>
+
+  <artists>
+    <artist>Pilar Jurado</artist>
+    <artist>Solistas de Sevilla</artist>
+    <headliner>Pilar Jurado</headliner>
+  </artists>
+  <venue>
+    <name>Auditorio 400, Museo Centro de Arte Reina Sofía</name>
+
+    <location>
+      <city>Madrid</city>
+      <country>Spain</country>
+      <street></street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>40.408935</geo:lat>
+
+         <geo:long>-3.694693</geo:long>
+      </geo:point>
+              <timezone>CET</timezone>
+          </location>
+    <url>http://www.last.fm/venue/9013405</url>
+  </venue>
+  <startDate>Mon, 04 May 2009</startDate>
+
+  <startTime>19:00</startTime>
+  <description><![CDATA[<div class="bbcode"><img src="http://viewmorepics.myspace.com/index.cfm?fuseaction=viewImage&amp;friendID=439605613&amp;albumID=817699&amp;imageID=4953467" /></div>]]></description>
+  <image size="small"></image>
+  <image size="medium"></image>
+  <image size="large"></image>
+   <attendance>0</attendance>
+   <reviews>0</reviews>
+
+   <tag>lastfm:event=1017467</tag>  
+  <url>http://www.last.fm/event/1017467</url>
+</event>
+<event>
+  <id>669949</id>
+  <title>Orquesta y Coro de la Comunidad de Madrid</title>
+  <artists>
+    <artist>Joaquín Turina</artist>
+
+    <headliner>Joaquín Turina</headliner>
+  </artists>
+  <venue>
+    <name>Auditorio Nacional</name>
+    <location>
+      <city>Madrid</city>
+      <country>Spain</country>
+
+      <street>Príncipe de Vergara, 146</street>
+      <postalcode>28002</postalcode>
+      <geo:point>
+         <geo:lat>40.447186</geo:lat>
+         <geo:long>-3.677886</geo:long>
+      </geo:point>
+              <timezone>CET</timezone>
+
+          </location>
+    <url>http://www.last.fm/venue/8895252</url>
+  </venue>
+  <startDate>Mon, 04 May 2009</startDate>
+  <startTime>19:30</startTime>
+  <description><![CDATA[<div class="bbcode">Karina Azizova, piano<br />
+Carlos Cuesta, director<br />
+<br />
+Umbranles (*), de M. Martínez Burgos. Estreno absoluto. Obra ganadora del Premio Joaquín Rodrigo (2006), Ayuntamiento de Madrid.<br />
+Scarlattiana, de A. Casalle<br />
+Sinfonía Concertante, de B. Martinez<br />
+La procesión del Rocío, de J. de Turnina</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/424582.jpg</image>
+
+  <image size="medium">http://userserve-ak.last.fm/serve/64/424582.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/424582.jpg</image>
+   <attendance>1</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=669949</tag>  
+  <url>http://www.last.fm/event/669949</url>
+
+</event>
+<event>
+  <id>988631</id>
+  <title>Héctor Tuya</title>
+  <artists>
+    <artist>Héctor Tuya</artist>
+    <headliner>Héctor Tuya</headliner>
+  </artists>
+
+  <venue>
+    <name>Búho Real</name>
+    <location>
+      <city>Madrid</city>
+      <country>Spain</country>
+      <street>Regueros, 5</street>
+      <postalcode>28004</postalcode>
+
+      <geo:point>
+         <geo:lat>40.424475</geo:lat>
+         <geo:long>-3.696717</geo:long>
+      </geo:point>
+              <timezone>CET</timezone>
+          </location>
+    <url>http://www.last.fm/venue/8788164</url>
+
+  </venue>
+  <startDate>Mon, 04 May 2009</startDate>
+  <startTime>21:00</startTime>
+  <description><![CDATA[<div class="bbcode">Presentación del mini CD &quot;Edición Limitada&quot;<br />
+Cost: 8 euros</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/25569989.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/25569989.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/25569989.jpg</image>
+
+   <attendance>2</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=988631</tag>  
+  <url>http://www.last.fm/event/988631</url>
+</event>
+<event>
+  <id>969351</id>
+  <title>La Buena Vida</title>
+
+  <artists>
+    <artist>La Buena Vida</artist>
+    <artist>Coralie Clément</artist>
+    <headliner>La Buena Vida</headliner>
+  </artists>
+  <venue>
+    <name>Teatro Maravillas</name>
+
+    <location>
+      <city>Madrid</city>
+      <country>Spain</country>
+      <street>Calle de Manuela Malasaña, 6</street>
+      <postalcode>28004</postalcode>
+      <geo:point>
+         <geo:lat>40.428628</geo:lat>
+
+         <geo:long>-3.703221</geo:long>
+      </geo:point>
+              <timezone>CET</timezone>
+          </location>
+    <url>http://www.last.fm/venue/8982895</url>
+  </venue>
+  <startDate>Mon, 04 May 2009</startDate>
+
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/309854.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/309854.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/309854.jpg</image>
+   <attendance>25</attendance>
+   <reviews>0</reviews>
+
+   <tag>lastfm:event=969351</tag>  
+  <url>http://www.last.fm/event/969351</url>
+</event>
+<event>
+  <id>1033940</id>
+  <title>Cultural Survival</title>
+  <artists>
+    <artist>David Sánchez Quartet</artist>
+
+    <headliner>David Sánchez Quartet</headliner>
+  </artists>
+  <venue>
+    <name>Sala Clamores</name>
+    <location>
+      <city>Madrid</city>
+      <country>Spain</country>
+
+      <street>Alburquerque 14</street>
+      <postalcode>28010</postalcode>
+      <geo:point>
+         <geo:lat>40.431194</geo:lat>
+         <geo:long>-3.701026</geo:long>
+      </geo:point>
+              <timezone>CET</timezone>
+
+          </location>
+    <url>http://www.last.fm/venue/9006905</url>
+  </venue>
+  <startDate>Mon, 04 May 2009</startDate>
+  <startTime>21:30</startTime>
+  <description><![CDATA[<div class="bbcode">David Sanchez - tenor saxophone<br />
+Lage Lund - guitar<br />
+Orlando LeFleming - bass<br />
+Tony Escapa - drums</div>]]></description>
+  <image size="small"></image>
+
+  <image size="medium"></image>
+  <image size="large"></image>
+   <attendance>2</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1033940</tag>  
+  <url>http://www.last.fm/event/1033940</url>
+</event>
+<event>
+
+  <id>945731</id>
+  <title>The Darkest Tour 2009</title>
+  <artists>
+    <artist>Cradle of Filth</artist>
+    <artist>Moonspell</artist>
+    <artist>Turisas</artist>
+
+    <artist>Dead Shape Figure</artist>
+    <headliner>Cradle of Filth</headliner>
+  </artists>
+  <venue>
+    <name>Penélope</name>
+    <location>
+      <city>Madrid</city>
+
+      <country>Spain</country>
+      <street>C/ Hilarión Eslava, 36</street>
+      <postalcode>28015</postalcode>
+      <geo:point>
+         <geo:lat>40.436009</geo:lat>
+         <geo:long>-3.716615</geo:long>
+
+      </geo:point>
+              <timezone>CET</timezone>
+          </location>
+    <url>http://www.last.fm/venue/9006504</url>
+  </venue>
+  <startDate>Mon, 04 May 2009</startDate>
+  <description><![CDATA[<div class="bbcode">Confirmados:<br />
+<a href="http://ws.audioscrobbler.com/music/Cradle+of+Filth" class="bbcode_artist">Cradle of Filth</a><br />
+<a href="http://ws.audioscrobbler.com/music/Moonspell" class="bbcode_artist">Moonspell</a><br />
+<a href="http://ws.audioscrobbler.com/music/Turisas" class="bbcode_artist">Turisas</a><br />
+<br />
+<a href="http://www.royalartistclub.com/turisas/2009/3/1/6293.aspx" rel="nofollow">http://www.royalartistclub.com/turisas/2009/3/1/6293.aspx</a></div>]]></description>
+
+  <image size="small">http://userserve-ak.last.fm/serve/34/71476.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/71476.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/71476.jpg</image>
+   <attendance>56</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=945731</tag>  
+  <url>http://www.last.fm/event/945731</url>
+
+</event>
+<event>
+  <id>1004138</id>
+  <title>DeVotchka + Pony Bravo</title>
+  <artists>
+    <artist>DeVotchKa</artist>
+    <artist>Pony Bravo</artist>
+    <headliner>DeVotchKa</headliner>
+
+  </artists>
+  <venue>
+    <name>El sol</name>
+    <location>
+      <city>Madrid</city>
+      <country>Spain</country>
+      <street>Jardines 3</street>
+
+      <postalcode>28013</postalcode>
+      <geo:point>
+         <geo:lat>40.418931</geo:lat>
+         <geo:long>-3.701917</geo:long>
+      </geo:point>
+              <timezone>CET</timezone>
+          </location>
+
+    <url>http://www.last.fm/venue/8784027</url>
+  </venue>
+  <startDate>Tue, 05 May 2009</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/24499.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/24499.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/24499.jpg</image>
+
+   <attendance>50</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1004138</tag>  
+  <url>http://www.last.fm/event/1004138</url>
+</event>
+<event>
+  <id>969355</id>
+  <title>La Buena Vida</title>
+
+  <artists>
+    <artist>La Buena Vida</artist>
+    <artist>Coralie Clément</artist>
+    <headliner>La Buena Vida</headliner>
+  </artists>
+  <venue>
+    <name>Teatro Maravillas</name>
+
+    <location>
+      <city>Madrid</city>
+      <country>Spain</country>
+      <street>Calle de Manuela Malasaña, 6</street>
+      <postalcode>28004</postalcode>
+      <geo:point>
+         <geo:lat>40.428628</geo:lat>
+
+         <geo:long>-3.703221</geo:long>
+      </geo:point>
+              <timezone>CET</timezone>
+          </location>
+    <url>http://www.last.fm/venue/8982895</url>
+  </venue>
+  <startDate>Tue, 05 May 2009</startDate>
+
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/309854.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/309854.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/309854.jpg</image>
+   <attendance>19</attendance>
+   <reviews>0</reviews>
+
+   <tag>lastfm:event=969355</tag>  
+  <url>http://www.last.fm/event/969355</url>
+</event>
+<event>
+  <id>1033966</id>
+  <title>David Sánchez Quartet</title>
+  <artists>
+    <artist>David Sánchez Quartet</artist>
+
+    <headliner>David Sánchez Quartet</headliner>
+  </artists>
+  <venue>
+    <name>Sala Clamores</name>
+    <location>
+      <city>Madrid</city>
+      <country>Spain</country>
+
+      <street>Alburquerque 14</street>
+      <postalcode>28010</postalcode>
+      <geo:point>
+         <geo:lat>40.431194</geo:lat>
+         <geo:long>-3.701026</geo:long>
+      </geo:point>
+              <timezone>CET</timezone>
+
+          </location>
+    <url>http://www.last.fm/venue/9006905</url>
+  </venue>
+  <startDate>Tue, 05 May 2009</startDate>
+  <startTime>21:30</startTime>
+  <description></description>
+  <image size="small"></image>
+
+  <image size="medium"></image>
+  <image size="large"></image>
+   <attendance>2</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=1033966</tag>  
+  <url>http://www.last.fm/event/1033966</url>
+</event>
+</events></lfm>
+

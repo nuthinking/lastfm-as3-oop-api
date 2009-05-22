@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lfm status="ok">
+<weeklyartistchart group="mnml" from="1241956800" to="1242561600">
+<artist rank="1">
+    <name>Gui Boratto</name>
+    <mbid>f3e2ad21-900e-46a0-8597-2a3e457a7c27</mbid>
+    <playcount>91</playcount>
+    <url>http://www.last.fm/music/Gui+Boratto</url>
+</artist>
+<artist rank="2">
+    <name>Depeche Mode</name>
+    <mbid>8538e728-ca0b-4321-b7e5-cff6565dd4c0</mbid>
+    <playcount>83</playcount>
+    <url>http://www.last.fm/music/Depeche+Mode</url>
+</artist>
+<artist rank="3">
+    <name>Paul Kalkbrenner</name>
+    <mbid>a5f92d47-b562-4582-b267-71963a515f4c</mbid>
+    <playcount>68</playcount>
+    <url>http://www.last.fm/music/Paul+Kalkbrenner</url>
+</artist>
+<artist rank="4">
+    <name>Ellen Allien</name>
+    <mbid>2ff63f00-0954-4b14-9007-e19b822fc8b2</mbid>
+    <playcount>64</playcount>
+    <url>http://www.last.fm/music/Ellen+Allien</url>
+</artist>
+<artist rank="5">
+    <name>Apparat</name>
+    <mbid>dc3dbfc1-f1f1-49c6-9d7c-425fabf3ae12</mbid>
+    <playcount>62</playcount>
+    <url>http://www.last.fm/music/Apparat</url>
+</artist>
+<artist rank="6">
+    <name>Aphex Twin</name>
+    <mbid>f22942a1-6f70-4f48-866e-238cb2308fbd</mbid>
+    <playcount>61</playcount>
+    <url>http://www.last.fm/music/Aphex+Twin</url>
+</artist>
+<artist rank="6">
+    <name>Ricardo Villalobos</name>
+    <mbid>bbd79854-df54-4c1b-b7d6-cf7eea2d0afb</mbid>
+    <playcount>61</playcount>
+    <url>http://www.last.fm/music/Ricardo+Villalobos</url>
+</artist>
+<artist rank="8">
+    <name>Röyksopp</name>
+    <mbid>1c70a3fc-fa3c-4be1-8b55-c3192db8a884</mbid>
+    <playcount>59</playcount>
+    <url>http://www.last.fm/music/R%C3%B6yksopp</url>
+</artist>
+<artist rank="8">
+    <name>Radiohead</name>
+    <mbid>a74b1b7f-71a5-4011-9441-d0b5e4122711</mbid>
+    <playcount>59</playcount>
+    <url>http://www.last.fm/music/Radiohead</url>
+</artist>
+<artist rank="10">
+    <name>Nathan Fake</name>
+    <mbid>a77f6f2f-19a2-4648-9018-3ad3aa4c1b9b</mbid>
+    <playcount>55</playcount>
+    <url>http://www.last.fm/music/Nathan+Fake</url>
+</artist>
+<artist rank="11">
+    <name>Richie Hawtin</name>
+    <mbid>76da816f-ea05-4172-ad9e-ffb69c32199f</mbid>
+    <playcount>54</playcount>
+    <url>http://www.last.fm/music/Richie+Hawtin</url>
+</artist>
+<artist rank="12">
+    <name>The Field</name>
+    <mbid>e5d87018-16a1-4a05-acfd-6a4809ac62f6</mbid>
+    <playcount>53</playcount>
+    <url>http://www.last.fm/music/The+Field</url>
+</artist>
+<artist rank="12">
+    <name>Daft Punk</name>
+    <mbid>056e4f3e-d505-4dad-8ec1-d04f521cbb56</mbid>
+    <playcount>53</playcount>
+    <url>http://www.last.fm/music/Daft+Punk</url>
+</artist>
+<artist rank="12">
+    <name>Hot Chip</name>
+    <mbid>d8915e13-d67a-4aa0-9c0b-1f126af951af</mbid>
+    <playcount>53</playcount>
+    <url>http://www.last.fm/music/Hot+Chip</url>
+</artist>
+<artist rank="12">
+    <name>Boards of Canada</name>
+    <mbid>69158f97-4c07-4c4e-baf8-4e4ab1ed666e</mbid>
+    <playcount>53</playcount>
+    <url>http://www.last.fm/music/Boards+of+Canada</url>
+</artist>
+<artist rank="16">
+    <name>Moderat</name>
+    <mbid>7754905b-8bf7-48e2-935a-03d566fec464</mbid>
+    <playcount>52</playcount>
+    <url>http://www.last.fm/music/Moderat</url>
+</artist>
+<artist rank="17">
+    <name>Dominik Eulberg</name>
+    <mbid>8f0d3885-04d9-4a13-aed7-96a25f9f9842</mbid>
+    <playcount>50</playcount>
+    <url>http://www.last.fm/music/Dominik+Eulberg</url>
+</artist>
+<artist rank="18">
+    <name>Air</name>
+    <mbid>cb67438a-7f50-4f2b-a6f1-2bb2729fd538</mbid>
+    <playcount>49</playcount>
+    <url>http://www.last.fm/music/Air</url>
+</artist>
+<artist rank="18">
+    <name>Portishead</name>
+    <mbid>8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11</mbid>
+    <playcount>49</playcount>
+    <url>http://www.last.fm/music/Portishead</url>
+</artist>
+<artist rank="18">
+    <name>Burial</name>
+    <mbid>9ddce51c-2b75-4b3e-ac8c-1db09e7c89c6</mbid>
+    <playcount>49</playcount>
+    <url>http://www.last.fm/music/Burial</url>
+</artist>
+<artist rank="18">
+    <name>Minilogue</name>
+    <mbid>56a70482-5528-4bef-8da2-a33cf098ce9b</mbid>
+    <playcount>49</playcount>
+    <url>http://www.last.fm/music/Minilogue</url>
+</artist>
+<artist rank="22">
+    <name>Ellen Allien &amp; Apparat</name>
+    <mbid>64b86e99-b6ec-4fb1-a5cd-f95482d3b57a</mbid>
+    <playcount>47</playcount>
+    <url>http://www.last.fm/music/Ellen%2BAllien%2B%2526%2BApparat</url>
+</artist>
+<artist rank="23">
+    <name>The Knife</name>
+    <mbid>bf710b71-48e5-4e15-9bd6-96debb2e4e98</mbid>
+    <playcount>46</playcount>
+    <url>http://www.last.fm/music/The+Knife</url>
+</artist>
+<artist rank="24">
+    <name>Extrawelt</name>
+    <mbid>1ef2bd54-9610-40ba-87dd-c195828411a9</mbid>
+    <playcount>45</playcount>
+    <url>http://www.last.fm/music/Extrawelt</url>
+</artist>
+<artist rank="25">
+    <name>Booka Shade</name>
+    <mbid>9940c604-2456-4193-a403-ab18420bc1e9</mbid>
+    <playcount>44</playcount>
+    <url>http://www.last.fm/music/Booka+Shade</url>
+</artist>
+<artist rank="25">
+    <name>Sascha Funke</name>
+    <mbid>c32c4e72-ee6f-4a12-b8ec-2d8506387ae2</mbid>
+    <playcount>44</playcount>
+    <url>http://www.last.fm/music/Sascha+Funke</url>
+</artist>
+<artist rank="27">
+    <name>Trentemøller</name>
+    <mbid>95e9aba6-f85c-48a0-9ec9-395d4f0e3875</mbid>
+    <playcount>43</playcount>
+    <url>http://www.last.fm/music/Trentem%C3%B8ller</url>
+</artist>
+<artist rank="28">
+    <name>The Prodigy</name>
+    <mbid>4a4ee089-93b1-4470-af9a-6ff575d32704</mbid>
+    <playcount>42</playcount>
+    <url>http://www.last.fm/music/The+Prodigy</url>
+</artist>
+<artist rank="28">
+    <name>Modeselektor</name>
+    <mbid>8a7a4e72-a099-425f-8238-80706fc1c746</mbid>
+    <playcount>42</playcount>
+    <url>http://www.last.fm/music/Modeselektor</url>
+</artist>
+<artist rank="28">
+    <name>Plastikman</name>
+    <mbid>abee98f6-5239-4abf-bbe6-e1e2815a0dd6</mbid>
+    <playcount>42</playcount>
+    <url>http://www.last.fm/music/Plastikman</url>
+</artist>
+<artist rank="31">
+    <name>DJ Koze</name>
+    <mbid>dd4458c8-6728-4a44-980c-48107fa72bb8</mbid>
+    <playcount>41</playcount>
+    <url>http://www.last.fm/music/DJ+Koze</url>
+</artist>
+<artist rank="31">
+    <name>Björk</name>
+    <mbid>87c5dedd-371d-4a53-9f7f-80522fb7f3cb</mbid>
+    <playcount>41</playcount>
+    <url>http://www.last.fm/music/Bj%C3%B6rk</url>
+</artist>
+<artist rank="31">
+    <name>Massive Attack</name>
+    <mbid>10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8</mbid>
+    <playcount>41</playcount>
+    <url>http://www.last.fm/music/Massive+Attack</url>
+</artist>
+<artist rank="34">
+    <name>Alex Smoke</name>
+    <mbid>a2caa7c9-2510-40f0-9fb9-88f45cf993ba</mbid>
+    <playcount>40</playcount>
+    <url>http://www.last.fm/music/Alex+Smoke</url>
+</artist>
+<artist rank="35">
+    <name>Fever Ray</name>
+    <mbid/>
+    <playcount>39</playcount>
+    <url>http://www.last.fm/music/Fever+Ray</url>
+</artist>
+<artist rank="36">
+    <name>Matthew Dear</name>
+    <mbid>3d191c12-be64-4f90-94d8-ac324b2b3544</mbid>
+    <playcount>38</playcount>
+    <url>http://www.last.fm/music/Matthew+Dear</url>
+</artist>
+<artist rank="36">
+    <name>Pantha Du Prince</name>
+    <mbid>ac18992d-d90c-41d0-b56b-66fe1d51608e</mbid>
+    <playcount>38</playcount>
+    <url>http://www.last.fm/music/Pantha+Du+Prince</url>
+</artist>
+<artist rank="38">
+    <name>Lawrence</name>
+    <mbid>819a9744-627b-4bf5-92e9-f894b0f252e6</mbid>
+    <playcount>37</playcount>
+    <url>http://www.last.fm/music/Lawrence</url>
+</artist>
+<artist rank="38">
+    <name>Loco Dice</name>
+    <mbid>1292906d-cd67-4158-a3d6-19c7c9df3e8f</mbid>
+    <playcount>37</playcount>
+    <url>http://www.last.fm/music/Loco+Dice</url>
+</artist>
+<artist rank="38">
+    <name>Efdemin</name>
+    <mbid>db0425d6-0d79-42bc-a9a3-c8b55b709911</mbid>
+    <playcount>37</playcount>
+    <url>http://www.last.fm/music/Efdemin</url>
+</artist>
+<artist rank="41">
+    <name>MGMT</name>
+    <mbid>c485632c-b784-4ee9-8ea1-c5fb365681fc</mbid>
+    <playcount>36</playcount>
+    <url>http://www.last.fm/music/MGMT</url>
+</artist>
+<artist rank="41">
+    <name>SCSI-9</name>
+    <mbid>ec4e96b9-a5fc-4eea-9c69-2cc2a395f46e</mbid>
+    <playcount>36</playcount>
+    <url>http://www.last.fm/music/SCSI-9</url>
+</artist>
+<artist rank="43">
+    <name>Crystal Castles</name>
+    <mbid>b1570544-93ab-4b2b-8398-131735394202</mbid>
+    <playcount>35</playcount>
+    <url>http://www.last.fm/music/Crystal+Castles</url>
+</artist>
+<artist rank="43">
+    <name>Amon Tobin</name>
+    <mbid>630662ea-1c7d-4208-99fd-ba3afec20f0c</mbid>
+    <playcount>35</playcount>
+    <url>http://www.last.fm/music/Amon+Tobin</url>
+</artist>
+<artist rank="43">
+    <name>Digitalism</name>
+    <mbid>7b52603c-a84c-4a76-8dc8-899bb4dd9fa7</mbid>
+    <playcount>35</playcount>
+    <url>http://www.last.fm/music/Digitalism</url>
+</artist>
+<artist rank="43">
+    <name>Telefon Tel Aviv</name>
+    <mbid>453f1594-112e-4d3c-921a-8d14e9c97b2e</mbid>
+    <playcount>35</playcount>
+    <url>http://www.last.fm/music/Telefon+Tel+Aviv</url>
+</artist>
+<artist rank="47">
+    <name>Alex Under</name>
+    <mbid>6c0d2b84-9c1d-4c34-be55-1e7d674a60a9</mbid>
+    <playcount>34</playcount>
+    <url>http://www.last.fm/music/Alex+Under</url>
+</artist>
+<artist rank="47">
+    <name>The Cure</name>
+    <mbid>69ee3720-a7cb-4402-b48d-a02c366f2bcf</mbid>
+    <playcount>34</playcount>
+    <url>http://www.last.fm/music/The+Cure</url>
+</artist>
+<artist rank="47">
+    <name>Ladytron</name>
+    <mbid>b45335d1-5219-4262-a44d-936aa36eeaed</mbid>
+    <playcount>34</playcount>
+    <url>http://www.last.fm/music/Ladytron</url>
+</artist>
+<artist rank="47">
+    <name>Bat for Lashes</name>
+    <mbid>10000730-525f-4ed5-aaa8-92888f060f5f</mbid>
+    <playcount>34</playcount>
+    <url>http://www.last.fm/music/Bat+for+Lashes</url>
+</artist>
+<artist rank="47">
+    <name>Moby</name>
+    <mbid>8970d868-0723-483b-a75b-51088913d3d4</mbid>
+    <playcount>34</playcount>
+    <url>http://www.last.fm/music/Moby</url>
+</artist>
+<artist rank="47">
+    <name>Autechre</name>
+    <mbid>410c9baf-5469-44f6-9852-826524b80c61</mbid>
+    <playcount>34</playcount>
+    <url>http://www.last.fm/music/Autechre</url>
+</artist>
+<artist rank="53">
+    <name>David Bowie</name>
+    <mbid>5441c29d-3602-4898-b1a1-b77fa23b8e50</mbid>
+    <playcount>33</playcount>
+    <url>http://www.last.fm/music/David+Bowie</url>
+</artist>
+<artist rank="53">
+    <name>Justice</name>
+    <mbid>444f2191-8841-440e-bbc1-6fd564893946</mbid>
+    <playcount>33</playcount>
+    <url>http://www.last.fm/music/Justice</url>
+</artist>
+<artist rank="53">
+    <name>M83</name>
+    <mbid>6d7b7cd4-254b-4c25-83f6-dd20f98ceacd</mbid>
+    <playcount>33</playcount>
+    <url>http://www.last.fm/music/M83</url>
+</artist>
+<artist rank="53">
+    <name>Thievery Corporation</name>
+    <mbid>a505bb48-ad65-4af4-ae47-29149715bff9</mbid>
+    <playcount>33</playcount>
+    <url>http://www.last.fm/music/Thievery+Corporation</url>
+</artist>
+<artist rank="53">
+    <name>Laurent Garnier</name>
+    <mbid>ec477866-bfaa-48e0-affd-1c151ef61b7b</mbid>
+    <playcount>33</playcount>
+    <url>http://www.last.fm/music/Laurent+Garnier</url>
+</artist>
+<artist rank="53">
+    <name>Burial &amp; Four Tet</name>
+    <mbid/>
+    <playcount>33</playcount>
+    <url>http://www.last.fm/music/Burial%2B%2526%2BFour%2BTet</url>
+</artist>
+<artist rank="53">
+    <name>Stimming</name>
+    <mbid/>
+    <playcount>33</playcount>
+    <url>http://www.last.fm/music/Stimming</url>
+</artist>
+<artist rank="60">
+    <name>Feist</name>
+    <mbid>a670e05a-cea8-4b37-bce9-d82daf1a0fa4</mbid>
+    <playcount>32</playcount>
+    <url>http://www.last.fm/music/Feist</url>
+</artist>
+<artist rank="60">
+    <name>Klaxons</name>
+    <mbid>63011a8d-0117-4f7e-9991-1ef1f337ff70</mbid>
+    <playcount>32</playcount>
+    <url>http://www.last.fm/music/Klaxons</url>
+</artist>
+<artist rank="60">
+    <name>Bonobo</name>
+    <mbid>9a709693-b4f8-4da9-8cc1-038c911a61be</mbid>
+    <playcount>32</playcount>
+    <url>http://www.last.fm/music/Bonobo</url>
+</artist>
+<artist rank="60">
+    <name>Joy Division</name>
+    <mbid>9a58fda3-f4ed-4080-a3a5-f457aac9fcdd</mbid>
+    <playcount>32</playcount>
+    <url>http://www.last.fm/music/Joy+Division</url>
+</artist>
+<artist rank="64">
+    <name>The Chemical Brothers</name>
+    <mbid>1946a82a-f927-40c2-8235-38d64f50d043</mbid>
+    <playcount>31</playcount>
+    <url>http://www.last.fm/music/The+Chemical+Brothers</url>
+</artist>
+<artist rank="64">
+    <name>Beck</name>
+    <mbid>309c62ba-7a22-4277-9f67-4a162526d18a</mbid>
+    <playcount>31</playcount>
+    <url>http://www.last.fm/music/Beck</url>
+</artist>
+<artist rank="64">
+    <name>DJ Shadow</name>
+    <mbid>efa2c11a-1a35-4b60-bc1b-66d37de88511</mbid>
+    <playcount>31</playcount>
+    <url>http://www.last.fm/music/DJ+Shadow</url>
+</artist>
+<artist rank="67">
+    <name>Bloc Party</name>
+    <mbid>8c538f11-c141-4588-8ecb-931083524186</mbid>
+    <playcount>30</playcount>
+    <url>http://www.last.fm/music/Bloc+Party</url>
+</artist>
+<artist rank="67">
+    <name>Coldplay</name>
+    <mbid>cc197bad-dc9c-440d-a5b5-d52ba2e14234</mbid>
+    <playcount>30</playcount>
+    <url>http://www.last.fm/music/Coldplay</url>
+</artist>
+<artist rank="67">
+    <name>Goldfrapp</name>
+    <mbid>7b885d42-3c41-4f43-9944-a5855ec5155e</mbid>
+    <playcount>30</playcount>
+    <url>http://www.last.fm/music/Goldfrapp</url>
+</artist>
+<artist rank="67">
+    <name>Tiga</name>
+    <mbid>58e5332d-383e-414c-9917-776d7b1493a2</mbid>
+    <playcount>30</playcount>
+    <url>http://www.last.fm/music/Tiga</url>
+</artist>
+<artist rank="67">
+    <name>Swayzak</name>
+    <mbid>2d91695d-a291-49d4-a028-2584edbf9bd6</mbid>
+    <playcount>30</playcount>
+    <url>http://www.last.fm/music/Swayzak</url>
+</artist>
+<artist rank="67">
+    <name>Junior Boys</name>
+    <mbid>86a064f9-3ed4-4621-b29d-d05442c6b1ae</mbid>
+    <playcount>30</playcount>
+    <url>http://www.last.fm/music/Junior+Boys</url>
+</artist>
+<artist rank="67">
+    <name>Kraftwerk</name>
+    <mbid>5700dcd4-c139-4f31-aa3e-6382b9af9032</mbid>
+    <playcount>30</playcount>
+    <url>http://www.last.fm/music/Kraftwerk</url>
+</artist>
+<artist rank="74">
+    <name>Kollektiv Turmstrasse</name>
+    <mbid>68205877-7c7b-45c7-adb6-2edb9b380e2f</mbid>
+    <playcount>29</playcount>
+    <url>http://www.last.fm/music/Kollektiv+Turmstrasse</url>
+</artist>
+<artist rank="74">
+    <name>Phoenix</name>
+    <mbid>99d7b49c-c18e-4a11-bf3e-b71710938df6</mbid>
+    <playcount>29</playcount>
+    <url>http://www.last.fm/music/Phoenix</url>
+</artist>
+<artist rank="76">
+    <name>Yeah Yeah Yeahs</name>
+    <mbid>584c04d2-4acc-491b-8a0a-e63133f4bfc4</mbid>
+    <playcount>28</playcount>
+    <url>http://www.last.fm/music/Yeah+Yeah+Yeahs</url>
+</artist>
+<artist rank="76">
+    <name>The Whitest Boy Alive</name>
+    <mbid>f83781c8-64f9-4657-85bd-51f74d195cfd</mbid>
+    <playcount>28</playcount>
+    <url>http://www.last.fm/music/The+Whitest+Boy+Alive</url>
+</artist>
+<artist rank="76">
+    <name>Lamb</name>
+    <mbid>0d4bc6e5-2a3e-4fdf-8bbf-59ad0bc374d7</mbid>
+    <playcount>28</playcount>
+    <url>http://www.last.fm/music/Lamb</url>
+</artist>
+<artist rank="76">
+    <name>Gorillaz</name>
+    <mbid>e21857d5-3256-4547-afb3-4b6ded592596</mbid>
+    <playcount>28</playcount>
+    <url>http://www.last.fm/music/Gorillaz</url>
+</artist>
+<artist rank="76">
+    <name>Basement Jaxx</name>
+    <mbid>28cbf94d-0700-4095-a188-37e373b069a7</mbid>
+    <playcount>28</playcount>
+    <url>http://www.last.fm/music/Basement+Jaxx</url>
+</artist>
+<artist rank="76">
+    <name>Robert Babicz</name>
+    <mbid>c0c0e16b-91f5-4e6a-bc34-3e80c23c0faf</mbid>
+    <playcount>28</playcount>
+    <url>http://www.last.fm/music/Robert+Babicz</url>
+</artist>
+<artist rank="76">
+    <name>Gabriel Ananda</name>
+    <mbid>40bd56ef-fdbd-4ebe-a8cb-37127c09bcfe</mbid>
+    <playcount>28</playcount>
+    <url>http://www.last.fm/music/Gabriel+Ananda</url>
+</artist>
+<artist rank="76">
+    <name>Zero 7</name>
+    <mbid>c23b637b-97c6-41eb-8ef6-6c724efc80a8</mbid>
+    <playcount>28</playcount>
+    <url>http://www.last.fm/music/Zero+7</url>
+</artist>
+<artist rank="76">
+    <name>The Smiths</name>
+    <mbid>40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27</mbid>
+    <playcount>28</playcount>
+    <url>http://www.last.fm/music/The+Smiths</url>
+</artist>
+<artist rank="76">
+    <name>Miss Kittin &amp; The Hacker</name>
+    <mbid>bc7ec666-4700-4f48-a797-5c607f84a890</mbid>
+    <playcount>28</playcount>
+    <url>http://www.last.fm/music/Miss%2BKittin%2B%2526%2BThe%2BHacker</url>
+</artist>
+<artist rank="76">
+    <name>Ben Klock</name>
+    <mbid>c5af0c3f-e401-43ed-a096-b504606a05cb</mbid>
+    <playcount>28</playcount>
+    <url>http://www.last.fm/music/Ben+Klock</url>
+</artist>
+<artist rank="87">
+    <name>Tosca</name>
+    <mbid>3231d12a-c42d-4977-b2a4-a6e4d87978e1</mbid>
+    <playcount>27</playcount>
+    <url>http://www.last.fm/music/Tosca</url>
+</artist>
+<artist rank="87">
+    <name>The Presets</name>
+    <mbid>f5b8ea5f-c269-45dd-9936-1fedf3c56851</mbid>
+    <playcount>27</playcount>
+    <url>http://www.last.fm/music/The+Presets</url>
+</artist>
+<artist rank="87">
+    <name>Franz Ferdinand</name>
+    <mbid>aa7a2827-f74b-473c-bd79-03d065835cf7</mbid>
+    <playcount>27</playcount>
+    <url>http://www.last.fm/music/Franz+Ferdinand</url>
+</artist>
+<artist rank="87">
+    <name>Animal Collective</name>
+    <mbid>0c751690-c784-4a4f-b1e4-c1de27d47581</mbid>
+    <playcount>27</playcount>
+    <url>http://www.last.fm/music/Animal+Collective</url>
+</artist>
+<artist rank="87">
+    <name>Deadmau5</name>
+    <mbid/>
+    <playcount>27</playcount>
+    <url>http://www.last.fm/music/Deadmau5</url>
+</artist>
+<artist rank="87">
+    <name>Mathew Jonson</name>
+    <mbid>955718ae-8a26-4b98-8a34-02c44ab4bfdf</mbid>
+    <playcount>27</playcount>
+    <url>http://www.last.fm/music/Mathew+Jonson</url>
+</artist>
+<artist rank="87">
+    <name>Plaid</name>
+    <mbid>7e54d133-2525-4bc0-ae94-65584145a386</mbid>
+    <playcount>27</playcount>
+    <url>http://www.last.fm/music/Plaid</url>
+</artist>
+<artist rank="87">
+    <name>Flying Lotus</name>
+    <mbid>fc7376fe-1a6f-4414-b4a7-83f50ed59c92</mbid>
+    <playcount>27</playcount>
+    <url>http://www.last.fm/music/Flying+Lotus</url>
+</artist>
+<artist rank="87">
+    <name>Gregor Tresher</name>
+    <mbid>c1b39cbb-0605-4a6f-bfc7-03b646f45ec2</mbid>
+    <playcount>27</playcount>
+    <url>http://www.last.fm/music/Gregor+Tresher</url>
+</artist>
+<artist rank="87">
+    <name>The Killers</name>
+    <mbid>95e1ead9-4d31-4808-a7ac-32c3614c116b</mbid>
+    <playcount>27</playcount>
+    <url>http://www.last.fm/music/The+Killers</url>
+</artist>
+<artist rank="87">
+    <name>Kings of Leon</name>
+    <mbid>6ffb8ea9-2370-44d8-b678-e9237bbd347b</mbid>
+    <playcount>27</playcount>
+    <url>http://www.last.fm/music/Kings+of+Leon</url>
+</artist>
+<artist rank="98">
+    <name>Simian Mobile Disco</name>
+    <mbid>69ec6867-bda0-404b-bac4-338df8d73723</mbid>
+    <playcount>26</playcount>
+    <url>http://www.last.fm/music/Simian+Mobile+Disco</url>
+</artist>
+<artist rank="98">
+    <name>Four Tet</name>
+    <mbid>3bcff06f-675a-451f-9075-99e8657047e8</mbid>
+    <playcount>26</playcount>
+    <url>http://www.last.fm/music/Four+Tet</url>
+</artist>
+<artist rank="98">
+    <name>Nine Inch Nails</name>
+    <mbid>b7ffd2af-418f-4be2-bdd1-22f8b48613da</mbid>
+    <playcount>26</playcount>
+    <url>http://www.last.fm/music/Nine+Inch+Nails</url>
+</artist>
+</weeklyartistchart></lfm>
