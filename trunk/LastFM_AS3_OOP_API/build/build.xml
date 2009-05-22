@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<project name="AS3 Compile" default="swc" basedir="../">
+	<property file="build/build.properties"/>
+	
+	<target name="swc">
+		<exec executable="${flex3-3.dir}/${swc.compiler}">
+			<arg line="-o=${deploy.dir}/${output.file}"/>
+			<arg line="-source-path='${basedir}/${source.dir}'"/>
+			<arg line="-include-sources='${basedir}/${source.dir}'"/>
+		</exec>
+	</target>
+
+</project>

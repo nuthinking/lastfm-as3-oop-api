@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lfm status="ok">
+<results for="cher" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<opensearch:Query role="request" searchTerms="cher" startPage="2"/>
+<opensearch:totalResults>448</opensearch:totalResults>
+<opensearch:startIndex>20</opensearch:startIndex>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+<artistmatches>
+<artist>
+    <name>Cher &amp; Peter Cetera</name>
+    <mbid/>
+    <url>www.last.fm/music/+noredirect/Cher%2B%2526%2BPeter%2BCetera</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/27881161.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/27881161.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/27881161.jpg</image>
+    <streamable>0</streamable>
+</artist>
+<artist>
+    <name>Cher/Peter Cetera</name>
+    <mbid/>
+    <url>www.last.fm/music/Cher%252FPeter%2BCetera</url>
+    <image size="small"/>
+    <image size="medium"/>
+    <image size="large"/>
+    <streamable>0</streamable>
+</artist>
+<artist>
+    <name>Sunny and Cher</name>
+    <mbid/>
+    <url>www.last.fm/music/+noredirect/Sunny+and+Cher</url>
+    <image size="small"/>
+    <image size="medium"/>
+    <image size="large"/>
+    <streamable>0</streamable>
+</artist>
+<artist>
+    <name>Cher With Beavis And Butt-head</name>
+    <mbid>b0bafb6e-16e3-4084-920e-6e081475838d</mbid>
+    <url>www.last.fm/music/Cher+With+Beavis+And+Butt-head</url>
+    <image size="small"/>
+    <image size="medium"/>
+    <image size="large"/>
+    <streamable>0</streamable>
+</artist>
+<artist>
+    <name>Rod Stewart featuring Cher</name>
+    <mbid/>
+    <url>www.last.fm/music/+noredirect/Rod+Stewart+featuring+Cher</url>
+    <image size="small"/>
+    <image size="medium"/>
+    <image size="large"/>
+    <streamable>1</streamable>
+</artist>
+<artist>
+    <name>Meat Loaf;Cher</name>
+    <mbid/>
+    <url>www.last.fm/music/Meat%2BLoaf%253BCher</url>
+    <image size="small"/>
+    <image size="medium"/>
+    <image size="large"/>
+    <streamable>0</streamable>
+</artist>
+<artist>
+    <name>Cher, Chrissie Hynde &amp; Neneh Cherry</name>
+    <mbid/>
+    <url>www.last.fm/music/Cher%252C%2BChrissie%2BHynde%2B%2526%2BNeneh%2BCherry</url>
+    <image size="small"/>
+    <image size="medium"/>
+    <image size="large"/>
+    <streamable>0</streamable>
+</artist>
+<artist>
+    <name>Cher with Meatloaf</name>
+    <mbid/>
+    <url>www.last.fm/music/+noredirect/Cher+with+Meatloaf</url>
+    <image size="small"/>
+    <image size="medium"/>
+    <image size="large"/>
+    <streamable>0</streamable>
+</artist>
+<artist>
+    <name>Meatloaf &amp; Cher</name>
+    <mbid/>
+    <url>www.last.fm/music/+noredirect/Meatloaf%2B%2526%2BCher</url>
+    <image size="small"/>
+    <image size="medium"/>
+    <image size="large"/>
+    <streamable>0</streamable>
+</artist>
+<artist>
+    <name>11 Cher</name>
+    <mbid/>
+    <url>www.last.fm/music/+noredirect/11+Cher</url>
+    <image size="small"/>
+    <image size="medium"/>
+    <image size="large"/>
+    <streamable>0</streamable>
+</artist>
+<artist>
+    <name>Cher/Meatloaf</name>
+    <mbid/>
+    <url>www.last.fm/music/Cher%252FMeatloaf</url>
+    <image size="small"/>
+    <image size="medium"/>
+    <image size="large"/>
+    <streamable>0</streamable>
+</artist>
+<artist>
+    <name>Meat Loaf and Cher</name>
+    <mbid>ef2d470a-0c1b-4026-9a52-b31414a64ab9</mbid>
+    <url>www.last.fm/music/+noredirect/Meat+Loaf+and+Cher</url>
+    <image size="small"/>
+    <image size="medium"/>
+    <image size="large"/>
+    <streamable>0</streamable>
+</artist>
+<artist>
+    <name>Tina Turner, Elton John &amp; Cher</name>
+    <mbid/>
+    <url>www.last.fm/music/+noredirect/Tina%2BTurner%252C%2BElton%2BJohn%2B%2526%2BCher</url>
+    <image size="small"/>
+    <image size="medium"/>
+    <image size="large"/>
+    <streamable>0</streamable>
+</artist>
+<artist>
+    <name>Meat Loaf (with Cher) - Dead Ringer For Love</name>
+    <mbid/>
+    <url>www.last.fm/music/Meat+Loaf+%28with+Cher%29+-+Dead+Ringer+For+Love</url>
+    <image size="small"/>
+    <image size="medium"/>
+    <image size="large"/>
+    <streamable>0</streamable>
+</artist>
+<artist>
+    <name>Peter Cetera and Cher</name>
+    <mbid/>
+    <url>www.last.fm/music/Peter+Cetera+and+Cher</url>
+    <image size="small"/>
+    <image size="medium"/>
+    <image size="large"/>
+    <streamable>0</streamable>
+</artist>
+<artist>
+    <name>Cher, Chrissie Hynde &amp; Neneh Cherry with Eric Clapton</name>
+    <mbid/>
+    <url>www.last.fm/music/Cher%252C%2BChrissie%2BHynde%2B%2526%2BNeneh%2BCherry%2Bwith%2BEric%2BClapton</url>
+    <image size="small"/>
+    <image size="medium"/>
+    <image size="large"/>
+    <streamable>0</streamable>
+</artist>
+<artist>
+    <name>Rosie &amp; Cher</name>
+    <mbid/>
+    <url>www.last.fm/music/Rosie%2B%2526%2BCher</url>
+    <image size="small"/>
+    <image size="medium"/>
+    <image size="large"/>
+    <streamable>0</streamable>
+</artist>
+<artist>
+    <name>Cher/Eros Ramazzotti</name>
+    <mbid/>
+    <url>www.last.fm/music/+noredirect/Cher%252FEros%2BRamazzotti</url>
+    <image size="small"/>
+    <image size="medium"/>
+    <image size="large"/>
+    <streamable>0</streamable>
+</artist>
+<artist>
+    <name>Meatloaf With Cher</name>
+    <mbid/>
+    <url>www.last.fm/music/+noredirect/Meatloaf+With+Cher</url>
+    <image size="small"/>
+    <image size="medium"/>
+    <image size="large"/>
+    <streamable>0</streamable>
+</artist>
+<artist>
+    <name>Cher -</name>
+    <mbid/>
+    <url>www.last.fm/music/+noredirect/Cher+-</url>
+    <image size="small"/>
+    <image size="medium"/>
+    <image size="large"/>
+    <streamable>0</streamable>
+</artist>
+</artistmatches>
+</results></lfm>

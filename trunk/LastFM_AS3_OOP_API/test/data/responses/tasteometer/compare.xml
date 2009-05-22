@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lfm status="ok">
+    <comparison>
+        <result>
+            <score>0.95999724409969</score>
+            <artists matches="57">
+                <artist>
+                    <name>The Beatles</name>
+                    <url>http://www.last.fm/music/The+Beatles</url>
+                    <image size="large">http://userserve-ak.last.fm/serve/126/370098.jpg</image>
+                    <image size="medium">http://userserve-ak.last.fm/serve/64/370098.jpg</image>
+                    <image size="small">http://userserve-ak.last.fm/serve/34/370098.jpg</image>
+                </artist>
+                <artist>
+                    <name>Björk</name>
+                    <url>http://www.last.fm/music/Bj%C3%B6rk</url>
+                    <image size="large">http://userserve-ak.last.fm/serve/126/3054751.jpg</image>
+                    <image size="medium">http://userserve-ak.last.fm/serve/64/3054751.jpg</image>
+                    <image size="small">http://userserve-ak.last.fm/serve/34/3054751.jpg</image>
+                </artist>
+                <artist>
+                    <name>Iron &amp; Wine</name>
+                    <url>http://www.last.fm/music/Iron%2B%2526%2BWine</url>
+                    <image size="large">http://userserve-ak.last.fm/serve/126/11865571.jpg</image>
+                    <image size="medium">http://userserve-ak.last.fm/serve/64/11865571.jpg</image>
+                    <image size="small">http://userserve-ak.last.fm/serve/34/11865571.jpg</image>
+                </artist>
+                <artist>
+                    <name>Cat Power</name>
+                    <url>http://www.last.fm/music/Cat+Power</url>
+                    <image size="large">http://userserve-ak.last.fm/serve/126/113807.jpg</image>
+                    <image size="medium">http://userserve-ak.last.fm/serve/64/113807.jpg</image>
+                    <image size="small">http://userserve-ak.last.fm/serve/34/113807.jpg</image>
+                </artist>
+                <artist>
+                    <name>PJ Harvey</name>
+                    <url>http://www.last.fm/music/PJ+Harvey</url>
+                    <image size="large">http://userserve-ak.last.fm/serve/126/6304.jpg</image>
+                    <image size="medium">http://userserve-ak.last.fm/serve/64/6304.jpg</image>
+                    <image size="small">http://userserve-ak.last.fm/serve/34/6304.jpg</image>
+                </artist>
+            </artists>
+        </result>
+        <input>
+            <user>
+                <name>joanofarctan</name>
+                <url>http://www.last.fm/user/joanofarctan</url>
+                <image size="large">http://userserve-ak.last.fm/serve/126/25472583.jpg</image>
+                <image size="medium">http://userserve-ak.last.fm/serve/64/25472583.jpg</image>
+                <image size="small">http://userserve-ak.last.fm/serve/34/25472583.jpg</image>
+            </user>
+            <user>
+                <name>mirandason</name>
+                <url>http://www.last.fm/user/mirandason</url>
+                <image size="large">http://userserve-ak.last.fm/serve/126/3508043.gif</image>
+                <image size="medium">http://userserve-ak.last.fm/serve/64/3508043.gif</image>
+                <image size="small">http://userserve-ak.last.fm/serve/34/3508043.gif</image>
+            </user>
+        </input>
+    </comparison>
+</lfm>

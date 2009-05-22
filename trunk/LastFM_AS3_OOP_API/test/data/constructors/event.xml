@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+  <id>941786</id>
+  <title>Yeah Yeah Yeahs</title>
+  <artists>
+    <artist>Yeah Yeah Yeahs</artist>
+    <artist>No No Nos</artist>
+    <headliner>Yeah Yeah Yeahs</headliner>
+  </artists>
+  <venue>
+    <name>Magazzini Generali</name>
+    <location>
+      <city>Milano</city>
+      <country>Italy</country>
+
+      <street>Via Pietrasanta 14</street>
+      <postalcode>20124</postalcode>
+      <geo:point>
+         <geo:lat>45.443797</geo:lat>
+         <geo:long>9.196507</geo:long>
+      </geo:point>
+              <timezone>CET</timezone>
+
+          </location>
+    <url>http://www.last.fm/venue/8780562</url>
+  </venue>
+  <startDate>Mon, 04 May 2009</startDate>
+  <startTime>20:30</startTime>
+  <description><![CDATA[<div class="bbcode">Aperture cancelli Ore 20.30<br />
+<br />
+<br />
+Prezzo del biglietto Euro 18,00 + diritti di prevendita<br />
+<br />
+BIGLIETTI IN VENDITA DA GIOVEDI’ 19 FEBBRAIO SUL CIRCUITO TICKETONE <a href="http://WWW.TICKETONE.IT" rel="nofollow">WWW.TICKETONE.IT</a> <br />
+E DA GIOVEDI’ 26 FEBBRAIO SU TUTTI GLI ALTRI CIRCUITI<br />
+<br />
+<br />
+Informazioni su come acquistare i biglietti:<br />
+<br />
+<br />
+- Vivaticket  899 666805  <a href="http://www.vivaticket.it" rel="nofollow">www.vivaticket.it</a><br />
+- Ticket.it  02 54271  <a href="http://www.ticket.it" rel="nofollow">www.ticket.it</a><br />
+- Teleart  041 2719090  <a href="http://www.teleart.org" rel="nofollow">www.teleart.org</a>  <a href="http://www.boxofficeitalia.com" rel="nofollow">www.boxofficeitalia.com</a><br />
+- Ticketone  892 101  <a href="http://www.ticketone.it" rel="nofollow">www.ticketone.it</a><br />
+- In tutte le prevendite abituali<br />
+<br />
+<br />
+<br />
+A tre anni dalla loro ultima incendiaria esibizione italiana tornano gli Yeah Yeah Yeahs per un’unica data a Milano.<br />
+Il concerto si svolgerà in concomitanza con l’uscita del terzo album della band di Brooklyn. Il disco si intitola It’s Blitz!, è stato prodotto da Dave Sitek (Tv On The Radio) e Nick Launay ed uscirà il 13 Aprile:  secondo la band l’album suona diverso da tutto ciò che hanno fatto finora ma è decisamente un disco degli Yeah Yeah Yeahs<br />
+Gli Yeah Yeah Yeahs nascono a New York e sono composti  dalla carismatica leader Karen O, da Nick Zinner alla chitarra e Brian Chase alla batteria.<br />
+La band incarna lo spirito più decadente, trasgressivo e selvaggio della città da cui provengono<br />
+Gli Yeah Yeah Yeahs fanno il loro esordio con l’EP omonimo nel 2001 mentre è del 2003 il primo album Fever To Tell che ha ottenuto grande attenzione dai media e un buon successo commerciale. Il secondo album Show Your Bones, uscito nel 2006, ha consolidato la fama del gruppo.<br />
+ <br />
+<br />
+<br />
+<br />
+Sito ufficiale:                                                                                                  <br />
+<a href="http://www.yeahyeahyeahs.com" rel="nofollow">www.yeahyeahyeahs.com</a>                                                                                                                    <a href="http://www.myspace.com/yeahyeahyeahs" rel="nofollow">www.myspace.com/yeahyeahyeahs</a><br />
+<br />
+Il nuovo album It’s Blitz in uscita il 13 aprile<br />
+<br />
+<br />
+INFO<br />
+<br />
+Indipendente Eventi e Produzioni<br />
+<br />
+<a href="http://www.indipendente.com" rel="nofollow">www.indipendente.com</a><br />
+<a href="mailto:info@indipendente.com">info@indipendente.com</a> <br />
+<a href="http://www.myspace.com/indipendenteeventieproduzioni" rel="nofollow">www.myspace.com/indipendenteeventieproduzioni</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/24916215.jpg</image>
+
+  <image size="medium">http://userserve-ak.last.fm/serve/64/24916215.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/24916215.jpg</image>
+   <attendance>172</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=941786</tag>  
+  <url>http://www.last.fm/event/941786</url>
+
+</event>

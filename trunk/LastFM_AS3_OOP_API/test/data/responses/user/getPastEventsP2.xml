@@ -1,0 +1,1987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lfm status="ok">
+<events user="joanofarctan" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" page="2" perPage="50" total="99" totalPages="2">
+<event>
+  <id>382609</id>
+  <title>Last.fm DJ Team</title>
+
+  <artists>
+    <artist>Last.fm DJ Team</artist>
+    <artist>Acid Mothers Temple &amp;Amp; The Melting Paraiso U.F.O.</artist>
+    <headliner>Last.fm DJ Team</headliner>
+  </artists>
+  <venue>
+    <name>Old Blue Last</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>39 Great Eastern Street</street>
+      <postalcode>EC2A 3ES</postalcode>
+      <geo:point>
+         <geo:lat>51.524305</geo:lat>
+         <geo:long>-0.079992</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8777933</url>
+  </venue>
+  <startDate>Wed, 07 Nov 2007 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">A night to remember...<br />
+<br />
+“When was rock’n’roll ever meant to be comfortable?” asked Julian Cope in reference to Japanese genre-mashers Acid Mothers Temple. He’s right, and AMT proved it last night at our second live event at The Old Blue Last, destroying ear drums, smashing through everyone’s expectations and blowing up the boundaries between dive-bomb psychedelia, heavy riffage, and coruscating improvisation. It was an experience.<br />
+<br />
+The place was filled with AMT freaks, kids getting their first fix of this sound, and loyal fans who’ve been following this collective since they started back in the ‘70s (in testament to their longevity, the AMT merchandise stall was laden with endless obscure CDs and DVDs from the band’s career that you wouldn’t be able to find anywhere else, rich pickings for the faithful)</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/26719419.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/26719419.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/26719419.jpg</image>
+   <attendance>71</attendance>
+   <reviews>1</reviews>
+   <tag>lastfm:event=382609</tag>    
+  <url>http://www.last.fm/event/382609</url>
+</event>
+<event>
+  <id>266068</id>
+  <title>Boredoms</title>
+
+  <artists>
+    <artist>Boredoms</artist>
+    <artist>Michael Gira</artist>
+    <headliner>Boredoms</headliner>
+  </artists>
+  <venue>
+    <name>Shoreditch Town Hall</name>
+    <location>
+      <city/>
+      <country>United Kingdom</country>
+      <street/>
+      <postalcode>EC1V9LT</postalcode>
+      <geo:point>
+         <geo:lat>51.527088</geo:lat>
+         <geo:long>-0.078835</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8861817</url>
+  </venue>
+  <startDate>Fri, 26 Oct 2007 23:12:01</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/27484581.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/27484581.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/27484581.jpg</image>
+   <attendance>69</attendance>
+   <reviews>1</reviews>
+   <tag>lastfm:event=266068</tag>    
+  <url>http://www.last.fm/event/266068</url>
+</event>
+<event>
+  <id>210594</id>
+  <title>Atmospheres 2: Touch 25 Live</title>
+
+  <artists>
+    <artist>Biosphere</artist>
+    <artist>People Like Us</artist>
+    <artist>Chris Watson</artist>
+    <artist>BJNilsen</artist>
+    <headliner>Biosphere</headliner>
+  </artists>
+  <venue>
+    <name>The Bedford Arms</name>
+    <location>
+      <city>Balham, London</city>
+      <country>United Kingdom</country>
+      <street>77 Bedford Hill</street>
+      <postalcode>SW12 9HD</postalcode>
+      <geo:point>
+         <geo:lat>51.442091</geo:lat>
+         <geo:long>-0.149031</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778243</url>
+  </venue>
+  <startDate>Tue, 23 Oct 2007 20:00:00</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/2336732.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/2336732.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/2336732.jpg</image>
+   <attendance>26</attendance>
+   <reviews>1</reviews>
+   <tag>lastfm:event=210594</tag>    
+  <url>http://www.last.fm/event/210594</url>
+</event>
+<event>
+  <id>347129</id>
+  <title>SSS</title>
+
+  <artists>
+    <artist>SSS</artist>
+    <artist>Rombi</artist>
+    <artist>The Errorplains</artist>
+    <artist>Duracell</artist>
+    <artist>Tapedeck DJs</artist>
+    <headliner>SSS</headliner>
+  </artists>
+  <venue>
+    <name>Old Blue Last</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>39 Great Eastern Street</street>
+      <postalcode>EC2A 3ES</postalcode>
+      <geo:point>
+         <geo:lat>51.524305</geo:lat>
+         <geo:long>-0.079992</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8777933</url>
+  </venue>
+  <startDate>Sat, 13 Oct 2007 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Thanks for coming out!<br />
+<br />
+There are people missing from the Last.fm office today. Some didn't survive the moshpit that erupted as &lt;a href=&quot;/music/SSS&quot; title=&quot;SSS&quot;&gt;SSS&lt;/a&gt; brought their flashbomb thrash to our second ever live event at the &lt;a href=&quot;/venue/8777933&quot; title=&quot;Old Blue Last&quot;&gt;Old Blue Last&lt;/a&gt; on Saturday. We would mourn, but quite frankly weÕre still reeling from an evening of metal mayhem, sci fi drum madness and punishing<br />
+              electro-noise.<br />
+<br />
+              We took over the Vice pub in East London in the early evening on Saturday, and had to pull the plug in the early hours of Sunday when the police descended to tell us off for being too loud. (They shouldÕve been upstairs when &lt;a href=&quot;/music/Errorplains&quot; title=&quot;Errorplains&quot;&gt;Errorplains&lt;/a&gt; kicked off with a wall of FX-pedal noise. Now that was loud.)<br />
+<br />
+              In between the smashÕnÕgrab metal of &lt;a href=&quot;/music/SSS&quot; title=&quot;SSS&quot;&gt;SSS&lt;/a&gt; and the synth assault of &lt;a href=&quot;/music/Errorplains&quot; title=&quot;Errorplains&quot;&gt;Errorplains&lt;/a&gt;, crazy drum maestro &lt;a href=&quot;/music/Duracell&quot; title=&quot;Duracell&quot;&gt;Duracell&lt;/a&gt; played a rare UK live set. If you havenÕt seen this guy before, he manages to produce entire sets of future-music using just a drum set, trigger machine and a laptop. Never has a man been so sweaty as &lt;a href=&quot;/music/Duracell&quot; title=&quot;Duracell&quot;&gt;Duracell&lt;/a&gt; was by the time his incredible one-man beat-symphony came to an end.<br />
+<br />
+              Downstairs was equally rammed, as punters wigged out to our very own Last.fm DJs, and the deck-wrecking moves of &lt;a href=&quot;/music/Tapedeck+DJs&quot; title=&quot;Tape Deck DJs&quot;&gt;Tape Deck&lt;/a&gt;, Shitting Fists and &lt;a href=&quot;/music/People+Are+Germs&quot; title=&quot;People Are Germs&quot;&gt;People Are Germs&lt;/a&gt;. By the end of the night the walls were dripping and bouncers were holding back a multitude outside. &lt;a href=&quot;<a href="http://blog.last.fm/2007/10/17/lastfm-presents-at-the-old-blue-last&quot">http://blog.last.fm/2007/10/17/lastfm-presents-at-the-old-blue-last&quot</a>; title=&quot;Last.fm Blog&quot;&gt;Read more about this event&lt;/a&gt;</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/2351804.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/2351804.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/2351804.jpg</image>
+   <attendance>111</attendance>
+   <reviews>1</reviews>
+   <tag>lastfm:event=347129</tag>    
+  <url>http://www.last.fm/event/347129</url>
+</event>
+<event>
+  <id>285946</id>
+  <title>Glenn Branca</title>
+
+  <artists>
+    <artist>Glenn Branca</artist>
+    <headliner>Glenn Branca</headliner>
+  </artists>
+  <venue>
+    <name>Roundhouse</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>Chalk Farm Road</street>
+      <postalcode>NW1 8EH</postalcode>
+      <geo:point>
+         <geo:lat>51.54304</geo:lat>
+         <geo:long>-0.151311</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8777613</url>
+  </venue>
+  <startDate>Fri, 12 Oct 2007 19:30:00</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/342886.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/342886.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/342886.jpg</image>
+   <attendance>34</attendance>
+   <reviews>1</reviews>
+   <tag>lastfm:event=285946</tag>    
+  <url>http://www.last.fm/event/285946</url>
+</event>
+<event>
+  <id>356389</id>
+  <title>Pan Sonic</title>
+
+  <artists>
+    <artist>Pan Sonic</artist>
+    <headliner>Pan Sonic</headliner>
+  </artists>
+  <venue>
+    <name>Conway Hall</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>25 Red Lion Square</street>
+      <postalcode>WC1R 4RL</postalcode>
+      <geo:point>
+         <geo:lat>51.519792</geo:lat>
+         <geo:long>-0.118337</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8814251</url>
+  </venue>
+  <startDate>Thu, 11 Oct 2007 18:14:01</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/405061.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/405061.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/405061.jpg</image>
+   <attendance>31</attendance>
+   <reviews>3</reviews>
+   <tag>lastfm:event=356389</tag>    
+  <url>http://www.last.fm/event/356389</url>
+</event>
+<event>
+  <id>356072</id>
+  <title>La Dolce Noir</title>
+
+  <artists>
+    <artist>Casco</artist>
+    <artist>Heartbreak</artist>
+    <artist>Ali Renault</artist>
+    <artist>Casionova</artist>
+    <artist>Rob n Zoopsie</artist>
+    <artist>Mermaid Parade</artist>
+    <artist>Lord Ant B</artist>
+    <headliner>Casco</headliner>
+  </artists>
+  <venue>
+    <name>Cosmobar</name>
+    <location>
+      <city/>
+      <country>United Kingdom</country>
+      <street/>
+      <postalcode>EC1M5PS</postalcode>
+      <geo:point>
+         <geo:lat>51.522969</geo:lat>
+         <geo:long>-0.100677</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8869786</url>
+  </venue>
+  <startDate>Fri, 05 Oct 2007 11:05:01</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/6917755.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/6917755.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/6917755.jpg</image>
+   <attendance>9</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=356072</tag>    
+  <url>http://www.last.fm/event/356072</url>
+</event>
+<event>
+  <id>325404</id>
+  <title>Murcof</title>
+
+  <artists>
+    <artist>Murcof</artist>
+    <headliner>Murcof</headliner>
+  </artists>
+  <venue>
+    <name>Peter Harrison Planetarium</name>
+    <location>
+      <city>Greenwich</city>
+      <country>United Kingdom</country>
+      <street>The Royal Observatory</street>
+      <postalcode>SE10 9NF</postalcode>
+      <geo:point>
+         <geo:lat>51.477654</geo:lat>
+         <geo:long>-0.000729</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8861255</url>
+  </venue>
+  <startDate>Thu, 04 Oct 2007 20:00:00</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/17432.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/17432.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/17432.jpg</image>
+   <attendance>28</attendance>
+   <reviews>4</reviews>
+   <tag>lastfm:event=325404</tag>    
+  <url>http://www.last.fm/event/325404</url>
+</event>
+<event>
+  <id>344119</id>
+  <title>It's Automatic</title>
+
+  <artists>
+    <artist>Love's Tru Flavour</artist>
+    <artist>European Man</artist>
+    <artist>Grazie</artist>
+    <artist>DJ Polipo</artist>
+    <headliner>Love's Tru Flavour</headliner>
+  </artists>
+  <venue>
+    <name>The Macbeth</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>70 Hoxton Street</street>
+      <postalcode>N1 6LP</postalcode>
+      <geo:point>
+         <geo:lat>51.530592</geo:lat>
+         <geo:long>-0.080031</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8791190</url>
+  </venue>
+  <startDate>Fri, 28 Sep 2007 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">A brand new club night dedicated to all things  italo/cosmic-flavoured, whether it  be electro, techno, house, pop, synth or just plain old disko.<br />
+<br />
+Residents are Last.fm stalwarts <span class="subscriberIcon"><a href="http://ws.audioscrobbler.com/user/grazziee" class="bbcode_user">grazziee</a></span> (Grazie), <span class="userIcon"><a href="http://ws.audioscrobbler.com/user/mknx" class="bbcode_user">mknx</a></span> (DJ Polipo) and <span class="staffIcon"><a href="http://ws.audioscrobbler.com/user/sharevari" class="bbcode_user">sharevari</a></span> (European Man). For the inaugural night, extra special guest is italo aficionado and cassette enthusiast <span class="subscriberIcon"><a href="http://ws.audioscrobbler.com/user/PinkCutter" class="bbcode_user">PinkCutter</a></span> a.k.a. <a href="http://ws.audioscrobbler.com/music/Love%27s+Tru+Flavour" class="bbcode_artist">Love's Tru Flavour</a>.<br />
+<br />
+Sadly <a href="http://ws.audioscrobbler.com/music/Ali+Renault" class="bbcode_artist">Ali Renault</a> can no longer make it due to a misunderstanding about the date. Doh. :(</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/4870356.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/4870356.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/4870356.jpg</image>
+   <attendance>42</attendance>
+   <reviews>2</reviews>
+   <tag>lastfm:event=344119</tag>    
+  <url>http://www.last.fm/event/344119</url>
+</event>
+<event>
+  <id>260620</id>
+  <title>Bleep43</title>
+
+  <artists>
+    <artist>Surgeon</artist>
+    <artist>Legowelt</artist>
+    <artist>Newworldaquarium</artist>
+    <artist>Bleep43</artist>
+    <artist>Plant43</artist>
+    <artist>Jonny McIntosh</artist>
+    <headliner>Surgeon</headliner>
+  </artists>
+  <venue>
+    <name>Corsica Studios</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>Unit 5, Farrell Court, Elephant Road</street>
+      <postalcode>SE17 1LB</postalcode>
+      <geo:point>
+         <geo:lat>51.493828</geo:lat>
+         <geo:long>-0.098647</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778367</url>
+  </venue>
+  <startDate>Fri, 21 Sep 2007 18:52:01</startDate>
+  <description><![CDATA[<div class="bbcode">Tickets available from<br />
+<br />
+<a href="http://www.wegottickets.com/event/19882" rel="nofollow">http://www.wegottickets.com/event/19882</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/2165451.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/2165451.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/2165451.jpg</image>
+   <attendance>21</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=260620</tag>    
+  <url>http://www.last.fm/event/260620</url>
+</event>
+<event>
+  <id>338926</id>
+  <title>[no.signal] @ factory</title>
+
+  <artists>
+    <artist>Jazkamer</artist>
+    <artist>putrefier</artist>
+    <artist>Cheap Machines</artist>
+    <headliner>Jazkamer</headliner>
+  </artists>
+  <venue>
+    <name>s51 factory</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>8-10 rhoda st</street>
+      <postalcode>e2 7ef</postalcode>
+      <geo:point>
+         <geo:lat>51.503092</geo:lat>
+         <geo:long>-0.10746</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8865463</url>
+  </venue>
+  <startDate>Sat, 15 Sep 2007 18:30:00</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/5287.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/5287.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/5287.jpg</image>
+   <attendance>4</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=338926</tag>    
+  <url>http://www.last.fm/event/338926</url>
+</event>
+<event>
+  <id>318269</id>
+  <title>Hot Chip DJs</title>
+
+  <artists>
+    <artist>Hot Chip DJs</artist>
+    <artist>Everyone to the Anderson</artist>
+    <artist>Lost Penguin</artist>
+    <artist>Agaskodo Teliverek</artist>
+    <artist>Turbowolf</artist>
+    <artist>Mica Levi</artist>
+    <artist>The Last.fm User Generated DJ Team</artist>
+    <headliner>Hot Chip DJs</headliner>
+  </artists>
+  <venue>
+    <name>The Spitz</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>109 Commercial Street, Old Spitalfields Market</street>
+      <postalcode>E1 6BG</postalcode>
+      <geo:point>
+         <geo:lat>51.519176</geo:lat>
+         <geo:long>-0.075927</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778213</url>
+  </venue>
+  <startDate>Tue, 11 Sep 2007 18:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Thanks for coming out!<br />
+<br />
+	        Back in the early zeroes, two of the three founders of Last.fm used to put on events at The Spitz, an East London venue thatÕs been showcasing new bands almost as long as Spitalfields has had a market (which is 369 years, fact fans). Then they got distracted by all this web start-up malarkey.<br />
+<br />
+But on the 11th September 2007 they returned Ð with the rest of us, plus five amazing bands, our finest Last.fm deck-wreckers, and special guest DJs Hot Chip.<br />
+<br />
+Altogether, we rocked the place and in the process raised £1,600 on the door alone (not to mention the bar which was practically drunk dry!). Anyway enough typing check out the footage below for yourselves...</div>]]></description>
+  <image size="small"/>
+  <image size="medium"/>
+  <image size="large"/>
+   <attendance>299</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=318269</tag>    
+  <url>http://www.last.fm/event/318269</url>
+</event>
+<event>
+  <id>172767</id>
+  <title>The Police</title>
+
+  <artists>
+    <artist>The Police</artist>
+    <artist>Maxïmo Park</artist>
+    <artist>Fiction Plane</artist>
+    <headliner>The Police</headliner>
+  </artists>
+  <venue>
+    <name>Twickenham Stadium</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street/>
+      <postalcode/>
+      <geo:point>
+         <geo:lat>51.455904</geo:lat>
+         <geo:long>-0.338801</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8787312</url>
+  </venue>
+  <startDate>Sun, 09 Sep 2007 16:30:00</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/21470781.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/21470781.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/21470781.jpg</image>
+   <attendance>72</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=172767</tag>    
+  <url>http://www.last.fm/event/172767</url>
+</event>
+<event>
+  <id>276073</id>
+  <title>Caribou</title>
+
+  <artists>
+    <artist>Caribou</artist>
+    <artist>Icarus</artist>
+    <headliner>Caribou</headliner>
+  </artists>
+  <venue>
+    <name>Barden's Boudoir</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>38-44 Stoke Newington Road</street>
+      <postalcode>N16 7XJ</postalcode>
+      <geo:point>
+         <geo:lat>51.551575</geo:lat>
+         <geo:long>-0.074791</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778366</url>
+  </venue>
+  <startDate>Wed, 05 Sep 2007 20:00:00</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/3094446.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/3094446.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/3094446.jpg</image>
+   <attendance>31</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=276073</tag>    
+  <url>http://www.last.fm/event/276073</url>
+</event>
+<event>
+  <id>307144</id>
+  <title>TENORI-ON Exclusive Worldwide Launch Party</title>
+
+  <artists>
+    <artist>Robert Lippok</artist>
+    <artist>Secondo</artist>
+    <artist>Capracara</artist>
+    <artist>Duodecimo</artist>
+    <artist>Toshio Iwai</artist>
+    <headliner>Robert Lippok</headliner>
+  </artists>
+  <venue>
+    <name>Phonica Records</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street/>
+      <postalcode/>
+      <geo:point>
+         <geo:lat>51.4916446565303</geo:lat>
+         <geo:long>-0.17852783203125</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8857900</url>
+  </venue>
+  <startDate>Tue, 04 Sep 2007 09:29:01</startDate>
+  <description><![CDATA[<div class="bbcode">Yamaha proudly unveil brand new and visually stunning performance instrument:<br />
+<br />
+TENORI-ON<br />
+<br />
+EXCLUSIVE LAUNCH EVENT AT PHONICA RECORDS / VINYL FACTORY, LONDON<br />
+<br />
+TUESDAY 4TH SEPTEMBER 2007<br />
+18:00 - 23:00 FREE<br />
+<br />
+Featuring talks, performances and DJ sets from:<br />
+<br />
+Robert Lippok (To Rococo Rot), Toshio Iwai (Media Artist), Secondo (Dreck Records), Capracara (Soul Jazz Records) + More.<br />
+<br />
+This September Yamaha proudly launch the TENORI-ON, a brand new and visually stunning performance instrument at a worldwide exclusive at  London's premier independent record shop Phonica Records. This event will not only feature TENORI-ON performances from some of the finest talent in electronic music but also an introduction and discussion with the TENORI-ON’s inventor.<br />
+<br />
+The TENORI-ON is a unique 16 x 16 LED button matrix performance instrument with a stunning visual display. For DJs &amp; producers it is a unique performance tool enabling them create spectacular live &amp; DJ audio-visual performances.<br />
+<br />
+Conceived by leading Japanese media artist Toshio Iwai in 2001 and following five years of intensive development. The TENORI-ON has been showcased ad refined at major music events and media art festivals; Sonar (Spain), Futuresonic (U.K), Ars Electronica (Austria), SIGGRAPH (U.S), Art Futura (Spain) and more, as well as being road tested by cutting edge electronic music artists: Kraftwerk, Yellow Magic Orchestra, Matthew Herbert, Mouse On Mars, Cornelius, To Rococo Rot, Jim O’ Rourke, Rei Harakami, Taylor Deupree, Tortoise and Atom Heart. The TENORI-ON is one of the most innovative and exciting new instruments to be released by Yamaha for many years. <br />
+<br />
+The launch event will see inventor Toshio Iwai talk and answer questions on the TENORI-ON plus live performances from a selection of artists lucky enough to be asked to road test this exciting new instrument.<br />
+<br />
+Flying in from Berlin To Rococo Rot’s Robert Lippok will perform an exclusive UK set alongside cutting edge disco edit maestro Secondo (Dreck Records) and the man dubbed ‘the savior of acid house’ Capracara (Soul Jazz Records) + a DJ set from Duodecimo.<br />
+<br />
+Full Event Details: <br />
+Venue: Vinyl Factory below Phonica Records, 51 Poland Street, London, W1F, 7RJ (please use main shop entrance).<br />
+    - Time: 18.00 – 23.00<br />
+    - Free Entry – Please arrive early to avoid disappointment!</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/304249.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/304249.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/304249.jpg</image>
+   <attendance>9</attendance>
+   <reviews>1</reviews>
+   <tag>lastfm:event=307144</tag>    
+  <url>http://www.last.fm/event/307144</url>
+</event>
+<event>
+  <id>295986</id>
+  <title>Kompakt Presents</title>
+
+  <artists>
+    <artist>Gui Boratto</artist>
+    <artist>Matias Aguayo</artist>
+    <artist>allez-allez</artist>
+    <headliner>Gui Boratto</headliner>
+  </artists>
+  <venue>
+    <name>Plastic People</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>147-149 Curtain Road</street>
+      <postalcode>EC2</postalcode>
+      <geo:point>
+         <geo:lat>51.520523</geo:lat>
+         <geo:long>-0.100678</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778239</url>
+  </venue>
+  <startDate>Wed, 08 Aug 2007 21:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Advance tickets available at:<br />
+<br />
+<a href="http://www.wegottickets.com/event/20076" rel="nofollow">www.wegottickets.com/event/20076</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/2253594.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/2253594.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/2253594.jpg</image>
+   <attendance>11</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=295986</tag>    
+  <url>http://www.last.fm/event/295986</url>
+</event>
+<event>
+  <id>246828</id>
+  <title>Tales Of The Jackalope</title>
+
+  <artists>
+    <artist>The Fall</artist>
+    <artist>Foals</artist>
+    <artist>Late of the Pier</artist>
+    <artist>Chromeo</artist>
+    <artist>Dizzee Rascal</artist>
+    <artist>Uffie</artist>
+    <artist>Friendly Fires</artist>
+    <artist>DJ Mehdi</artist>
+    <artist>These New Puritans</artist>
+    <artist>Gang Gang Dance</artist>
+    <artist>Lightspeed Champion</artist>
+    <artist>2 Many DJ's</artist>
+    <artist>Shy Child</artist>
+    <artist>Florence and The Machine</artist>
+    <artist>ESG</artist>
+    <artist>Fucked Up</artist>
+    <artist>autoKratz</artist>
+    <artist>The Hours</artist>
+    <artist>Neon Plastix</artist>
+    <artist>Punks Jump Up</artist>
+    <artist>Errors</artist>
+    <artist>XX Teens</artist>
+    <artist>Nasty</artist>
+    <artist>Turbowolf</artist>
+    <artist>Rumble Strips</artist>
+    <artist>Maths Class</artist>
+    <artist>Shakes</artist>
+    <artist>Beans on Toast</artist>
+    <artist>The More Assured</artist>
+    <artist>Chow Chow</artist>
+    <artist>Comanechi</artist>
+    <artist>Stricken City</artist>
+    <artist>Ebony Bones</artist>
+    <artist>Invasion</artist>
+    <artist>Ox.Eagle.Lion.Man</artist>
+    <artist>Phantom Band</artist>
+    <artist>Le Tetsuo</artist>
+    <artist>i!AMYOU</artist>
+    <artist>Chris Cunningham</artist>
+    <artist>Adventures Close To Home</artist>
+    <artist>Pure Filth</artist>
+    <artist>Prancehall</artist>
+    <artist>Team Mega Mix</artist>
+    <artist>People Are Germs</artist>
+    <artist>Dead Pixel</artist>
+    <artist>Conan &amp; the Mockasins</artist>
+    <artist>Elplate</artist>
+    <artist>Mamashamone</artist>
+    <artist>Chicks Dig Jerks</artist>
+    <artist>Economy band</artist>
+    <artist>Dollop DJs</artist>
+    <artist>Up The Racket Djs</artist>
+    <artist>Sexbeat DJs</artist>
+    <headliner>The Fall</headliner>
+  </artists>
+  <venue>
+    <name>Kimberly Hall</name>
+    <location>
+      <city>Wymondham</city>
+      <country>United Kingdom</country>
+      <street/>
+      <postalcode/>
+      <geo:point>
+         <geo:lat>52.5666667</geo:lat>
+         <geo:long>1.1166667</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8838074</url>
+  </venue>
+  <startDate>Sat, 04 Aug 2007 12:00:00</startDate>
+  <endDate>Sun, 05 Aug 2007 10:41:01</endDate>
+  <description><![CDATA[<div class="bbcode">&lt;p&gt;<br />
+&lt;h2&gt;The Tales…&lt;/h2&gt;<br />
+&lt;/p&gt;<br />
+&lt;p&gt;<br />
+2006 saw the debut of Tales of the Jackalope. A unique festival concept created to house the best 24 hour music experience of the British summer set in a beautiful location.<br />
+&lt;/p&gt;<br />
+&lt;p&gt;<br />
+Jackalope’s aim is to offer music lovers and anyone who simply enjoys having a good time the most imaginative and exciting music program in the country. Tales of the Jackalope 2006 saw key early performances from many of 2007’s biggest bands such as:<br />
+&lt;/p&gt;<br />
+&lt;p&gt;<br />
+&lt;b&gt;THE KLAXONS, THE HORRORS, NEW YOUNG PONY CLUB, <br />
+GOOD SHOOES, JUSTICE&lt;/b&gt;<br />
+&lt;/p&gt;<br />
+&lt;p&gt;<br />
+These up-and-comers were mixed with a number of well-known headline acts including:<br />
+&lt;/p&gt;<br />
+&lt;p&gt;<br />
+&lt;b&gt;THE MISFITS, SOULWAX, 2MANYDJS, MYLO&lt;/b&gt;<br />
+&lt;/p&gt;<br />
+&lt;p&gt;<br />
+This year, Tales of the Jackalope will take place on August 4th in the stunning grounds of Kimberley Hall, South Norfolk. Expect more than 60 acts over 5 areas!! So get ready for another 24 hours of madness mixed with the finest in music…. Line-up will be updated weekly so keep checking in or sign up for our blog, which will give you the latest updates about bands, competitions and other treats.&lt;/p&gt;<br />
+&lt;h3&gt;Festival Playlist&lt;/h3&gt;<br />
+&lt;p&gt;<br />
+&lt;object width=&quot;184&quot; height=&quot;284&quot; codebase=&quot;<a href="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab%23version=7,0,0,0&quot" rel="nofollow">http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab%23version=7,0,0,0&quot</a>; classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot;&gt;&lt;param value=&quot;999999&quot; name=&quot;bgcolor&quot;/&gt;&lt;param value=&quot;<a href="http://panther1.last.fm/widgets/playlist/12.swf&quot">http://panther1.last.fm/widgets/playlist/12.swf&quot</a>; name=&quot;movie&quot;/&gt;&lt;param value=&quot;high&quot; name=&quot;quality&quot;/&gt;&lt;param value=&quot;sameDomain&quot; name=&quot;allowScriptAccess&quot;/&gt;&lt;param value=&quot;internal&quot; name=&quot;allowNetworking&quot;/&gt;&lt;param value=&quot;lfmMode=playlist&amp;resourceType=37&amp;resourceID=711264&amp;radioURL=user%2Fjames_knight%2Fplaylist&amp;username=james_knight&amp;title=Tale Of The Jackalope&amp;theme=grey&amp;autostart=&amp;lang=en&quot; name=&quot;FlashVars&quot;/&gt;&lt;embed width=&quot;184&quot; height=&quot;284&quot; allownetworking=&quot;internal&quot; allowscriptaccess=&quot;sameDomain&quot; flashvars=&quot;lfmMode=playlist&amp;resourceType=37&amp;resourceID=711264&amp;radioURL=user%2Fjames_knight%2Fplaylist&amp;username=james_knight&amp;title=Tales Of The Jackalope&amp;theme=grey&amp;autostart=&amp;lang=en&quot; pluginspage=&quot;<a href="http://www.macromedia.com/go/getflashplayer&quot" rel="nofollow">http://www.macromedia.com/go/getflashplayer&quot</a>; quality=&quot;high&quot; bgcolor=&quot;999999&quot; name=&quot;widgetPlayer&quot; type=&quot;application/x-shockwave-flash&quot; src=&quot;<a href="http://panther1.last.fm/widgets/playlist/12.swf&quot;/&gt;&lt;/object&gt">http://panther1.last.fm/widgets/playlist/12.swf&quot;/&gt;&lt;/object&gt</a>;<br />
+&lt;/p&gt;<br />
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/7567349.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/7567349.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/7567349.jpg</image>
+   <attendance>49</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=246828</tag>    
+  <url>http://www.last.fm/event/246828</url>
+</event>
+<event>
+  <id>281696</id>
+  <title>Duracell</title>
+
+  <artists>
+    <artist>Duracell</artist>
+    <artist>ZX Spectrum Orchestra</artist>
+    <artist>Oxbow Duo</artist>
+    <headliner>Duracell</headliner>
+  </artists>
+  <venue>
+    <name>The Spitz</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>109 Commercial Street, Old Spitalfields Market</street>
+      <postalcode>E1 6BG</postalcode>
+      <geo:point>
+         <geo:lat>51.519176</geo:lat>
+         <geo:long>-0.075927</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778213</url>
+  </venue>
+  <startDate>Mon, 16 Jul 2007 23:50:01</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/358012.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/358012.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/358012.jpg</image>
+   <attendance>10</attendance>
+   <reviews>1</reviews>
+   <tag>lastfm:event=281696</tag>    
+  <url>http://www.last.fm/event/281696</url>
+</event>
+<event>
+  <id>213381</id>
+  <title>Marnie Stern</title>
+
+  <artists>
+    <artist>Marnie Stern</artist>
+    <headliner>Marnie Stern</headliner>
+  </artists>
+  <venue>
+    <name>Barden's Boudoir</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>38-44 Stoke Newington Road</street>
+      <postalcode>N16 7XJ</postalcode>
+      <geo:point>
+         <geo:lat>51.551575</geo:lat>
+         <geo:long>-0.074791</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778366</url>
+  </venue>
+  <startDate>Thu, 12 Jul 2007 19:35:01</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/315347.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/315347.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/315347.jpg</image>
+   <attendance>19</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=213381</tag>    
+  <url>http://www.last.fm/event/213381</url>
+</event>
+<event>
+  <id>255587</id>
+  <title>CANCELLED Last.fm BBQ on Rooftop Terrace CANCELLED</title>
+
+  <artists>
+    <artist>Cancelled</artist>
+    <headliner>Cancelled</headliner>
+  </artists>
+  <venue>
+    <name>Herbal</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>10 / 14 Kingsland Road, Shoreditch</street>
+      <postalcode>E2 8DA</postalcode>
+      <geo:point>
+         <geo:lat>51.527812</geo:lat>
+         <geo:long>-0.077798</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778289</url>
+  </venue>
+  <startDate>Thu, 12 Jul 2007 18:00:00</startDate>
+  <description><![CDATA[<div class="bbcode"><strong>THIS IS CANCELLED BECAUSE HERBAL HAS CLOSED DOWN! </strong> Sorry!</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/312945.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/312945.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/312945.jpg</image>
+   <attendance>104</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=255587</tag>    
+  <url>http://www.last.fm/event/255587</url>
+</event>
+<event>
+  <id>209571</id>
+  <title>Interplay</title>
+
+  <artists>
+    <artist>Thomas Köner</artist>
+    <artist>Ekkehard Ehlers</artist>
+    <artist>Si-cut.db</artist>
+    <artist>Modified Toy Orchestra</artist>
+    <artist>Max Eastley</artist>
+    <artist>Iris Garrelfs</artist>
+    <headliner>Thomas Köner</headliner>
+  </artists>
+  <venue>
+    <name>The Spitz</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>109 Commercial Street, Old Spitalfields Market</street>
+      <postalcode>E1 6BG</postalcode>
+      <geo:point>
+         <geo:lat>51.519176</geo:lat>
+         <geo:long>-0.075927</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778213</url>
+  </venue>
+  <startDate>Wed, 20 Jun 2007 20:00:00</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/191611.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/191611.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/191611.jpg</image>
+   <attendance>11</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=209571</tag>    
+  <url>http://www.last.fm/event/209571</url>
+</event>
+<event>
+  <id>258317</id>
+  <title>Future Brain</title>
+
+  <artists>
+    <artist>Future Brain</artist>
+    <artist>Italo Disco</artist>
+    <artist>Chris Flatline</artist>
+    <artist>Tet Yap</artist>
+    <artist>DJ 1982</artist>
+    <artist>Maniaquin</artist>
+    <headliner>Future Brain</headliner>
+  </artists>
+  <venue>
+    <name>Wildcats, 97 Kingsland Road</name>
+    <location>
+      <city/>
+      <country>United Kingdom</country>
+      <street/>
+      <postalcode/>
+      <geo:point>
+         <geo:lat>51.5</geo:lat>
+         <geo:long>-0.1166667</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8842044</url>
+  </venue>
+  <startDate>Fri, 08 Jun 2007 21:00:00</startDate>
+  <description><![CDATA[<div class="bbcode"><a href="http://www.myspace.com/futurebrain" rel="nofollow">http://www.myspace.com/futurebrain</a><br />
+<br />
+SYNTHESIZER DANCE PARTY!<br />
+<br />
+electronic disco and pop music<br />
+<br />
+WE ARE LONDON'S ONLY ITALO DISCO CLUBNIGHT IN A BAR THAT USED TO BE A CHICKEN SHOP WHERE ALL THE FURNITURE APPEARS TO HAVE BEEN MADE FOR MIDGETS<br />
+<br />
+also playing<br />
+Hi - NRG : Freestyle<br />
+Electro : New Wave<br />
+Synth Pop ... and more!</div>]]></description>
+  <image size="small"/>
+  <image size="medium"/>
+  <image size="large"/>
+   <attendance>8</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=258317</tag>    
+  <url>http://www.last.fm/event/258317</url>
+</event>
+<event>
+  <id>237415</id>
+  <title>Galvanised festival</title>
+
+  <artists>
+    <artist>Chora</artist>
+    <artist>Goodiepal</artist>
+    <artist>Chops</artist>
+    <artist>Cowtown</artist>
+    <artist>Skitanja</artist>
+    <artist>apatt</artist>
+    <artist>Horacio Pollard</artist>
+    <artist>My Ambulance Is On Fire</artist>
+    <artist>Signals</artist>
+    <artist>Madame P</artist>
+    <artist>Serfs</artist>
+    <artist>Rocketnumbernine</artist>
+    <artist>Stuckometer</artist>
+    <artist>Le Couteau Jaune</artist>
+    <artist>Fail HDJ</artist>
+    <artist>Isambard Kingston Brunel</artist>
+    <headliner>Chora</headliner>
+  </artists>
+  <venue>
+    <name>empire studios</name>
+    <location>
+      <city/>
+      <country>United Kingdom</country>
+      <street/>
+      <postalcode>E29DG</postalcode>
+      <geo:point>
+         <geo:lat>51.546112</geo:lat>
+         <geo:long>-0.055407</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8835522</url>
+  </venue>
+  <startDate>Fri, 08 Jun 2007 19:00:00</startDate>
+  <endDate>Sun, 10 Jun 2007 13:29:01</endDate>
+  <description><![CDATA[<div class="bbcode">(NB Venue Change see myspace link)GALVANISED! is a networking festival to bring together the most exciting new experimental music label/artists/promoters from across the uk. Our goal is to showcase the 'underground' experimental scene that is currently burgeoning across the UK</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/544418.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/544418.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/544418.jpg</image>
+   <attendance>11</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=237415</tag>    
+  <url>http://www.last.fm/event/237415</url>
+</event>
+<event>
+  <id>217145</id>
+  <title>Ninja Tune &amp; Last.fm party</title>
+
+  <artists>
+    <artist>Kid Sister</artist>
+    <artist>A-Trak</artist>
+    <artist>BeardyMan</artist>
+    <artist>DJ Sparky</artist>
+    <artist>Ross Allen</artist>
+    <artist>Ollie Teeba</artist>
+    <headliner>Kid Sister</headliner>
+  </artists>
+  <venue>
+    <name>The Big Chill House</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>257-259 Pentonville Road, King’s Cross</street>
+      <postalcode>N1 9NL</postalcode>
+      <geo:point>
+         <geo:lat>51.530767071208</geo:lat>
+         <geo:long>-0.120263446498872</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8782256</url>
+  </venue>
+  <startDate>Sat, 02 Jun 2007 21:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Last.fm creates ‘user-generated club’ with Ninja Tune<br />
+<br />
+Tracks DJed will be chosen according to attendees’ music taste<br />
+<br />
+Social music network Last.fm has teamed up with seminal label Ninja Tune to create a groundbreaking ‘user-generated’ club night at The Big Chill House on Pentonville Road on June 2nd.<br />
+<br />
+All Last.fm users going to the party will help decide the setlist for the upstairs room, DJed by Ninja Tune’s Sparky. They’ll register their intention to attend at the club’s event page on the Last.fm website, and on the night Sparky will play tracks drawn from music listened to by those users in the preceding weeks.<br />
+<br />
+Last.fm is a social music network that tracks what you listen to on your PC and iPod and then plays you new music that suits your taste, based on recommendations drawn from the listening habits of over 20 million active users.<br />
+<br />
+This party is the first time that Last.fm has taken its ‘collaborative filtering’ ethos out into the real world. Sparky’s user-generated set will also be recorded and made available on Last.fm for users unable to attend.<br />
+<br />
+Last.fm is also extremely chuffed that the youngest DMC World Champion to date and celebrated member of the Invisibl Skratch Piklz, the one and only A-Trak will be gracing the downstairs decks. Joining him is ingenious prodigy MC Kid Sister.<br />
+<br />
+And if that wasn’t enough, Ninja Tune managed to get the hottest beatboxer of the moment to do a very special set of itches, scratches, and a lot of beard-inspired utterances into the mic. Behold the genious of Beardyman!<br />
+<br />
+Furthermore, Ninja Tune will bring their very own Mr Herbaliser Ollie Teeba along to entice the dancing crowds. And last but by no earthly measures least, the striped-jumper-wearing godfather of warm and soulful sounds, London’s very own Ross Allen will also be heating up the dance floor.<br />
+<br />
+MAIN ROOM<br />
+Ollie Teeba 9-10<br />
+Beardyman 10-11<br />
+A-Trak 11-12.30<br />
+Kid Sister 12.30-1am<br />
+Ross Allen 1-4am<br />
+<br />
+UPSTAIRS <br />
+(Last.fm hosting)<br />
+DJ Sparky 9-4<br />
+<br />
+IT'S FREE BEFORE 9PM AND ONLY £5 AFTER - amazing value for your hard earned money! Just make sure you squeeze in before they have to shut the doors, cause oh my gosh it will be rammed! ;)</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/5712294.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/5712294.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/5712294.jpg</image>
+   <attendance>213</attendance>
+   <reviews>1</reviews>
+   <tag>lastfm:event=217145</tag>    
+  <url>http://www.last.fm/event/217145</url>
+</event>
+<event>
+  <id>238907</id>
+  <title>Meat Raffle</title>
+
+  <artists>
+    <artist>Punks Jump Up</artist>
+    <headliner>Punks Jump Up</headliner>
+  </artists>
+  <venue>
+    <name>The Lock Tavern</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>35 Chalk Farm Road, Camden</street>
+      <postalcode>NW1 8AJ</postalcode>
+      <geo:point>
+         <geo:lat>51.54292</geo:lat>
+         <geo:long>-0.148273</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8786160</url>
+  </venue>
+  <startDate>Mon, 28 May 2007 15:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">with DJs:<br />
+<br />
+Erik Jälevik (LastFM!)<br />
+Meaty Milan<br />
+16oz Stewart<br />
+Baby Face Dave<br />
+<br />
+The Meat Raffle Soundsystem has been asked once again by The Lock Tavern to curate a bank holiday's worth of mutant disco, acid house, electropop and partytronica, lasting all the way from 3pm until closing!   <br />
+ <br />
+Joining us will be Kitsunen wonderboys Punks Jump Up, remixers of Robyn, Lo-Fi-Fnk and Simian Mobile Disco amongst others, and Last FM's Italo-king Erik Jälevik. <br />
+<br />
+As ever, Meaty Milan, 16oz Stewart and Baby Face Dave will be eating roasts and filling in the gaps.<br />
+<br />
+<a href="http://www.myspace.com/punksjumpup" rel="nofollow">http://www.myspace.com/punksjumpup</a><br />
+ <br />
+<a href="http://www.myspace.com/meatraffleclub" rel="nofollow">http://www.myspace.com/meatraffleclub</a><br />
+ <br />
+Monday 28th May * 3pm - 11pm. <br />
+at The Lock Tavern, Chalk Farm Road, Camden <br />
+Nearest tube - Camden Town or Chalk Farm</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/256074.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/256074.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/256074.jpg</image>
+   <attendance>9</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=238907</tag>    
+  <url>http://www.last.fm/event/238907</url>
+</event>
+<event>
+  <id>244331</id>
+  <title>Kompakt Warehouse Party</title>
+
+  <artists>
+    <artist>DJ Koze</artist>
+    <artist>Oxia</artist>
+    <artist>Wighnomy Brothers</artist>
+    <artist>Shane Watcha</artist>
+    <headliner>DJ Koze</headliner>
+  </artists>
+  <venue>
+    <name>Hearn Street Car Park</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>7-11 Hearn Street</street>
+      <postalcode>EC2 3LS</postalcode>
+      <geo:point>
+         <geo:lat>51.522671</geo:lat>
+         <geo:long>-0.080148</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8808702</url>
+  </venue>
+  <startDate>Sat, 26 May 2007 11:21:01</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/280418.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/280418.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/280418.jpg</image>
+   <attendance>15</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=244331</tag>    
+  <url>http://www.last.fm/event/244331</url>
+</event>
+<event>
+  <id>232983</id>
+  <title>Discombabulate</title>
+
+  <artists>
+    <artist>Soundstream</artist>
+    <headliner>Soundstream</headliner>
+  </artists>
+  <venue>
+    <name>Plastic People</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>147-149 Curtain Road</street>
+      <postalcode>EC2</postalcode>
+      <geo:point>
+         <geo:lat>51.520523</geo:lat>
+         <geo:long>-0.100678</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778239</url>
+  </venue>
+  <startDate>Thu, 17 May 2007 11:26:01</startDate>
+  <description><![CDATA[<div class="bbcode">Sound Stream<br />
+<br />
+Discombabulate 5<br />
+17 May 2007<br />
+Plastic People<br />
+£6<br />
+<br />
+For the next instalment of Disco-bobbles we have secured the services of everybody's favourite Berliner Frank Timm aka Soundstream aka Soundhack aka one half of Smith n Hack.<br />
+<br />
+Having played the first ever Discombabulate under his Soundhack guise, this time he returns for some mesmerisingly live and loopy disco action in the form of Soundstream. Anyone who owns one of the extremely hot Soundstream 12&quot;s will be smitten by Frank's unique and visionary take on some of the finest vintage disco ever made. Another quality Discombabulate night - rare, quick, on a Thursday night and not to be missed.<br />
+<br />
+Tickets available from Sounds of the Universe and Ticketweb.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/21806029.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/21806029.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/21806029.jpg</image>
+   <attendance>5</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=232983</tag>    
+  <url>http://www.last.fm/event/232983</url>
+</event>
+<event>
+  <id>235827</id>
+  <title>Last.fm @ The Diner - Power Out Party</title>
+
+  <artists>
+    <artist>Last.fm</artist>
+    <artist>Matthew Ogle</artist>
+    <headliner>Last.fm</headliner>
+  </artists>
+  <venue>
+    <name>The Diner</name>
+    <location>
+      <city/>
+      <country>United Kingdom</country>
+      <street/>
+      <postalcode/>
+      <geo:point>
+         <geo:lat>51.5</geo:lat>
+         <geo:long>-0.1166667</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8835110</url>
+  </venue>
+  <startDate>Fri, 11 May 2007 11:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Faced with a power outage, the Last.fm team hits the road in search of free wireless (and good coffee).</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/4335901.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/4335901.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/4335901.jpg</image>
+   <attendance>14</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=235827</tag>    
+  <url>http://www.last.fm/event/235827</url>
+</event>
+<event>
+  <id>169853</id>
+  <title>SonicRecycler3</title>
+
+  <artists>
+    <artist>Boduf Songs</artist>
+    <artist>Rothko</artist>
+    <artist>Stephan Mathieu</artist>
+    <artist>Janek Schaefer</artist>
+    <artist>Pimmon</artist>
+    <artist>Si-cut.db</artist>
+    <artist>David Cunningham</artist>
+    <artist>Bird By Snow</artist>
+    <artist>Semiconductor</artist>
+    <artist>DJ Jasmine Guffond (Minit)</artist>
+    <artist>DJ Namour &amp; [no.signal]</artist>
+    <artist>DJ Sound Projector (Resonance FM)</artist>
+    <artist>U-Sun</artist>
+    <artist>Cedrick Eymenier</artist>
+    <artist>Fennesz (film soundtrack)</artist>
+    <artist>People Like Us (films)</artist>
+    <headliner>Boduf Songs</headliner>
+  </artists>
+  <venue>
+    <name>Watermans</name>
+    <location>
+      <city>Brentford</city>
+      <country>United Kingdom</country>
+      <street/>
+      <postalcode/>
+      <geo:point>
+         <geo:lat>51.485717</geo:lat>
+         <geo:long>-0.299357</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8818587</url>
+  </venue>
+  <startDate>Sat, 05 May 2007 16:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">The 3rd SonicRecycler; an amazing mix of live acts, films and DJs. curated by si-cut.db / douglas benford (possibly DJing; let see how i feel!)<br />
+see <a href="http://www.myspace.com/sonicrecycler" rel="nofollow">http://www.myspace.com/sonicrecycler</a><br />
+ROTHKO, BODUF SONGS, STEPHAN MATHIEU, DAVID CUNNINGHAM, BIRD BY SNOW are the live acts. C.Eymenier (with soundtrack by FENNESZ),<br />
+Janek Schaefer, People like Us, U-Sun (with a soundtrack by PIMMON) and Semiconductor are showing their films.<br />
+** NB FENNESZ &amp; PIMMON are NOT live, but it is their (exclusive London debuts) soundtracks with two films. (lengths: Fennesz: 20 mins, Pimmon: 10 mins). Stephan Mathieu is also showing a film.<br />
+<br />
+Tickets at <a href="http://www.wegottickets.com/event/16734" rel="nofollow">http://www.wegottickets.com/event/16734</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/554678.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/554678.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/554678.jpg</image>
+   <attendance>19</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=169853</tag>    
+  <url>http://www.last.fm/event/169853</url>
+</event>
+<event>
+  <id>210970</id>
+  <title>Kompakt Presents</title>
+
+  <artists>
+    <artist>The Field</artist>
+    <artist>Tobias Thomas</artist>
+    <artist>allez-allez</artist>
+    <headliner>The Field</headliner>
+  </artists>
+  <venue>
+    <name>Plastic People</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>147-149 Curtain Road</street>
+      <postalcode>EC2</postalcode>
+      <geo:point>
+         <geo:lat>51.520523</geo:lat>
+         <geo:long>-0.100678</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778239</url>
+  </venue>
+  <startDate>Wed, 02 May 2007 21:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Tickets £6 available at <a href="http://www.allez-allez.co.uk" rel="nofollow">www.allez-allez.co.uk</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/11861463.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/11861463.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/11861463.jpg</image>
+   <attendance>9</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=210970</tag>    
+  <url>http://www.last.fm/event/210970</url>
+</event>
+<event>
+  <id>127607</id>
+  <title>The Blow</title>
+
+  <artists>
+    <artist>The Blow</artist>
+    <headliner>The Blow</headliner>
+  </artists>
+  <venue>
+    <name>The Luminaire</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>311 Kilburn High Road</street>
+      <postalcode>NW6 7JR</postalcode>
+      <geo:point>
+         <geo:lat>51.544193</geo:lat>
+         <geo:long>-0.200929</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8777601</url>
+  </venue>
+  <startDate>Mon, 30 Apr 2007 16:14:01</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/316435.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/316435.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/316435.jpg</image>
+   <attendance>53</attendance>
+   <reviews>1</reviews>
+   <tag>lastfm:event=127607</tag>    
+  <url>http://www.last.fm/event/127607</url>
+</event>
+<event>
+  <id>180270</id>
+  <title>Alexander Robotnick</title>
+
+  <artists>
+    <artist>Alexander Robotnick</artist>
+    <headliner>Alexander Robotnick</headliner>
+  </artists>
+  <venue>
+    <name>Plastic People</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>147-149 Curtain Road</street>
+      <postalcode>EC2</postalcode>
+      <geo:point>
+         <geo:lat>51.520523</geo:lat>
+         <geo:long>-0.100678</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778239</url>
+  </venue>
+  <startDate>Sat, 07 Apr 2007 22:00:00</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/846955.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/846955.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/846955.jpg</image>
+   <attendance>11</attendance>
+   <reviews>1</reviews>
+   <tag>lastfm:event=180270</tag>    
+  <url>http://www.last.fm/event/180270</url>
+</event>
+<event>
+  <id>173905</id>
+  <title>Trans Am</title>
+
+  <artists>
+    <artist>Trans Am</artist>
+    <headliner>Trans Am</headliner>
+  </artists>
+  <venue>
+    <name>Barden's Boudoir</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>38-44 Stoke Newington Road</street>
+      <postalcode>N16 7XJ</postalcode>
+      <geo:point>
+         <geo:lat>51.551575</geo:lat>
+         <geo:long>-0.074791</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778366</url>
+  </venue>
+  <startDate>Thu, 29 Mar 2007 19:30:00</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/15527453.gif</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/15527453.gif</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/15527453.gif</image>
+   <attendance>5</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=173905</tag>    
+  <url>http://www.last.fm/event/173905</url>
+</event>
+<event>
+  <id>122402</id>
+  <title>Philip Jeck</title>
+
+  <artists>
+    <artist>Philip Jeck</artist>
+    <artist>Isnaj Dui</artist>
+    <artist>ELITE BARBARIAN</artist>
+    <headliner>Philip Jeck</headliner>
+  </artists>
+  <venue>
+    <name>Pool Bar</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>Shoreditch</street>
+      <postalcode>EC2A 3AH</postalcode>
+      <geo:point>
+         <geo:lat>51.525356</geo:lat>
+         <geo:long>-0.082687</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8779964</url>
+  </venue>
+  <startDate>Wed, 28 Mar 2007 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Fear of Jazz is the new home of musical adventure and exploration in London. The shows will be highlighting those musicians not afraid of finding new ways to bring music to the people. Improvisation will be high on the agenda, as will a friendly atmosphere where folk can share their ideas, listen and be heard.<br />
+ENTRY £6 - no pre sales.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/132.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/132.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/132.jpg</image>
+   <attendance>14</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=122402</tag>    
+  <url>http://www.last.fm/event/122402</url>
+</event>
+<event>
+  <id>182886</id>
+  <title>Club Motherfucker</title>
+
+  <artists>
+    <artist>DAT Politics</artist>
+    <artist>Kids On TV</artist>
+    <artist>Marvellous Macc Mello</artist>
+    <artist>I Love Audrey</artist>
+    <headliner>DAT Politics</headliner>
+  </artists>
+  <venue>
+    <name>Barden's Boudoir</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>38-44 Stoke Newington Road</street>
+      <postalcode>N16 7XJ</postalcode>
+      <geo:point>
+         <geo:lat>51.551575</geo:lat>
+         <geo:long>-0.074791</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778366</url>
+  </venue>
+  <startDate>Sat, 24 Mar 2007 16:51:01</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/116735.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/116735.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/116735.jpg</image>
+   <attendance>4</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=182886</tag>    
+  <url>http://www.last.fm/event/182886</url>
+</event>
+<event>
+  <id>147865</id>
+  <title>Toy Pirate</title>
+
+  <artists>
+    <artist>Rolo Tomassi</artist>
+    <artist>Untitled Musical Project</artist>
+    <artist>Radiant Boys</artist>
+    <headliner>Rolo Tomassi</headliner>
+  </artists>
+  <venue>
+    <name>Old Blue Last</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>39 Great Eastern Street</street>
+      <postalcode>EC2A 3ES</postalcode>
+      <geo:point>
+         <geo:lat>51.524305</geo:lat>
+         <geo:long>-0.079992</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8777933</url>
+  </venue>
+  <startDate>Fri, 23 Mar 2007 07:33:01</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/11215947.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/11215947.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/11215947.jpg</image>
+   <attendance>7</attendance>
+   <reviews>1</reviews>
+   <tag>lastfm:event=147865</tag>    
+  <url>http://www.last.fm/event/147865</url>
+</event>
+<event>
+  <id>150472</id>
+  <title>Daniel Higgs</title>
+
+  <artists>
+    <artist>Daniel Higgs</artist>
+    <artist>Guapo</artist>
+    <artist>Alexander Tucker</artist>
+    <headliner>Daniel Higgs</headliner>
+  </artists>
+  <venue>
+    <name>State 51</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>8-10 Rhoda Street</street>
+      <postalcode>E2 7EF</postalcode>
+      <geo:point>
+         <geo:lat>51.5252</geo:lat>
+         <geo:long>-0.072589</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8792766</url>
+  </venue>
+  <startDate>Fri, 09 Mar 2007 19:00:00</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/377404.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/377404.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/377404.jpg</image>
+   <attendance>7</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=150472</tag>    
+  <url>http://www.last.fm/event/150472</url>
+</event>
+<event>
+  <id>72626</id>
+  <title>Junior Boys</title>
+
+  <artists>
+    <artist>Junior Boys</artist>
+    <headliner>Junior Boys</headliner>
+  </artists>
+  <venue>
+    <name>Dingwalls</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>Camden Lock Place</street>
+      <postalcode>NW1 8AB</postalcode>
+      <geo:point>
+         <geo:lat>51.541005</geo:lat>
+         <geo:long>-0.146592</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8777901</url>
+  </venue>
+  <startDate>Tue, 20 Feb 2007 10:06:01</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/21451793.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/21451793.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/21451793.jpg</image>
+   <attendance>17</attendance>
+   <reviews>1</reviews>
+   <tag>lastfm:event=72626</tag>    
+  <url>http://www.last.fm/event/72626</url>
+</event>
+<event>
+  <id>115299</id>
+  <title>SOTTOVOCE - a DIY day festival on noise and improv</title>
+
+  <artists>
+    <artist>Aufgehoben</artist>
+    <artist>James Blackshaw</artist>
+    <artist>Lasse Marhaug</artist>
+    <artist>Birds Of Delay</artist>
+    <artist>Gary Smith</artist>
+    <artist>stefano tedesco</artist>
+    <artist>Testicle Hazard</artist>
+    <artist>Rhodri Davies</artist>
+    <artist>Ivar Grydeland</artist>
+    <artist>Roger Turner</artist>
+    <headliner>Aufgehoben</headliner>
+  </artists>
+  <venue>
+    <name>State 51</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>8-10 Rhoda Street</street>
+      <postalcode>E2 7EF</postalcode>
+      <geo:point>
+         <geo:lat>51.5252</geo:lat>
+         <geo:long>-0.072589</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8792766</url>
+  </venue>
+  <startDate>Sat, 10 Feb 2007 16:00:00</startDate>
+  <description><![CDATA[<div class="bbcode"><span style="font-size:14pt"><strong>'SOTTO VOCE'</strong></span>[br] ('whispering', or a dual reference to a 'discrete', 'underground' voice) as an attempt to reflect the ethos and the DIY nature of the event in all senses.<br />
+<br />
+2 alternating spaces: one amplified and one 'self resonating' at the state51 warehouse (aka, 'the factory') in London's East End (off Bricklane yet off the Shoreditch path).<br />
+<br />
+This event will include the first UK performances of AUFGEHOBEN and TESTICLE HAZARD (Lass Marhaug and Tommi Keranen), rare London appearances by GARY SMITH and ROGER TURNER, new projects by RHODRI DAVIES, and more.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/390235.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/390235.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/390235.jpg</image>
+   <attendance>20</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=115299</tag>    
+  <url>http://www.last.fm/event/115299</url>
+</event>
+<event>
+  <id>65003</id>
+  <title>Bleep Christmas Party</title>
+
+  <artists>
+    <artist>Marco Passarani</artist>
+    <artist>Digital Mystikz</artist>
+    <artist>Jimmy Edgar</artist>
+    <headliner>Marco Passarani</headliner>
+  </artists>
+  <venue>
+    <name>The Salisbury Hotel</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street/>
+      <postalcode/>
+      <geo:point>
+         <geo:lat>51.581841</geo:lat>
+         <geo:long>-0.099392</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8793296</url>
+  </venue>
+  <startDate>Thu, 21 Dec 2006 22:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Bleep Christmas party at The Salisbury, N4. NB Hot Chip is DJ set only, still tbc! Also playing are Moshi Moshi Records Djs, Soul Jazz Djs.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/168745.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/168745.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/168745.jpg</image>
+   <attendance>9</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=65003</tag>    
+  <url>http://www.last.fm/event/65003</url>
+</event>
+<event>
+  <id>54201</id>
+  <title>Lawrence</title>
+
+  <artists>
+    <artist>Lawrence</artist>
+    <artist>Pantha Du Prince</artist>
+    <artist>Carsten Jost</artist>
+    <artist>marco shuttle</artist>
+    <artist>Nick Craddock</artist>
+    <artist>Juergen Junker</artist>
+    <headliner>Lawrence</headliner>
+  </artists>
+  <venue>
+    <name>The Rhythm Factory</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>16-18 Whitechapel Rd</street>
+      <postalcode>E1 1EW</postalcode>
+      <geo:point>
+         <geo:lat>51.516859</geo:lat>
+         <geo:long>-0.06754</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8783094</url>
+  </venue>
+  <startDate>Fri, 15 Dec 2006 22:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Süd’s Yuletide Knees Up - Dial Records Allnighter<br />
+<br />
+Line up Overview + Venue Details <br />
+15th December 2006<br />
+<br />
+Room 1 <br />
+Dj's <br />
+Lawrence / Sten ( Dial , Kompakt , Cocoon , Novamute , Ghostly/Spectral , Ladomat )<br />
+Carsten Jost        ( Dial , Klang Elektronik , Sender )<br />
+<br />
+Live <br />
+Pantha Du Prince ( Dial )<br />
+<br />
+Support Dj's <br />
+Juergen Junker ( Neurhythmics , Third Ear )<br />
+Lakuti ( Süd )<br />
+<br />
+Room 2 <br />
+<br />
+Nick Craddock (nickcraddock.co.uk)<br />
+Marco Shuttle ( Minisketch , Multivitamins)<br />
+Stefano  <br />
+<br />
+Venue : The Rhythm Factory 16 - 18 Whitechapel Road , London E1 1EW<br />
+Click on the link below for a map <br />
+<a href="http://www.multimap.com/map/browse.cgi?lat=51.5167&amp;lon=-0.0676&amp;scale=10000&amp;icon=x" rel="nofollow">www.multimap.com/map/browse.cgi?lat=51.5167&amp;lon=-0.0676&amp;scale=10000&amp;icon=x</a> <br />
+Nearest Tubes : Aldgate East , Whitechapel <br />
+Buses : 67 , 25 , 205 , 254 , 25 , N106 , N253 <br />
+Times : 10 pm - 6am<br />
+Door Charge : £10 / £8 Concessions to Süd's mailinglist subscribers . Subscribe by emailing :<br />
+<a href="mailto:info@sudelectronic.com">info@sudelectronic.com</a><br />
+Infoline : 07727685791<br />
+<a href="http://www.sudelectronic.com" rel="nofollow">www.sudelectronic.com</a><br />
+<br />
+<br />
+Now in it's 4th year . The Süd's end of the year party is always about fun . This is the one we usually look forward to &amp; this year's will be no exception . With the best line up yet , this one is not to be missed ! :) <br />
+<br />
+Forget , mince pies , overcooked turkey &amp; brussel sprouts , . Great electronic music will be on offer on this occassion . <br />
+<br />
+We are so so pleased to be joined , by Hamburg's , finest , Dial Records , for their first ever 'Dial Records Allnighter ' ; in London .There is no guessing then that Dial is somewhat of an obsession down our headquarters .  They  are  one of those labels , that  never ever get it wrong . Now on their 31st release ; they are all about really intricate productions , melody , lush &amp; beautiful compositions &amp; great techno . The Dial artists are also  in demand when it comes to remix work . Having remixed Depeche Mode's Martin L. Gore (Lawrence ) ; Depeche Mode themselves , (Pantha Du Prince ) , Actress , Audision , Turner , Ego Express e.t.c. Head honchos , Lawrence &amp; Carsten Jost , &amp; Pantha Du Prince , will be taking over Room 1 of the Rhythm Factory . Lakuti will be joined by Juergen Junker , on warm up duties . Juergen Junker   has delivered some great records  on his Neurhythmics imprint and has featured , on remix duties  , on the seminal 'Detroit Beatdown Remixes' , (Third Ear )  remixing Delano Smith's 'Metropolis' . Having played nights such as 'Lost' e.t.c. He used to be the friendly face at Smallfish records too ! :)<br />
+<br />
+Room 2 will be hosted by Süd residents Nick Craddock &amp; Marco Shuttle . These guys have been more than impressive this year . Stealing the thunder  from guests on many occassions . They will be joined by a special friend to Süd ; Stefano . The party is not a party without Stefano , in fact he has hosted many a Süd afterparty :) Stefano has such a vast knowledge of electronic music , not to mention a vast collection , so his <br />
+Süd debut , should be magical then ! :) <br />
+<br />
+Dial Records are renowned for the exceptional artwork on their records too , with David Lieske's ( Carsten Jost ) , growing reputation in the Contemporary circles in Germany . They will be working with our very own Brittski , in bringing us some wonderful visual work on the night . <br />
+<br />
+Not to be missed ! <br />
+<br />
+More info from :<br />
+<a href="http://www.dial-rec.de/" rel="nofollow">http://www.dial-rec.de/</a><br />
+<a href="http://www.smallville-records.de" rel="nofollow">http://www.smallville-records.de</a><br />
+<a href="http://www.panthaduprince.com/" rel="nofollow">http://www.panthaduprince.com/</a> <br />
+<a href="http://www.myspace.com/lawrencesten" rel="nofollow">http://www.myspace.com/lawrencesten</a> <br />
+<a href="http://www.myspace.com/carstenjost" rel="nofollow">http://www.myspace.com/carstenjost</a><br />
+<br />
+<br />
+Hope to see you there !</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/47420.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/47420.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/47420.jpg</image>
+   <attendance>7</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=54201</tag>    
+  <url>http://www.last.fm/event/54201</url>
+</event>
+<event>
+  <id>29005</id>
+  <title>Black Devil Disco Club</title>
+
+  <artists>
+    <artist>Black Devil Disco Club</artist>
+    <headliner>Black Devil Disco Club</headliner>
+  </artists>
+  <venue>
+    <name>Plastic People</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>147-149 Curtain Road</street>
+      <postalcode>EC2</postalcode>
+      <geo:point>
+         <geo:lat>51.520523</geo:lat>
+         <geo:long>-0.100678</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778239</url>
+  </venue>
+  <startDate>Thu, 07 Dec 2006 22:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">The fourth edition of Discombabulate will present an absolute first, an exclusive analogue live performance by one of the undisputed pioneers of Italo Disco, the Black Devil.<br />
+<br />
+In 1978 French library writer Bernard Fevre aka 'Black Devil' released the now classic and very hard to find 'Disco Club’ on Out Records, a masterpiece of electronic disco and a precursor to the soon to follow Italo Disco movement. What Liaison Dangereuse is to Detroit Techno, Black Devil is to Italo Disco.<br />
+<br />
+A set of re-issues by Rephlex records in 2004 made this seminal work available to a wider audience and London's Lo Recordings released the follow-up '28 After', which is out now.<br />
+<br />
+Get your roller-skates on and arrive early to avoid disappointment!</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/890467.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/890467.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/890467.jpg</image>
+   <attendance>6</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=29005</tag>    
+  <url>http://www.last.fm/event/29005</url>
+</event>
+<event>
+  <id>56832</id>
+  <title>Laura Marling</title>
+
+  <artists>
+    <artist>Laura Marling</artist>
+    <artist>Shimura Curves</artist>
+    <headliner>Laura Marling</headliner>
+  </artists>
+  <venue>
+    <name>The Social</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>5 Little Portland Street</street>
+      <postalcode>W1W 7JD</postalcode>
+      <geo:point>
+         <geo:lat>51.517194</geo:lat>
+         <geo:long>-0.141054</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8839034</url>
+  </venue>
+  <startDate>Wed, 06 Dec 2006 11:49:01</startDate>
+  <description><![CDATA[<div class="bbcode">It's a Pamflet show</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/12920061.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/12920061.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/12920061.jpg</image>
+   <attendance>7</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=56832</tag>    
+  <url>http://www.last.fm/event/56832</url>
+</event>
+<event>
+  <id>23189</id>
+  <title>Oren Ambarchi</title>
+
+  <artists>
+    <artist>Oren Ambarchi</artist>
+    <artist>Stephan Mathieu</artist>
+    <artist>John Duncan</artist>
+    <artist>Paulo Raposo</artist>
+    <artist>Alfredo Costa Monteiro</artist>
+    <artist>Margarida Garcia</artist>
+    <headliner>Oren Ambarchi</headliner>
+  </artists>
+  <venue>
+    <name>St James Church</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>197 Picadilly</street>
+      <postalcode>W1J 9LL</postalcode>
+      <geo:point>
+         <geo:lat>51.509402</geo:lat>
+         <geo:long>-0.137079</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8777822</url>
+  </venue>
+  <startDate>Sun, 26 Nov 2006 19:30:00</startDate>
+  <description><![CDATA[<div class="bbcode">Akira Rabelais cannot make it. Stephan Mathieu will come instead!</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/200149.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/200149.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/200149.jpg</image>
+   <attendance>7</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=23189</tag>    
+  <url>http://www.last.fm/event/23189</url>
+</event>
+<event>
+  <id>23622</id>
+  <title>Acid Mothers Temple &amp; The Melting Paraiso U.F.O.</title>
+
+  <artists>
+    <artist>Acid Mothers Temple &amp; The Melting Paraiso U.F.O.</artist>
+    <artist>The Early Years</artist>
+    <artist>Duracell</artist>
+    <artist>Hunting Lodge</artist>
+    <headliner>Acid Mothers Temple &amp; The Melting Paraiso U.F.O.</headliner>
+  </artists>
+  <venue>
+    <name>Corsica Studios</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>Unit 5, Farrell Court, Elephant Road</street>
+      <postalcode>SE17 1LB</postalcode>
+      <geo:point>
+         <geo:lat>51.493828</geo:lat>
+         <geo:long>-0.098647</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778367</url>
+  </venue>
+  <startDate>Sun, 19 Nov 2006 19:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Listed at: <a href="http://www.failme.net/list/" rel="nofollow">http://www.failme.net/list/</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/230508.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/230508.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/230508.jpg</image>
+   <attendance>17</attendance>
+   <reviews>1</reviews>
+   <tag>lastfm:event=23622</tag>    
+  <url>http://www.last.fm/event/23622</url>
+</event>
+<event>
+  <id>21435</id>
+  <title>ESG</title>
+
+  <artists>
+    <artist>ESG</artist>
+    <headliner>ESG</headliner>
+  </artists>
+  <venue>
+    <name>Dingwalls</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>Camden Lock Place</street>
+      <postalcode>NW1 8AB</postalcode>
+      <geo:point>
+         <geo:lat>51.541005</geo:lat>
+         <geo:long>-0.146592</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8777901</url>
+  </venue>
+  <startDate>Wed, 15 Nov 2006 19:30:00</startDate>
+  <description><![CDATA[<div class="bbcode">ESG have a new(ish) record out on Soul Jazz records. It's called 'Keep On Moving'. They'll probably be performing stuff from that.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/3129217.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/3129217.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/3129217.jpg</image>
+   <attendance>7</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=21435</tag>    
+  <url>http://www.last.fm/event/21435</url>
+</event>
+<event>
+  <id>39195</id>
+  <title>Janek Schaefer</title>
+
+  <artists>
+    <artist>Janek Schaefer</artist>
+    <artist>am pm</artist>
+    <artist>Laurent Benner</artist>
+    <headliner>Janek Schaefer</headliner>
+  </artists>
+  <venue>
+    <name>Wiltons Music Hall</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>Graces Alley Off Ensign Street</street>
+      <postalcode>E1 8JB</postalcode>
+      <geo:point>
+         <geo:lat>51.510611</geo:lat>
+         <geo:long>-0.066964</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8784359</url>
+  </venue>
+  <startDate>Sat, 04 Nov 2006 20:00:00</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/54369.gif</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/54369.gif</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/54369.gif</image>
+   <attendance>2</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=39195</tag>    
+  <url>http://www.last.fm/event/39195</url>
+</event>
+<event>
+  <id>21220</id>
+  <title>Fennesz</title>
+
+  <artists>
+    <artist>Fennesz</artist>
+    <artist>Philip Jeck</artist>
+    <artist>Rosy Parlane</artist>
+    <artist>CM Von Hausswolff</artist>
+    <headliner>Fennesz</headliner>
+  </artists>
+  <venue>
+    <name>The Bedford Arms</name>
+    <location>
+      <city>Balham, London</city>
+      <country>United Kingdom</country>
+      <street>77 Bedford Hill</street>
+      <postalcode>SW12 9HD</postalcode>
+      <geo:point>
+         <geo:lat>51.442091</geo:lat>
+         <geo:long>-0.149031</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778243</url>
+  </venue>
+  <startDate>Tue, 17 Oct 2006 20:00:00</startDate>
+  <description/>
+  <image size="small">http://userserve-ak.last.fm/serve/34/388319.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/388319.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/388319.jpg</image>
+   <attendance>3</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=21220</tag>    
+  <url>http://www.last.fm/event/21220</url>
+</event>
+<event>
+  <id>18527</id>
+  <title>Liars</title>
+
+  <artists>
+    <artist>Liars</artist>
+    <artist>Sunn O)))</artist>
+    <artist>Erase Errata</artist>
+    <artist>BARR</artist>
+    <artist>Burning Star Core</artist>
+    <artist>The Curtains</artist>
+    <artist>Russell Haswell</artist>
+    <artist>Leopard Leg</artist>
+    <artist>Florian Hecker</artist>
+    <headliner>Liars</headliner>
+  </artists>
+  <venue>
+    <name>Hippodrome</name>
+    <location>
+      <city/>
+      <country>United Kingdom</country>
+      <street/>
+      <postalcode/>
+      <geo:point>
+         <geo:lat>51.648795</geo:lat>
+         <geo:long>0.454472</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778050</url>
+  </venue>
+  <startDate>Fri, 13 Oct 2006 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Part of the Frieze Art Fair.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/2261874.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/2261874.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/2261874.jpg</image>
+   <attendance>6</attendance>
+   <reviews>0</reviews>
+   <tag>lastfm:event=18527</tag>    
+  <url>http://www.last.fm/event/18527</url>
+</event>
+</events></lfm>

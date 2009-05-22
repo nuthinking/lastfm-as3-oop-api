@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lfm status="ok">
+<weeklyartistchart tag="Disco" from="1240747200" to="1241352000">
+<artist rank="1">
+    <name>ABBA</name>
+    <mbid>d87e52c5-bb8d-4da8-b941-9f4928627dc8</mbid>
+    <weight>169235408</weight>
+    <url>http://www.last.fm/music/ABBA</url>
+</artist>
+<artist rank="2">
+    <name>Bee Gees</name>
+    <mbid>bf0f7e29-dfe1-416c-b5c6-f9ebc19ea810</mbid>
+    <weight>112780000</weight>
+    <url>http://www.last.fm/music/Bee+Gees</url>
+</artist>
+<artist rank="3">
+    <name>Calvin Harris</name>
+    <mbid>8dd98bdc-80ec-4e93-8509-2f46bafc09a7</mbid>
+    <weight>86045840</weight>
+    <url>http://www.last.fm/music/Calvin+Harris</url>
+</artist>
+<artist rank="4">
+    <name>Donna Summer</name>
+    <mbid>b60527cc-54f3-4bbe-a01b-dcf34c95ae14</mbid>
+    <weight>68610000</weight>
+    <url>http://www.last.fm/music/Donna+Summer</url>
+</artist>
+<artist rank="5">
+    <name>Hercules and Love Affair</name>
+    <mbid/>
+    <weight>59012564</weight>
+    <url>http://www.last.fm/music/Hercules+and+Love+Affair</url>
+</artist>
+<artist rank="6">
+    <name>Michael Jackson</name>
+    <mbid>f27ec8db-af05-4f36-916e-3d57f91ecf5e</mbid>
+    <weight>47708608</weight>
+    <url>http://www.last.fm/music/Michael+Jackson</url>
+</artist>
+<artist rank="7">
+    <name>Grace Jones</name>
+    <mbid>b1c124b3-cf60-41a6-8699-92728c8a3fe0</mbid>
+    <weight>42620000</weight>
+    <url>http://www.last.fm/music/Grace+Jones</url>
+</artist>
+<artist rank="8">
+    <name>Diana Ross</name>
+    <mbid>60d41417-feda-4734-bbbf-7dcc30e08a83</mbid>
+    <weight>41436412</weight>
+    <url>http://www.last.fm/music/Diana+Ross</url>
+</artist>
+<artist rank="9">
+    <name>Little Boots</name>
+    <mbid/>
+    <weight>40810036</weight>
+    <url>http://www.last.fm/music/Little+Boots</url>
+</artist>
+<artist rank="10">
+    <name>Gloria Gaynor</name>
+    <mbid>d5c51c36-ac67-4727-91ed-ee9f0df81a2d</mbid>
+    <weight>39900000</weight>
+    <url>http://www.last.fm/music/Gloria+Gaynor</url>
+</artist>
+<artist rank="11">
+    <name>Kool &amp; The Gang</name>
+    <mbid>2469950a-f0ca-425a-bfbc-baf55ea3afde</mbid>
+    <weight>38942136</weight>
+    <url>http://www.last.fm/music/Kool%2B%2526%2BThe%2BGang</url>
+</artist>
+<artist rank="12">
+    <name>Boney M.</name>
+    <mbid>5403bf6e-bc1d-4e62-b31f-926a2bf66a14</mbid>
+    <weight>37560000</weight>
+    <url>http://www.last.fm/music/Boney+M.</url>
+</artist>
+<artist rank="13">
+    <name>Modern Talking</name>
+    <mbid>98913495-8867-43b3-aa8d-db88ee4d4cdc</mbid>
+    <weight>36449104</weight>
+    <url>http://www.last.fm/music/Modern+Talking</url>
+</artist>
+<artist rank="14">
+    <name>Chic</name>
+    <mbid>a4ed036b-5f18-439c-b1e1-96d205bab255</mbid>
+    <weight>33810000</weight>
+    <url>http://www.last.fm/music/Chic</url>
+</artist>
+<artist rank="15">
+    <name>Earth, Wind &amp; Fire</name>
+    <mbid>535afeda-2538-435d-9dd1-5e10be586774</mbid>
+    <weight>33669476</weight>
+    <url>http://www.last.fm/music/Earth%252C%2BWind%2B%2526%2BFire</url>
+</artist>
+<artist rank="16">
+    <name>Hot Chocolate</name>
+    <mbid>a749130e-c2d8-4a7c-b740-908ea4574961</mbid>
+    <weight>32700000</weight>
+    <url>http://www.last.fm/music/Hot+Chocolate</url>
+</artist>
+<artist rank="17">
+    <name>Electric Six</name>
+    <mbid>54b0584e-4e5e-4976-80d4-eea7a82a7213</mbid>
+    <weight>31270164</weight>
+    <url>http://www.last.fm/music/Electric+Six</url>
+</artist>
+<artist rank="18">
+    <name>Kylie Minogue</name>
+    <mbid>2fddb92d-24b2-46a5-bf28-3aed46f4684c</mbid>
+    <weight>30537468</weight>
+    <url>http://www.last.fm/music/Kylie+Minogue</url>
+</artist>
+<artist rank="19">
+    <name>Village People</name>
+    <mbid>f19d3d49-be22-4ca6-9903-64d86984fbf2</mbid>
+    <weight>28690000</weight>
+    <url>http://www.last.fm/music/Village+People</url>
+</artist>
+<artist rank="20">
+    <name>The Pointer Sisters</name>
+    <mbid>81bac815-97c5-4723-8f0b-4d8edfad1010</mbid>
+    <weight>26580000</weight>
+    <url>http://www.last.fm/music/The+Pointer+Sisters</url>
+</artist>
+<artist rank="21">
+    <name>Glass Candy</name>
+    <mbid>ca94595e-955a-495c-8ba1-25eebd9609a9</mbid>
+    <weight>25164480</weight>
+    <url>http://www.last.fm/music/Glass+Candy</url>
+</artist>
+<artist rank="22">
+    <name>Alcazar</name>
+    <mbid>8d5e244c-04f6-4d2d-ac98-3b0f0e33b3e2</mbid>
+    <weight>25145524</weight>
+    <url>http://www.last.fm/music/Alcazar</url>
+</artist>
+<artist rank="23">
+    <name>Barry White</name>
+    <mbid>b904d624-9e05-4398-8f4f-88fbcf022f79</mbid>
+    <weight>24422378</weight>
+    <url>http://www.last.fm/music/Barry+White</url>
+</artist>
+<artist rank="24">
+    <name>KC and the Sunshine Band</name>
+    <mbid>76a5a114-ed6a-4eb6-8a81-ad5768d4b41c</mbid>
+    <weight>23600000</weight>
+    <url>http://www.last.fm/music/KC+and+the+Sunshine+Band</url>
+</artist>
+<artist rank="25">
+    <name>The Jacksons</name>
+    <mbid>a447af08-1275-4e8c-ac8e-b8cf1cca3fc7</mbid>
+    <weight>21990000</weight>
+    <url>http://www.last.fm/music/The+Jacksons</url>
+</artist>
+<artist rank="26">
+    <name>Sister Sledge</name>
+    <mbid>1ed00158-c6a3-45cd-819c-2f91997fc480</mbid>
+    <weight>21900000</weight>
+    <url>http://www.last.fm/music/Sister+Sledge</url>
+</artist>
+<artist rank="27">
+    <name>Scissor Sisters</name>
+    <mbid>4236d929-9a81-4c8e-97c3-8d3306780f50</mbid>
+    <weight>21845618</weight>
+    <url>http://www.last.fm/music/Scissor+Sisters</url>
+</artist>
+<artist rank="28">
+    <name>The Bee Gees</name>
+    <mbid/>
+    <weight>19930000</weight>
+    <url>http://www.last.fm/music/+noredirect/The+Bee+Gees</url>
+</artist>
+<artist rank="29">
+    <name>Baccara</name>
+    <mbid>d17a5888-7775-4541-85d6-f6344f9e93b7</mbid>
+    <weight>18900000</weight>
+    <url>http://www.last.fm/music/Baccara</url>
+</artist>
+<artist rank="30">
+    <name>Santa Esmeralda</name>
+    <mbid>b233a9a9-2538-4c5b-986a-5843650e2611</mbid>
+    <weight>18850000</weight>
+    <url>http://www.last.fm/music/Santa+Esmeralda</url>
+</artist>
+<artist rank="31">
+    <name>Pet Shop Boys</name>
+    <mbid>be540c02-7898-4b79-9acc-c8122c7d9e83</mbid>
+    <weight>18485768</weight>
+    <url>http://www.last.fm/music/Pet+Shop+Boys</url>
+</artist>
+<artist rank="32">
+    <name>Carl Douglas</name>
+    <mbid>2100ca6c-5a1d-463e-b50b-7e649debc454</mbid>
+    <weight>18300000</weight>
+    <url>http://www.last.fm/music/Carl+Douglas</url>
+</artist>
+<artist rank="33">
+    <name>KC &amp; The Sunshine Band</name>
+    <mbid/>
+    <weight>17300000</weight>
+    <url>http://www.last.fm/music/+noredirect/KC%2B%2526%2BThe%2BSunshine%2BBand</url>
+</artist>
+<artist rank="34">
+    <name>Kleerup</name>
+    <mbid>7859f3f1-656e-4901-9194-f1d177d51524</mbid>
+    <weight>16438338</weight>
+    <url>http://www.last.fm/music/Kleerup</url>
+</artist>
+<artist rank="35">
+    <name>Rose Royce</name>
+    <mbid>846482ac-d4c4-4286-8002-b14a601d8ec0</mbid>
+    <weight>16020000</weight>
+    <url>http://www.last.fm/music/Rose+Royce</url>
+</artist>
+<artist rank="36">
+    <name>Hercules &amp; Love Affair</name>
+    <mbid/>
+    <weight>15330000</weight>
+    <url>http://www.last.fm/music/+noredirect/Hercules%2B%2526%2BLove%2BAffair</url>
+</artist>
+<artist rank="37">
+    <name>The Whispers</name>
+    <mbid>2e7afe0c-ec52-4c1d-9413-5d40f77922c7</mbid>
+    <weight>15230000</weight>
+    <url>http://www.last.fm/music/The+Whispers</url>
+</artist>
+<artist rank="38">
+    <name>Billy Ocean</name>
+    <mbid>0e422e91-a42a-4b4d-8413-9baff67350f2</mbid>
+    <weight>13911135</weight>
+    <url>http://www.last.fm/music/Billy+Ocean</url>
+</artist>
+<artist rank="39">
+    <name>Giorgio Moroder</name>
+    <mbid>38dd6337-19ae-4793-ab4b-313eff523457</mbid>
+    <weight>13848072</weight>
+    <url>http://www.last.fm/music/Giorgio+Moroder</url>
+</artist>
+<artist rank="40">
+    <name>In Flagranti</name>
+    <mbid>6a4736b5-8960-4512-98ec-dbbb87447ede</mbid>
+    <weight>13820000</weight>
+    <url>http://www.last.fm/music/In+Flagranti</url>
+</artist>
+<artist rank="41">
+    <name>Shalamar</name>
+    <mbid>8e57b7d5-4548-4e2b-b32d-af4b4a51cb80</mbid>
+    <weight>13710000</weight>
+    <url>http://www.last.fm/music/Shalamar</url>
+</artist>
+<artist rank="42">
+    <name>Rick James</name>
+    <mbid>cba9cec2-be8d-41bd-91b4-a1cd7de39b0c</mbid>
+    <weight>13263624</weight>
+    <url>http://www.last.fm/music/Rick+James</url>
+</artist>
+<artist rank="43">
+    <name>Earth Wind &amp; Fire</name>
+    <mbid/>
+    <weight>13022618</weight>
+    <url>http://www.last.fm/music/+noredirect/Earth%2BWind%2B%2526%2BFire</url>
+</artist>
+<artist rank="44">
+    <name>K.C. &amp; The Sunshine Band</name>
+    <mbid/>
+    <weight>12910000</weight>
+    <url>http://www.last.fm/music/+noredirect/K.C.%2B%2526%2BThe%2BSunshine%2BBand</url>
+</artist>
+<artist rank="45">
+    <name>Savage</name>
+    <mbid>974781ac-0f7d-4922-a537-ac1f611ea247</mbid>
+    <weight>12497531</weight>
+    <url>http://www.last.fm/music/Savage</url>
+</artist>
+<artist rank="46">
+    <name>Heatwave</name>
+    <mbid>ce809639-0e34-40c4-86c9-90a162cb3d46</mbid>
+    <weight>12480000</weight>
+    <url>http://www.last.fm/music/Heatwave</url>
+</artist>
+<artist rank="47">
+    <name>The Trammps</name>
+    <mbid>8799413d-7df8-4eb9-8542-af8cea6b0feb</mbid>
+    <weight>12170000</weight>
+    <url>http://www.last.fm/music/The+Trammps</url>
+</artist>
+<artist rank="48">
+    <name>The Jackson 5</name>
+    <mbid>e5257dc5-1edd-4fca-b7e6-1158e00522c8</mbid>
+    <weight>12104067</weight>
+    <url>http://www.last.fm/music/The+Jackson+5</url>
+</artist>
+<artist rank="49">
+    <name>Tavares</name>
+    <mbid>08b2c88f-6c13-419b-a4f5-182cc3738e49</mbid>
+    <weight>12040000</weight>
+    <url>http://www.last.fm/music/Tavares</url>
+</artist>
+<artist rank="50">
+    <name>Bad Boys Blue</name>
+    <mbid>ae32393f-b7db-479b-8728-8ea28c1edb16</mbid>
+    <weight>11667849</weight>
+    <url>http://www.last.fm/music/Bad+Boys+Blue</url>
+</artist>
+</weeklyartistchart></lfm>

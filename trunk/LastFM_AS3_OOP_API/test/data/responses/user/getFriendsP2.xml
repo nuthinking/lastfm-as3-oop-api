@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lfm status="ok">
+    <friends for="RJ" total="84" page="2" perPage="50" totalPages="2">
+        <user>
+            <name>
+                lexdra
+            </name>
+            <realname>
+                Alex
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/28102613.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/28102613.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/28102613.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/lexdra
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Clueso
+                    </name>
+                    <mbid>
+                        5c2717ab-3b1e-4043-8874-e88ecf391cc9
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/Clueso
+                    </url>
+                </artist>
+                <name>
+                    mein bestes
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Clueso/_/mein+bestes
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                hannahdonovan
+            </name>
+            <realname>
+                Hannah Donovan
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/28226029.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/28226029.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/28226029.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/hannahdonovan
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        The Roots
+                    </name>
+                    <mbid>
+                        80b3cf5e-18fe-4c59-98c7-e5bb87210710
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/The+Roots
+                    </url>
+                </artist>
+                <name>
+                    Dynamite
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/The+Roots/_/Dynamite
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                Waters_M
+            </name>
+            <realname>
+                Matthew Waters
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/1300537.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/1300537.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/1300537.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/Waters_M
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Terrorvision
+                    </name>
+                    <mbid>
+                        d2038f68-9325-42d3-a06c-5198aac24752
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/Terrorvision
+                    </url>
+                </artist>
+                <name>
+                    D'ya Wanna Go Faster
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Terrorvision/_/D%27ya+Wanna+Go+Faster
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                beanusmeridious
+            </name>
+            <realname>
+                Andy
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/1627247.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/1627247.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/1627247.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/beanusmeridious
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Jason Mraz
+                    </name>
+                    <mbid>
+                        82eb8936-7bf6-4577-8320-a2639465206d
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/Jason+Mraz
+                    </url>
+                </artist>
+                <name>
+                    Live High
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Jason+Mraz/_/Live+High
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                gragg
+            </name>
+            <realname>
+                Gareth Cooper
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/1657341.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/1657341.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/1657341.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/gragg
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Guster
+                    </name>
+                    <mbid>
+                        6cbe1e63-5895-4168-ac7e-f0d2836ba0c1
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/Guster
+                    </url>
+                </artist>
+                <name>
+                    Window
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Guster/_/Window
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                Orlando
+            </name>
+            <realname>
+                Tom Coates
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/630985.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/630985.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/630985.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/Orlando
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Crystal Castles
+                    </name>
+                    <mbid>
+                        b1570544-93ab-4b2b-8398-131735394202
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/Crystal+Castles
+                    </url>
+                </artist>
+                <name>
+                    Vanished
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Crystal+Castles/_/Vanished
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                andz
+            </name>
+            <realname/>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/839537.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/839537.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/839537.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/andz
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        The Chemical Brothers
+                    </name>
+                    <mbid>
+                        1946a82a-f927-40c2-8235-38d64f50d043
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/The+Chemical+Brothers
+                    </url>
+                </artist>
+                <name>
+                    KENNY DOPE presents THE POWERHOUSE THREE Makin' A Living - BADDER THAN EVIL Hot Wheels (The Chase) - UNIQUE 3 The Theme (Unique mix) - LOVE CORPOREATION Gimme Some Love
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/The+Chemical+Brothers/_/KENNY+DOPE+presents+THE+POWERHOUSE+THREE+Makin%27+A+Living+-+BADDER+THAN+EVIL+Hot+Wheels+%28The+Chase%29+-+UNIQUE+3+The+Theme+%28Unique+mix%29+-+LOVE+CORPOREATION+Gimme+Some+Love
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                sharevari
+            </name>
+            <realname>
+                Erik
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/27523985.png
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/27523985.png
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/27523985.png
+            </image>
+            <url>
+                http://www.last.fm/user/sharevari
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Boytronic
+                    </name>
+                    <mbid>
+                        3bd8aeaf-06d2-4691-99c9-6c3e79326b37
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/Boytronic
+                    </url>
+                </artist>
+                <name>
+                    Diamonds And Loving Arms
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Boytronic/_/Diamonds+And+Loving+Arms
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                pete_bug
+            </name>
+            <realname>
+                Jonas Woost
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/20645233.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/20645233.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/20645233.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/pete_bug
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Emmy the Great
+                    </name>
+                    <mbid>
+                        60bbceb2-0ddc-403b-970b-b4e9c3b2de5c
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/Emmy+the+Great
+                    </url>
+                </artist>
+                <name>
+                    On The Museum Island
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Emmy+the+Great/_/On+The+Museum+Island
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                Russ
+            </name>
+            <realname>
+                Russ Garrett
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/628252.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/628252.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/628252.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/Russ
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Red Snapper
+                    </name>
+                    <mbid>
+                        89abed31-3a93-407e-a4a3-a94e193488cd
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/Red+Snapper
+                    </url>
+                </artist>
+                <name>
+                    Bogeyman
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Red+Snapper/_/Bogeyman
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                thearrogance
+            </name>
+            <realname/>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/1046300.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/1046300.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/1046300.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/thearrogance
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        The Prodigy
+                    </name>
+                    <mbid>
+                        4a4ee089-93b1-4470-af9a-6ff575d32704
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/The+Prodigy
+                    </url>
+                </artist>
+                <name>
+                    Warriors Dance
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/+noredirect/The+Prodigy/_/Warriors+Dance
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                lozzd
+            </name>
+            <realname>
+                Laurie Denness
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/14929697.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/14929697.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/14929697.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/lozzd
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Muse
+                    </name>
+                    <mbid>
+                        9c9f1380-2516-4fc9-a3e6-f9f61941d090
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/Muse
+                    </url>
+                </artist>
+                <name>
+                    Megalomania
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Muse/_/Megalomania
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                avalyn2
+            </name>
+            <realname>
+                Peter
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/739188.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/739188.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/739188.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/avalyn2
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Tears Run Rings
+                    </name>
+                    <mbid/>
+                    <url>
+                        http://www.last.fm/music/Tears+Run+Rings
+                    </url>
+                </artist>
+                <name>
+                    The Weight of Love
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Tears+Run+Rings/_/The+Weight+of+Love
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                jen2
+            </name>
+            <realname/>
+            <image size="small"/>
+            <image size="medium"/>
+            <image size="large"/>
+            <url>
+                http://www.last.fm/user/jen2
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Apocalyptica
+                    </name>
+                    <mbid>
+                        788ad31c-bf0c-4a31-83f8-b8b130d79c76
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/Apocalyptica
+                    </url>
+                </artist>
+                <name>
+                    No Education
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Apocalyptica/_/No+Education
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                crshamburg
+            </name>
+            <realname>
+                Stefan Glänzer
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/1092107.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/1092107.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/1092107.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/crshamburg
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Daft Punk
+                    </name>
+                    <mbid>
+                        056e4f3e-d505-4dad-8ec1-d04f521cbb56
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/Daft+Punk
+                    </url>
+                </artist>
+                <name>
+                    Nightvision
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Daft+Punk/_/Nightvision
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                bubblenut
+            </name>
+            <realname>
+                Rob Young
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/902898.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/902898.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/902898.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/bubblenut
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        The Prodigy
+                    </name>
+                    <mbid>
+                        4a4ee089-93b1-4470-af9a-6ff575d32704
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/The+Prodigy
+                    </url>
+                </artist>
+                <name>
+                    Smack My Bitch Up (Original Mix)
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/The+Prodigy/_/Smack+My+Bitch+Up+%28Original+Mix%29
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                muesli
+            </name>
+            <realname/>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/19648927.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/19648927.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/19648927.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/muesli
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Duffy
+                    </name>
+                    <mbid>
+                        4e0e884d-099b-4ca9-bf4d-bcb31e739540
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/Duffy
+                    </url>
+                </artist>
+                <name>
+                    Warwick Avenue
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Duffy/_/Warwick+Avenue
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                skr
+            </name>
+            <realname>
+                Johan Oskarsson
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/5112891.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/5112891.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/5112891.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/skr
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Granada
+                    </name>
+                    <mbid>
+                        0308ae0e-9c7f-4eca-8cc5-caae285b8d45
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/Granada
+                    </url>
+                </artist>
+                <name>
+                    Drinking Problem
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Granada/_/Drinking+Problem
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                honeypea
+            </name>
+            <realname>
+                honey
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/1001843.gif
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/1001843.gif
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/1001843.gif
+            </image>
+            <url>
+                http://www.last.fm/user/honeypea
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Oh, Atoms
+                    </name>
+                    <mbid/>
+                    <url>
+                        http://www.last.fm/music/Oh%2C+Atoms
+                    </url>
+                </artist>
+                <name>
+                    Sugar Mouse
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Oh%2C+Atoms/_/Sugar+Mouse
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                flaneur
+            </name>
+            <realname>
+                Matt
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/2704011.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/2704011.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/2704011.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/flaneur
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        The Low Anthem
+                    </name>
+                    <mbid>
+                        9597a87d-73aa-47f9-a62c-3fc9a74ad386
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/The+Low+Anthem
+                    </url>
+                </artist>
+                <name>
+                    Charlie Darwin
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/The+Low+Anthem/_/Charlie+Darwin
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                cikkolata
+            </name>
+            <realname>
+                Nikki
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/679428.gif
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/679428.gif
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/679428.gif
+            </image>
+            <url>
+                http://www.last.fm/user/cikkolata
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        S.E.S.
+                    </name>
+                    <mbid>
+                        62814dab-64fe-4b70-b870-81c0145ba552
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/S.E.S.
+                    </url>
+                </artist>
+                <name>
+                    Dreams Come True
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/S.E.S./_/Dreams+Come+True
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                djsalt
+            </name>
+            <realname>
+                david
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/622369.gif
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/622369.gif
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/622369.gif
+            </image>
+            <url>
+                http://www.last.fm/user/djsalt
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Daby Touré
+                    </name>
+                    <mbid>
+                        b5619372-f609-4477-a198-7791f26d0898
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/Daby+Tour%C3%A9
+                    </url>
+                </artist>
+                <name>
+                    Mi Wawa
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Daby+Tour%C3%A9/_/Mi+Wawa
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                bonne
+            </name>
+            <realname>
+                Richard Harrison
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/633303.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/633303.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/633303.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/bonne
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Now Albums
+                    </name>
+                    <mbid/>
+                    <url>
+                        http://www.last.fm/music/Now+Albums
+                    </url>
+                </artist>
+                <name>
+                    Girls &amp; Boys - Blur
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Now+Albums/_/Girls%2B%2526%2BBoys%2B-%2BBlur
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                treepotato
+            </name>
+            <realname/>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/3807936.gif
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/3807936.gif
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/3807936.gif
+            </image>
+            <url>
+                http://www.last.fm/user/treepotato
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Gogol Bordello
+                    </name>
+                    <mbid>
+                        f47fc54d-b334-4321-8218-00c5b11d4dd1
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/Gogol+Bordello
+                    </url>
+                </artist>
+                <name>
+                    Not a Crime
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Gogol+Bordello/_/Not+a+Crime
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                HairMetalAddict
+            </name>
+            <realname>
+                Never stop the rock when it's started to Roll...
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/2312702.gif
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/2312702.gif
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/2312702.gif
+            </image>
+            <url>
+                http://www.last.fm/user/HairMetalAddict
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Billy Idol
+                    </name>
+                    <mbid>
+                        47c8f88b-987a-4b64-9175-2b1b57809727
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/Billy+Idol
+                    </url>
+                </artist>
+                <name>
+                    New Future Weapon
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Billy+Idol/_/New+Future+Weapon
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                Eingang
+            </name>
+            <realname>
+                Eingang
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/630953.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/630953.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/630953.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/Eingang
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        The Bangles
+                    </name>
+                    <mbid>
+                        f31ec2ac-9071-4306-acd1-d2c8321033b5
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/The+Bangles
+                    </url>
+                </artist>
+                <name>
+                    Walk Like an Egyptian
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/The+Bangles/_/Walk+Like+an+Egyptian
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                RNR
+            </name>
+            <realname>
+                Felix
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/642182.gif
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/642182.gif
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/642182.gif
+            </image>
+            <url>
+                http://www.last.fm/user/RNR
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        The Four Tops
+                    </name>
+                    <mbid>
+                        0d21b01f-21f2-419b-8d98-4158ba0c0aa4
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/The+Four+Tops
+                    </url>
+                </artist>
+                <name>
+                    It's The Same Old Song
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/The+Four+Tops/_/It%27s+The+Same+Old+Song
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                Ched
+            </name>
+            <realname>
+                James
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/622356.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/622356.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/622356.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/Ched
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Deftones
+                    </name>
+                    <mbid>
+                        7527f6c2-d762-4b88-b5e2-9244f1e34c46
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/Deftones
+                    </url>
+                </artist>
+                <name>
+                    Fireal
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Deftones/_/Fireal
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                count-bassy
+            </name>
+            <realname>
+                Martin Szomszor
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/662027.gif
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/662027.gif
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/662027.gif
+            </image>
+            <url>
+                http://www.last.fm/user/count-bassy
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Dream Theater
+                    </name>
+                    <mbid>
+                        28503ab7-8bf2-4666-a7bd-2644bfc7cb1d
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/Dream+Theater
+                    </url>
+                </artist>
+                <name>
+                    Dream Theater - A Rite Of Passage
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Dream+Theater/_/Dream+Theater+-+A+Rite+Of+Passage
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                mainstream
+            </name>
+            <realname>
+                Martin Stiksel
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/16251931.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/16251931.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/16251931.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/mainstream
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Willie Williams
+                    </name>
+                    <mbid/>
+                    <url>
+                        http://www.last.fm/music/Willie+Williams
+                    </url>
+                </artist>
+                <name>
+                    Armagideon Time
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Willie+Williams/_/Armagideon+Time
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                joi
+            </name>
+            <realname>
+                Joichi Ito
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/4281324.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/4281324.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/4281324.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/joi
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        John Brown's Body
+                    </name>
+                    <mbid>
+                        0a542cc6-528e-4830-a0bb-175348233052
+                    </mbid>
+                    <url>
+                        http://www.last.fm/music/John+Brown%27s+Body
+                    </url>
+                </artist>
+                <name>
+                    Speak Of The Devil (feat. Vaughn Benjamin of Midnite)
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/John+Brown%27s+Body/_/Speak+Of+The+Devil+%28feat.+Vaughn+Benjamin+of+Midnite%29
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                AlexStapleton
+            </name>
+            <realname>
+                Alex Stapleton
+            </realname>
+            <image size="small"/>
+            <image size="medium"/>
+            <image size="large"/>
+            <url>
+                http://www.last.fm/user/AlexStapleton
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Steinski &amp; Double Dee
+                    </name>
+                    <mbid/>
+                    <url>
+                        http://www.last.fm/music/Steinski%2B%2526%2BDouble%2BDee
+                    </url>
+                </artist>
+                <name>
+                    The Payoff Mix
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/Steinski%2B%2526%2BDouble%2BDee/_/The+Payoff+Mix
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                LAST.HQ
+            </name>
+            <realname>
+                The Team
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/615839.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/615839.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/615839.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/LAST.HQ
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        total bummer
+                    </name>
+                    <mbid/>
+                    <url>
+                        http://www.last.fm/music/total+bummer
+                    </url>
+                </artist>
+                <name>
+                    Long Winter
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/total+bummer/_/Long+Winter
+                </url>
+            </recenttrack>
+        </user>
+        <user>
+            <name>
+                timgaunt
+            </name>
+            <realname>
+                Tim
+            </realname>
+            <image size="small">
+                http://userserve-ak.last.fm/serve/34/731228.jpg
+            </image>
+            <image size="medium">
+                http://userserve-ak.last.fm/serve/64/731228.jpg
+            </image>
+            <image size="large">
+                http://userserve-ak.last.fm/serve/126/731228.jpg
+            </image>
+            <url>
+                http://www.last.fm/user/timgaunt
+            </url>
+            <recenttrack>
+                <artist>
+                    <name>
+                        Kanye West Feat. Talib Kweli &amp; Common
+                    </name>
+                    <mbid/>
+                    <url>
+                        http://www.last.fm/music/+noredirect/Kanye%2BWest%2BFeat.%2BTalib%2BKweli%2B%2526%2BCommon
+                    </url>
+                </artist>
+                <name>
+                    Get Em' High
+                </name>
+                <mbid/>
+                <url>
+                    http://www.last.fm/music/+noredirect/Kanye%2BWest%2BFeat.%2BTalib%2BKweli%2B%2526%2BCommon/_/Get+Em%27+High
+                </url>
+            </recenttrack>
+        </user>
+    </friends>
+</lfm>
