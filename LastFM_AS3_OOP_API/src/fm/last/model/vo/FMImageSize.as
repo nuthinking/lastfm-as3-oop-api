@@ -25,6 +25,8 @@ package fm.last.model.vo
 	/**
 	 * ValueObject used by FMImage to identify the visual representation of an image
 	 * 
+	 * (I'm not particularly sure about the name of this class)
+	 * 
 	 * @see FMImage
 	 * 	 * @author christian	 */	public class FMImageSize 
 	{
