@@ -21,11 +21,12 @@
  */
 package fm.last.model
 {
-	import fm.last.model.vo.FMChart;
 	import fm.last.enum.FMPeriodType;
-	import fm.last.model.vo.FMShout;
+	import fm.last.model.vo.FMChart;
 	import fm.last.utils.PageResults;
+
 	import flash.events.Event;
+
 	/**
 	 * Incapsulates all the methods of the Last.fm user web service
      */
@@ -77,23 +78,28 @@ package fm.last.model
 		public static function createFromXML( xml : XML ) : FMUser
 		{
 			var r : FMUser = new FMUser();
-			r.name = xml.name.text();
-			if(xml.realname[0] != null)
-				r.realname = xml.realname.text();
-			r.url = xml.url.text();
-			r.addImages(xml.image);
-			if(xml.weight[0] != null)
-				r.weight = parseInt(xml.weight.text());
-			if(xml.recenttrack[0] != null)
-				r.recentTrack = FMTrack.createFromXML(xml.recenttrack[0]);
-			if(xml.match[0])
-				r.match = parseFloat(xml.match[0]);
+			r.populateFromXML(xml);
 			return r;
 		}
 
 		public function FMUser(name : String = null)
 		{
 			this.name = name;
+		}
+		
+		protected function populateFromXML ( xml : XML ) : void
+		{
+			name = xml.name.text();
+			if(xml.realname[0] != null)
+				realname = xml.realname.text();
+			url = xml.url.text();
+			addImages(xml.image);
+			if(xml.weight[0] != null)
+				weight = parseInt(xml.weight.text());
+			if(xml.recenttrack[0] != null)
+				recentTrack = mf.createTrack(xml.recenttrack[0]);
+			if(xml.match[0])
+				match = parseFloat(xml.match[0]);
 		}
 		
 		public function get friends () : Array
@@ -126,7 +132,7 @@ package fm.last.model
 			events = [];
 			var children : XMLList = response.events.event;
 			for each( var child : XML in children) {
-				events.push(FMEvent.createFromXML(child));
+				events.push(mf.createEvent(child));
 			}
 			dispatchEvent(new Event(GET_EVENTS));
 		}
@@ -162,7 +168,7 @@ package fm.last.model
 			var items : Array = [];
 			var children : XMLList = response.friends.user;
 			for each(var child : XML in children) {
-				items.push(FMUser.createFromXML(child));
+				items.push(mf.createUser(child));
 			}
 			friendsResults.addPage(items);
 			var page : uint = parseInt(response.friends.@page);
@@ -191,7 +197,7 @@ package fm.last.model
 			lovedTracks = [];
 			var children : XMLList = response.lovedtracks.track;
 			for each(var child : XML in children) {
-				lovedTracks.push(FMTrack.createFromXML(child));
+				lovedTracks.push(mf.createTrack(child));
 			}
 			dispatchEvent(new Event(GET_LOVED_TRACKS));
 		}
@@ -214,7 +220,7 @@ package fm.last.model
 			neighbours = [];
 			var children : XMLList = response.neighbours.user;
 			for each(var child : XML in children) {
-				neighbours.push(FMUser.createFromXML(child));
+				neighbours.push(mf.createUser(child));
 			}
 			dispatchEvent(new Event(GET_NEIGHBOURS));
 		}
@@ -248,7 +254,7 @@ package fm.last.model
 			var items : Array = [];
 			var children : XMLList = response.events.event;
 			for each(var child : XML in children) {
-				items.push(FMEvent.createFromXML(child));
+				items.push(mf.createEvent(child));
 			}
 			pastEventsResults.addPage(items);
 			var page : uint = parseInt(response.events.@page);
@@ -277,7 +283,7 @@ package fm.last.model
 			playlists = [];
 			var children : XMLList = response.playlists.playlist;
 			for each(var child : XML in children) {
-				playlists.push(FMPlayList.createFromXML(child));
+				playlists.push(mf.createPlayList(child));
 			}
 			dispatchEvent(new Event(GET_PLAYLISTS));
 		}
@@ -303,7 +309,7 @@ package fm.last.model
 			recentTracks = [];
 			var children : XMLList = response.recenttracks.track;
 			for each(var child : XML in children) {
-				recentTracks.push(FMTrack.createFromXML(child));
+				recentTracks.push(mf.createTrack(child));
 			}
 			dispatchEvent(new Event(GET_RECENT_TRACKS));
 		}
@@ -326,7 +332,7 @@ package fm.last.model
 			shouts = [];
 			var children : XMLList = response.shouts.shout;
 			for each(var child : XML in children) {
-				shouts.push(FMShout.createFromXML(child));
+				shouts.push(mf.createShout(child));
 			}
 			dispatchEvent(new Event(GET_SHOUTS));
 		}
@@ -354,7 +360,7 @@ package fm.last.model
 			topAlbums = [];
 			var children : XMLList = response.topalbums.album;
 			for each(var child : XML in children){
-				topAlbums.push(FMAlbum.createFromXML(child));
+				topAlbums.push(mf.createAlbum(child));
 			}
 			dispatchEvent(new Event(GET_TOP_ALBUMS));
 		}
@@ -381,7 +387,7 @@ package fm.last.model
 			topArtists = [];
 			var children : XMLList = response.topartists.artist;
 			for each(var child : XML in children){
-				topArtists.push(FMArtist.createFromXML(child));
+				topArtists.push(mf.createArtist(child));
 			}
 			dispatchEvent(new Event(GET_TOP_ARTISTS));
 		}
@@ -405,7 +411,7 @@ package fm.last.model
 			topTags = [];
 			var children : XMLList = response.toptags.tag;
 			for each(var child : XML in children) {
-				topTags.push(FMTag.createFromXML(child));
+				topTags.push(mf.createTag(child));
 			}
 			dispatchEvent(new Event(GET_TOP_TAGS));
 		}
@@ -432,7 +438,7 @@ package fm.last.model
 			topTracks = [];
 			var children : XMLList = response.toptracks.track;
 			for each(var child : XML in children) {
-				topTracks.push(FMTrack.createFromXML(child));
+				topTracks.push(mf.createTrack(child));
 			}
 			dispatchEvent(new Event(GET_TOP_TRACKS));
 		}
@@ -461,7 +467,7 @@ package fm.last.model
 			weeklyAlbumChart = [];
 			var children : XMLList = response.weeklyalbumchart.album;
 			for each (var child : XML in children) {
-				weeklyAlbumChart.push(FMAlbum.createFromXML(child));
+				weeklyAlbumChart.push(mf.createAlbum(child));
 			}
 			dispatchEvent(new Event(GET_WEEKLY_ALBUM_CHART));
 		}
@@ -489,7 +495,7 @@ package fm.last.model
 			weeklyArtistChart = [];
 			var children : XMLList = response.weeklyartistchart.artist;
 			for each (var child : XML in children) {
-				weeklyArtistChart.push(FMArtist.createFromXML(child));
+				weeklyArtistChart.push(mf.createArtist(child));
 			}
 			dispatchEvent(new Event(GET_WEEKLY_ARTIST_CHART));
 		}
@@ -512,7 +518,7 @@ package fm.last.model
 			weeklyChartList = [];
 			var children : XMLList = response.weeklychartlist.chart;
 			for each (var child : XML in children) {
-				weeklyChartList.push(FMChart.createFromXML(child));
+				weeklyChartList.push(mf.createChart(child));
 			}
 			dispatchEvent(new Event(GET_WEEKLY_CHART_LIST));
 		}
@@ -541,7 +547,7 @@ package fm.last.model
 			weeklyTrackChart = [];
 			var children : XMLList = response.weeklytrackchart.track;
 			for each (var child : XML in children) {
-				weeklyTrackChart.push(FMTrack.createFromXML(child));
+				weeklyTrackChart.push(mf.createTrack(child));
 			}
 			dispatchEvent(new Event(GET_WEEKLY_TRACK_CHART));
 		}

@@ -32,8 +32,13 @@ package fm.last.model.vo
 		public static function createFromXML ( xml : XML) : FMInfo
 		{
 			var b : FMInfo = new FMInfo();
-			b.publishedDateRaw = xml.published.text();
-			b.summary = xml.summary.text();
-			b.content = xml.content.text();
+			b.populateFromXML(xml);
 			return b;		}
+		
+		protected function populateFromXML ( xml : XML ) : void
+		{
+			publishedDateRaw = xml.published.text();
+			summary = xml.summary.text();
+			content = xml.content.text();
+		}
 	}}

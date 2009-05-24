@@ -109,11 +109,11 @@ package fm.last.model
 			if(xml.similar[0] != null){
 				similar = [];
 				for each(var child : XML in xml.similar.artist){
-					similar.push(FMArtist.createFromXML(child));
+					similar.push(mf.createArtist(child));
 				}
 			}
 			if(xml.bio[0] != null)
-				bio = FMInfo.createFromXML(xml.bio[0]);
+				bio = mf.createInfo(xml.bio[0]);
 			if(xml.match[0] != null)
 				match = parseFloat(xml.match.text());
 			if(xml.tagcount[0] != null
@@ -146,7 +146,7 @@ package fm.last.model
 			events = [];
 			var children : XMLList = response.events.event;
 			for each(var child : XML in children){
-				events.push(FMEvent.createFromXML(child));
+				events.push(mf.createEvent(child));
 			}
 			dispatchEvent(new Event(GET_EVENTS));
 		}
@@ -183,7 +183,7 @@ package fm.last.model
 			var images : Array = [];
 			var children : XMLList = response.images.image;
 			for each(var child : XML in children){
-				images.push(FMImage.createFromXML(child));
+				images.push(mf.createImage(child));
 			}
 			imagesResults.addPage(images);
 			var page : uint = parseInt(response.images.@page);
@@ -238,7 +238,7 @@ package fm.last.model
 			shouts = [];
 			var children : XMLList = response.shouts.shout;
 			for each(var child : XML in children){
-				shouts.push(FMShout.createFromXML(child));
+				shouts.push(mf.createShout(child));
 			}
 			dispatchEvent(new Event(GET_SHOUTS));
 		}
@@ -267,7 +267,7 @@ package fm.last.model
 			similar = [];
 			var children : XMLList = response.similarartists.artist;
 			for each(var child : XML in children){
-				similar.push(FMArtist.createFromXML(child));
+				similar.push(mf.createArtist(child));
 			}
 			dispatchEvent(new Event(GET_SIMILAR));
 		}
@@ -289,7 +289,7 @@ package fm.last.model
 			topAlbums = [];
 			var children : XMLList = response.topalbums.album;
 			for each(var child : XML in children){
-				topAlbums.push(FMAlbum.createFromXML(child));
+				topAlbums.push(mf.createAlbum(child));
 			}
 			dispatchEvent(new Event(GET_TOP_ALBUMS));
 		}
@@ -311,7 +311,7 @@ package fm.last.model
 			topFans = [];
 			var children : XMLList = response.topfans.user;
 			for each(var child : XML in children){
-				topFans.push(FMUser.createFromXML(child));
+				topFans.push(mf.createUser(child));
 			}
 			dispatchEvent(new Event(GET_TOP_FANS));
 		}
@@ -334,7 +334,7 @@ package fm.last.model
 			topTags = [];
 			var children : XMLList = response.toptags.tag;
 			for each(var child : XML in children){
-				topTags.push(FMTag.createFromXML(child));
+				topTags.push(mf.createTag(child));
 			}
 			dispatchEvent(new Event(GET_TOP_TAGS));
 		}
@@ -356,7 +356,7 @@ package fm.last.model
 			topTracks = [];
 			var children : XMLList = response.toptracks.track;
 			for each(var child : XML in children){
-				topTracks.push(FMTrack.createFromXML(child));
+				topTracks.push(mf.createTrack(child));
 			}
 			dispatchEvent(new Event(GET_TOP_TRACKS));
 		}

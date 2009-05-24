@@ -32,20 +32,69 @@ package fm.last.model
 	{
 		public static const GET_INFO:String = "album.getInfo";
 		
+		/**
+		 * The title of the album
+		 */
 		public var name : String;
+		
+		/**
+		 * The artist who recorded the album
+		 */
 		public var artist : FMArtist;
-		public var id : String;
+		
+		/**
+		 * The LastFM id of the album
+		 */
+		public var id : int;
+		
+		/**
+		 * The muzicbrainz id of the album
+		 */
 		public var mbid : String;
+		
+		/**
+		 * The url on LastFM of the album
+		 */
 		public var url : String;
+		
+		/**
+		 * The release date of the album as returned by the XML
+		 */
 		public var releaseDateRaw : String;
+		
+		/**
+		 * The amount of listeners
+		 */
 		public var listeners : Number;
+		
+		/**
+		 * The amount of times the album as been played
+		 */
 		public var playCount : Number;
+		
+		/**
+		 * If the album can be streamed
+		 */
 		public var streamable : Boolean;
+		
+		/**
+		 * The amount of tags assigned to the album
+		 */
 		public var tagCount : Number;
 		
+		/**
+		 * The most relevant tags assigned to the album
+		 */
 		public var topTags : Array;
+		
+		/**
+		 * Editorial information about the album
+		 */
 		public var bio : FMInfo;
 		
+		/**
+		 * Populate the model from the different XML formats returned by the web service
+		 */
 		protected function populateFromXML ( xml : XML) : void
 		{
 			if(xml.name[0] == null && xml.title[0] == null){
@@ -58,8 +107,8 @@ package fm.last.model
 			}else{
 				name = xml.title.text();				
 			}
-			artist = FMArtist.createFromXML(xml.artist[0]);
-			id = xml.id.text();
+			artist = mf.createArtist(xml.artist[0]);
+			id = parseInt(xml.id.text());
 			if(xml.mbid[0] != null)
 				mbid = xml.mbid.text();
 			url = xml.url.text();
@@ -74,11 +123,17 @@ package fm.last.model
 			if(xml.toptags[0] != null)
 				addTagsFromNodes(xml.toptags.tag);
 			if(xml.wiki[0] != null)
-				bio = FMInfo.createFromXML(xml.wiki[0]);
+				bio = mf.createInfo(xml.wiki[0]);
 			if(xml.tagcount[0] != null
 				&& String(xml.tagcount.text()).length > 0)
 					tagCount = parseInt(xml.tagcount.text());
 		}
+		
+		/**
+		 * Constructor
+		 * 
+		 * @param the title of the album
+		 */
 		
 		public function FMAlbum(name : String = null)
 		{
@@ -90,9 +145,16 @@ package fm.last.model
 			// TODO: check if tag is already present, maybe a dictionary based on name would be better
 			topTags = [];
 			for each(var child : XML in nodes){
-				topTags.push(FMTag.createFromXML(child));
+				topTags.push(mf.createTag(child));
 			}
 		}
+		
+		/**
+		 * Creates an instance of the model starting from the XML node returned by the web service
+		 * 
+		 * @param the xml node
+		 * @return the new populated instance
+		 */
 		
 		public static function createFromXML ( xml : XML ) : FMAlbum
 		{

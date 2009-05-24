@@ -50,7 +50,7 @@ package fm.last.search
 			tags = [];
 			var children : XMLList = response.toptags.tag;
 			for each(var child : XML in children){
-				tags.push(FMTag.createFromXML(child));
+				tags.push(mf.createTag(child));
 			}
 			dispatchEvent(new Event(FMTopTags.GET_TOP_TAGS));
 		}

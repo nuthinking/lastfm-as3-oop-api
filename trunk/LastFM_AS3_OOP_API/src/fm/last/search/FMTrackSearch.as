@@ -62,7 +62,7 @@ package fm.last.search
 			var children : XMLList = responseXML.results.trackmatches.track;
 			var res : Array = [];
 			for each(var child : XML in children){
-				res.push(FMTrack.createFromXML(child));
+				res.push(mf.createTrack(child));
 			}
 			return res;
 		}

@@ -84,7 +84,7 @@ package fm.last.model
 			var items : Array = [];
 			var children : XMLList = response.members.user;
 			for each(var child : XML in children){
-				items.push(FMUser.createFromXML(child));
+				items.push(mf.createUser(child));
 			}
 			membersResults.addPage(items);
 			var page : uint = parseInt(response.members.@page);
@@ -113,7 +113,7 @@ package fm.last.model
 			weeklyChartList = [];
 			var children : XMLList = response.weeklychartlist.chart;
 			for each (var child : XML in children) {
-				weeklyChartList.push(FMChart.createFromXML(child));
+				weeklyChartList.push(mf.createChart(child));
 			}
 			dispatchEvent(new Event(GET_WEEKLY_CHART_LIST));
 		}
@@ -141,7 +141,7 @@ package fm.last.model
 			weeklyAlbumChart = [];
 			var children : XMLList = response.weeklyalbumchart.album;
 			for each (var child : XML in children) {
-				weeklyAlbumChart.push(FMAlbum.createFromXML(child));
+				weeklyAlbumChart.push(mf.createAlbum(child));
 			}
 			dispatchEvent(new Event(GET_WEEKLY_ALBUM_CHART));
 		}
@@ -166,7 +166,7 @@ package fm.last.model
 			weeklyArtistChart = [];
 			var children : XMLList = response.weeklyartistchart.artist;
 			for each (var child : XML in children) {
-				weeklyArtistChart.push(FMArtist.createFromXML(child));
+				weeklyArtistChart.push(mf.createArtist(child));
 			}
 			dispatchEvent(new Event(GET_WEEKLY_ARTIST_CHART));
 		}
@@ -186,12 +186,13 @@ package fm.last.model
 			}
 			requestURL(GET_WEEKLY_TRACK_CHART, variables, onWeeklyTrackChartLoaded);
 		}
+		
 		private function onWeeklyTrackChartLoaded ( response : XML ) : void
 		{
 			weeklyTrackChart = [];
 			var children : XMLList = response.weeklytrackchart.track;
 			for each (var child : XML in children) {
-				weeklyTrackChart.push(FMTrack.createFromXML(child));
+				weeklyTrackChart.push(mf.createTrack(child));
 			}
 			dispatchEvent(new Event(GET_WEEKLY_TRACK_CHART));
 		}

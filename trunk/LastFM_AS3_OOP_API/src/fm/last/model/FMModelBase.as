@@ -21,6 +21,7 @@
  */
 package fm.last.model
 {
+	import fm.last.utils.IFMModelFactory;
 	import fm.last.utils.IFMLoader;
 	import fm.last.enum.FMImageSizeType;
 	import fm.last.events.FMLoadEvent;
@@ -45,6 +46,11 @@ package fm.last.model
 		override public function toString () : String
 		{
 			return TraceUtils.generateObjectDescription(this, propertiesToTrace);
+		}
+		
+		protected function get mf () : IFMModelFactory
+		{
+			return LastFMPreferences.modelFactory;
 		}
 
 		protected function assert (cond : Boolean, message : String) : void

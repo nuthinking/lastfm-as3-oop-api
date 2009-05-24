@@ -51,16 +51,21 @@ package fm.last.model
 		
 		public static function createFromXML (xml : XML) : FMGeo
 		{
-			var geo : Namespace = xml.namespace('geo');
 			var g : FMGeo = new FMGeo();
-			g.latitude = xml.geo::lat.text();
-			g.longitude = xml.geo::long.text();
+			g.populateFromXML(xml);
 			return g;
 		}
 
 		public function FMGeo()
 		{
 			propertiesToTrace = ["country","location","latitude","longitude"];
+		}
+		
+		protected function populateFromXML ( xml : XML ) : void
+		{
+			var geo : Namespace = xml.namespace('geo');
+			latitude = xml.geo::lat.text();
+			longitude = xml.geo::long.text();
 		}
 		public function get events () : Array
 		{
@@ -110,7 +115,7 @@ package fm.last.model
 			var items : Array = [];
 			var children : XMLList = response.events.event;
 			for each(var child : XML in children){
-				items.push(FMEvent.createFromXML(child));
+				items.push(mf.createEvent(child));
 			}
 			eventsResults.addPage(items);
 			//var total : uint = parseInt(response.events.@total);
@@ -144,7 +149,7 @@ package fm.last.model
 			topArtists = [];
 			var children : XMLList = response.topartists.artist;
 			for each(var child : XML in children) {
-				topArtists.push(FMArtist.createFromXML(child));
+				topArtists.push(mf.createArtist(child));
 			}
 			dispatchEvent(new Event(GET_TOP_ARTISTS));
 		}
@@ -167,7 +172,7 @@ package fm.last.model
 			topTracks = [];
 			var children : XMLList = response.toptracks.track;
 			for each(var child : XML in children) {
-				topTracks.push(FMTrack.createFromXML(child));
+				topTracks.push(mf.createTrack(child));
 			}
 			dispatchEvent(new Event(GET_TOP_TRACKS));
 		}

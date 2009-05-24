@@ -21,7 +21,9 @@
  */
 package fm.last.model
 {
-	import flash.events.Event;
+	import fm.last.enum.FMImageSizeType;
+
+	import flash.events.Event;
 	import fm.last.model.vo.FMInfo;
 	/**
 	 * Incapsulates all the methods of the Last.fm track web service
@@ -53,6 +55,8 @@ package fm.last.model
 		// responses
 		public var similar : Array;
 		public var topFans : Array;
+		
+		protected var xmlns:Namespace = new Namespace("http://xspf.org/ns/0/");
 
 		public function FMTrack(name : String = null) 
 		{
@@ -64,7 +68,7 @@ package fm.last.model
 		 * Might need to add the date a track has been loved by the user
 		 */
 		
-		private function populateFromXML ( xml : XML ) : void
+		protected function populateFromXML ( xml : XML ) : void
 		{
 			if(xml.@rank != null)
 				rank = parseInt(xml.@rank);
@@ -81,9 +85,9 @@ package fm.last.model
 				duration = parseInt(xml.duration[0]);
 			streamable = xml.streamable.text() == "1";
 			streamableAsFullTrack = xml.streamable.@fulltrack == "1";
-			artist = FMArtist.createFromXML(xml.artist[0]); // maybe check if there is already and in case repopulate
+			artist = mf.createArtist(xml.artist[0]); // maybe check if there is already and in case repopulate
 			if(xml.album[0] != null)
-				album = FMAlbum.createFromXML(xml.album[0]); // maybe check if there is already and in case repopulate
+				album = mf.createAlbum(xml.album[0]); // maybe check if there is already and in case repopulate
 			if(xml.image[0] != null)
 				addImages(xml.image);
 			if(xml.tagcount[0] != null
@@ -94,17 +98,34 @@ package fm.last.model
 			if(xml.toptags.tag[0] != null){
 				topTags = [];
 				for each(var tagXML : XML in xml.toptags.tag){
-					topTags.push(FMTag.createFromXML(tagXML));
+					topTags.push(mf.createTag(tagXML));
 				}
 			}
 			if(xml.wiki[0] != null)
-				bio = FMInfo.createFromXML(xml.wiki[0]);
+				bio = mf.createInfo(xml.wiki[0]);
 		}
 
 		public static function createFromXML (xml : XML) : FMTrack
 		{
 			var t : FMTrack = new FMTrack();
 			t.populateFromXML(xml);
+			return t;
+		}
+		
+		protected function populateFromXSPF ( xml : XML ) : void
+		{
+			name = xml.xmlns::title.text();
+			url = xml.xmlns::identifier.text();
+			artist = new FMArtist(xml.xmlns::creator.text());
+			album = new FMAlbum(xml.xmlns::album.text());
+			duration = parseInt(xml.xmlns::duration.text());
+			addImage(FMImageSizeType.LARGE, xml.xmlns::image.text());
+		}
+		
+		public static function createFromXSPF ( xml : XML ) : FMTrack
+		{
+			var t : FMTrack = new FMTrack();
+			t.populateFromXSPF(xml);
 			return t;
 		}
 		
@@ -162,7 +183,7 @@ package fm.last.model
 			similar = [];
 			var children : XMLList = response.similartracks.track;
 			for each(var child : XML in children) {
-				similar.push(FMTrack.createFromXML(child));
+				similar.push(mf.createTrack(child));
 			}
 			dispatchEvent(new Event(GET_SIMILAR));	
 		}
@@ -184,7 +205,7 @@ package fm.last.model
 			topFans = [];
 			var children : XMLList = response.topfans.user;
 			for each(var child : XML in children) {
-				topFans.push(FMUser.createFromXML(child));
+				topFans.push(mf.createUser(child));
 			}
 			dispatchEvent(new Event(GET_TOP_FANS));
 		}
@@ -206,7 +227,7 @@ package fm.last.model
 			topTags = [];
 			var children : XMLList = response.toptags.tag;
 			for each(var child : XML in children) {
-				topTags.push(FMTag.createFromXML(child));
+				topTags.push(mf.createTag(child));
 			}
 			dispatchEvent(new Event(GET_TOP_TAGS));
 		}
