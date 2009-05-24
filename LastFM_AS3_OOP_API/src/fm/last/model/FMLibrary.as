@@ -91,7 +91,7 @@ package fm.last.model
 			var items : Array = [];
 			var children : XMLList = response.albums.album;
 			for each(var child : XML in children){
-				items.push(FMAlbum.createFromXML(child));
+				items.push(mf.createAlbum(child));
 			}
 			albumsResults.addPage(items);
 			var page : uint = parseInt(response.albums.@page);
@@ -131,7 +131,7 @@ package fm.last.model
 			var items : Array = [];
 			var children : XMLList = response.artists.artist;
 			for each(var child : XML in children){
-				items.push(FMArtist.createFromXML(child));
+				items.push(mf.createArtist(child));
 			}
 			artistsResults.addPage(items);
 			var page : uint = parseInt(response.artists.@page);
@@ -171,7 +171,7 @@ package fm.last.model
 			var items : Array = [];
 			var children : XMLList = response.tracks.track;
 			for each(var child : XML in children){
-				items.push(FMTrack.createFromXML(child));
+				items.push(mf.createTrack(child));
 			}
 			tracksResults.addPage(items);
 			var page : uint = parseInt(response.tracks.@page);

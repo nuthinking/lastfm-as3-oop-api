@@ -33,9 +33,14 @@ package fm.last.model.vo
 		public static function createFromXML ( xml : XML ) : FMShout
 		{
 			var r : FMShout = new FMShout();
-			r.body = xml.body.text();
-			r.author = xml.author.text();
-			r.dateRaw = xml.date.text();
+			r.populateFromXML(xml);
 			return r;
-		}	}
+		}
+		
+		protected function populateFromXML ( xml : XML ) : void
+		{
+			body = xml.body.text();
+			author = xml.author.text();
+			dateRaw = xml.date.text();		}
+	}
 }

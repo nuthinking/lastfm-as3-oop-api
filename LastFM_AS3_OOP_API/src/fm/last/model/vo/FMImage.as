@@ -20,9 +20,11 @@
  *
  */
 package fm.last.model.vo
-{
-	import fm.last.enum.FMImageSizeType;
+{	import fm.last.enum.FMImageSizeType;
+	import fm.last.model.LastFMPreferences;
+
 	import flash.utils.Dictionary;
+
 	/**
 	 * ValueObject returned by the getImages methodd (ie: artist.getImages)
 	 * 	 * @author christian	 */	public class FMImage 
@@ -40,22 +42,27 @@ package fm.last.model.vo
 		public static function createFromXML ( xml : XML ) : FMImage
 		{
 			var r : FMImage = new FMImage();
-			r.title = xml.title.text();
-			r.url = xml.url.text();
-			r.dateAddedRaw = xml.dateadded.text();
-			r.format = xml.format.text();
+			r.populateFromXML(xml);
+			return r;
+		}
+		
+		protected function populateFromXML ( xml : XML ) : void
+		{
+			title = xml.title.text();
+			url = xml.url.text();
+			dateAddedRaw = xml.dateadded.text();
+			format = xml.format.text();
 			if(xml.owner[0] != null)
-				r.owner = FMOwner.createFromXML(xml.owner[0]);
+				owner = LastFMPreferences.modelFactory.createOwner(xml.owner[0]);
 			// sizes
-			r.sizes = new Dictionary();
+			sizes = new Dictionary();
 			var children : XMLList = xml.sizes.size;
 			for each(var child : XML in children){
 				var s : FMImageSizeType = FMImageSizeType.getEnumByValue(child.@name);
-				r.sizes[s] = FMImageSize.createFromXML(child);
+				sizes[s] = LastFMPreferences.modelFactory.createImageSize(child);
 			}
-			r.thumbsUp = parseInt(xml.votes.thumbsup.text());
-			r.thumbsDown = parseInt(xml.votes.thumbsdown.text());
-			return r;
+			thumbsUp = parseInt(xml.votes.thumbsup.text());
+			thumbsDown = parseInt(xml.votes.thumbsdown.text());
 		}
 		
 		public function getImageBySize(size : FMImageSizeType) : FMImageSize

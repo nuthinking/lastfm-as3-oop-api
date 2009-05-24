@@ -50,7 +50,7 @@ package fm.last.model
 			this.name = name;
 		}
 		
-		public function populateFromXML(xml : XML) : void
+		protected function populateFromXML(xml : XML) : void
 		{
 			name = xml.name.text();
 			if(xml.count[0] != null)
@@ -85,7 +85,7 @@ package fm.last.model
 			similar = [];
 			var children : XMLList = response.similartags.tag;
 			for each(var child : XML in children) {
-				similar.push(FMTag.createFromXML(child));
+				similar.push(mf.createTag(child));
 			}
 			dispatchEvent(new Event(GET_SIMILAR));
 		}
@@ -106,7 +106,7 @@ package fm.last.model
 			topAlbums = [];
 			var children : XMLList = response.topalbums.album;
 			for each(var child : XML in children) {
-				topAlbums.push(FMAlbum.createFromXML(child));
+				topAlbums.push(mf.createAlbum(child));
 			}
 			dispatchEvent(new Event(GET_TOP_ALBUMS));
 		}
@@ -127,7 +127,7 @@ package fm.last.model
 			topArtists = [];
 			var children : XMLList = response.topartists.artist;
 			for each(var child : XML in children) {
-				topArtists.push(FMArtist.createFromXML(child));
+				topArtists.push(mf.createArtist(child));
 			}
 			dispatchEvent(new Event(GET_TOP_ARTISTS));
 		}
@@ -148,7 +148,7 @@ package fm.last.model
 			topTracks = [];
 			var children : XMLList = response.toptracks.track;
 			for each(var child : XML in children) {
-				topTracks.push(FMTrack.createFromXML(child));
+				topTracks.push(mf.createTrack(child));
 			}
 			dispatchEvent(new Event(GET_TOP_TRACKS));
 		}
@@ -170,7 +170,7 @@ package fm.last.model
 			chartList = [];
 			var children : XMLList = response.weeklychartlist.chart;
 			for each(var child : XML in children) {
-				chartList.push(FMChart.createFromXML(child));
+				chartList.push(mf.createChart(child));
 			}
 			dispatchEvent(new Event(GET_WEEKLY_CHART_LIST));
 		}
@@ -202,7 +202,7 @@ package fm.last.model
 			weeklyArtistChart = [];
 			var children : XMLList = response.weeklyartistchart.artist;
 			for each (var child : XML in children) {
-				weeklyArtistChart.push(FMArtist.createFromXML(child));
+				weeklyArtistChart.push(mf.createArtist(child));
 			}
 			dispatchEvent(new Event(GET_WEEKLY_ARTIST_CHART));
 		}

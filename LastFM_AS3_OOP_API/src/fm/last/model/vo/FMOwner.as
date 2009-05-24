@@ -35,10 +35,15 @@ package fm.last.model.vo
 		public static function createFromXML (xml : XML) : FMOwner
 		{
 			var o : FMOwner = new FMOwner();
-			o.type = xml.@type;
-			o.name = xml.name.text();
-			o.url = xml.url.text();
+			o.populateFromXML(xml);
 			return o;		}
+		
+		protected function populateFromXML ( xml : XML ) : void
+		{
+			type = xml.@type;
+			name = xml.name.text();
+			url = xml.url.text();
+		}
 		
 		public function toString () : String
 		{

@@ -38,10 +38,16 @@ package fm.last.model.vo
 		public static function createFromXML ( xml : XML ) : FMImageSize
 		{
 			var r : FMImageSize = new FMImageSize();
-			r.name = xml.@name;
-			r.width = parseFloat(xml.@width);			r.height = parseFloat(xml.@height);
-			r.url = xml.text();
+			r.populateFromXML(xml);
 			return r;		}
+		
+		protected function populateFromXML ( xml : XML ) : void
+		{
+			name = xml.@name;
+			width = parseFloat(xml.@width);
+			height = parseFloat(xml.@height);
+			url = xml.text();
+		}
 		
 		public function toString () : String
 		{

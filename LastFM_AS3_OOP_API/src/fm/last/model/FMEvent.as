@@ -57,7 +57,7 @@ package fm.last.model
 			propertiesToTrace = ["id","title","venue"];
 		}
 		
-		private function populateFromXML ( xml : XML) : void
+		protected function populateFromXML ( xml : XML) : void
 		{
 			id = parseInt(xml.id.text());
 			name = xml.title.text();
@@ -65,7 +65,7 @@ package fm.last.model
 			artists = [];
 			var child : XML;
 			for each(child in xml.artists.artist){
-				artists.push(new FMArtist(child.text()));
+				artists.push(mf.createArtist(child));
 			}
 			var headlinerName : String = xml.artists.headliner.text();
 			for each(var a : FMArtist in artists){
@@ -74,7 +74,7 @@ package fm.last.model
 					break;
 				}
 			}
-			venue = FMVenue.createFromXML(xml.venue[0]);
+			venue = mf.createVenue(xml.venue[0]);
 			startDateRaw = xml.startDate.text();
 			if(xml.startTime[0] != null)
 				startTimeRaw = xml.startTime.text();
@@ -114,7 +114,7 @@ package fm.last.model
 			attendees = [];
 			var children : XMLList = response.attendees.user;
 			for each(var child : XML in children){
-				attendees.push(FMUser.createFromXML(child));
+				attendees.push(mf.createUser(child));
 			}
 			dispatchEvent(new Event(GET_ATTENDEES));
 		}
@@ -157,7 +157,7 @@ package fm.last.model
 			shouts = [];
 			var children : XMLList = response.shouts.shout;
 			for each(var child : XML in children){
-				shouts.push(FMShout.createFromXML(child));
+				shouts.push(mf.createShout(child));
 			}
 			dispatchEvent(new Event(GET_SHOUTS));
 		}

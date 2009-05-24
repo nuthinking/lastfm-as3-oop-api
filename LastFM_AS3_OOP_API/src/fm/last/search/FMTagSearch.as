@@ -21,7 +21,6 @@
  */
 package fm.last.search 
 {
-	import fm.last.model.FMTag;
 	import fm.last.search.FMSearchBase;
 
 	/**
@@ -51,7 +50,7 @@ package fm.last.search
 			var children : XMLList = responseXML.results.tagmatches.tag;
 			var res : Array = [];
 			for each(var child : XML in children){
-				res.push(FMTag.createFromXML(child));
+				res.push(mf.createTag(child));
 			}
 			return res;
 		}

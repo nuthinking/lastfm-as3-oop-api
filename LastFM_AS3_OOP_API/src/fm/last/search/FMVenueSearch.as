@@ -62,7 +62,7 @@ package fm.last.search
 			var children : XMLList = responseXML.results.venuematches.venue;
 			var res : Array = [];
 			for each(var child : XML in children){
-				res.push(FMVenue.createFromXML(child));
+				res.push(mf.createVenue(child));
 			}
 			return res;
 		}
