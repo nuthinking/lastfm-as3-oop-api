@@ -29,16 +29,49 @@ package fm.last.model.vo
 	 * ValueObject returned by the getImages methodd (ie: artist.getImages)
 	 * 	 * @author christian	 */	public class FMImage 
 	{
-		public var title : String;
+		/**
+		 * The title
+		 */
+		public var name : String;
+		
+		/**
+		 * The url in LastFM
+		 */
 		public var url : String;
+		
+		/**
+		 * The date the image has been added as returned by the web service
+		 */
 		public var dateAddedRaw : String;
+		
+		/**
+		 * The format of the image (ie. "jpg")
+		 */
 		public var format : String;
+		
+		/**
+		 * The owner of the image
+		 */
 		public var owner : FMOwner;
+		
+		/**
+		 * Amount of thumbs up received
+		 */
 		public var thumbsUp : Number;
+		
+		/**
+		 * Amount of thumbs down received
+		 */
 		public var thumbsDown : Number;
 		
 		private var sizes : Dictionary;
 		
+		/**
+		 * Creates an instance of the model starting from the XML node returned by the web service
+		 * 
+		 * @param the xml node representing the model
+		 * @return the new populated instance
+		 */
 		public static function createFromXML ( xml : XML ) : FMImage
 		{
 			var r : FMImage = new FMImage();
@@ -46,9 +79,14 @@ package fm.last.model.vo
 			return r;
 		}
 		
+		/**
+		 * Populate the model from the different XML formats returned by the web service
+		 * 
+		 * @param the XML node representing the model
+		 */
 		protected function populateFromXML ( xml : XML ) : void
 		{
-			title = xml.title.text();
+			name = xml.title.text();
 			url = xml.url.text();
 			dateAddedRaw = xml.dateadded.text();
 			format = xml.format.text();
@@ -65,6 +103,11 @@ package fm.last.model.vo
 			thumbsDown = parseInt(xml.votes.thumbsdown.text());
 		}
 		
+		/**
+		 * Returns an image registered to the relative enumerator
+		 * 
+		 * @return an image registered to the relative enumerator
+		 */
 		public function getImageBySize(size : FMImageSizeType) : FMImageSize
 		{
 			if(sizes == null)

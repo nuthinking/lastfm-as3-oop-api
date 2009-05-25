@@ -18,6 +18,12 @@ package fm.last.utils
 	import fm.last.model.vo.FMShout;
 
 	/**
+	 * Interface which defines the factory for the models.
+	 * If you want to override the models, you should assign a new model factory to LastFMPreferences
+	 * implementing your class or extending FMModelFactory.
+	 * 
+	 * @see LastFMPreferences, FMModelFactory
+	 * 
 	 * @author christian
 	 */
 	public interface IFMModelFactory 

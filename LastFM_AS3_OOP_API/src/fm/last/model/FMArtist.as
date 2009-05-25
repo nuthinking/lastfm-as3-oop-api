@@ -21,11 +21,9 @@
  */
 package fm.last.model
 {
-	import fm.last.model.vo.FMShout;
-	import fm.last.model.vo.FMImage;
-	import fm.last.utils.PageResults;
 	import fm.last.enum.FMSortType;
 	import fm.last.model.vo.FMInfo;
+	import fm.last.utils.PageResults;
 
 	import flash.events.Event;
 
@@ -80,6 +78,11 @@ package fm.last.model
 			propertiesToTrace = ["name", "rank", "playCount"];
 		}
 		
+		/**
+		 * Populate the model from the different XML formats returned by the web service
+		 * 
+		 * @param the XML node representing the model
+		 */
 		protected function populateFromXML ( xml : XML) : void
 		{
 			// compact version
@@ -120,7 +123,13 @@ package fm.last.model
 				&& String(xml.tagcount.text()).length > 0)
 					tagCount = parseInt(xml.tagcount.text());
 		}
-
+		
+		/**
+		 * Creates an instance of the model starting from the XML node returned by the web service
+		 * 
+		 * @param the xml node representing the model
+		 * @return the new populated instance
+		 */
 		public static function createFromXML ( xml : XML ) : FMArtist
 		{
 			var a : FMArtist = new FMArtist();

@@ -49,6 +49,12 @@ package fm.last.model
 		 */
 		public var country : String;
 		
+		/**
+		 * Creates an instance of the model starting from the XML node returned by the web service
+		 * 
+		 * @param the xml node representing the model
+		 * @return the new populated instance
+		 */
 		public static function createFromXML (xml : XML) : FMGeo
 		{
 			var g : FMGeo = new FMGeo();
@@ -61,6 +67,11 @@ package fm.last.model
 			propertiesToTrace = ["country","location","latitude","longitude"];
 		}
 		
+		/**
+		 * Populate the model from the different XML formats returned by the web service
+		 * 
+		 * @param the XML node representing the model
+		 */
 		protected function populateFromXML ( xml : XML ) : void
 		{
 			var geo : Namespace = xml.namespace('geo');

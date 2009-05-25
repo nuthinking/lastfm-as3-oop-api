@@ -21,11 +21,10 @@
  */
 package fm.last.search 
 {
-	import fm.last.model.FMTrack;
 	import fm.last.search.FMSearchBase;
 
 	/**
-	 * Model which processed the search for tracks
+	 * Model which processed the search for tracks	
 	 * 
 	 * @author christian
 	 */

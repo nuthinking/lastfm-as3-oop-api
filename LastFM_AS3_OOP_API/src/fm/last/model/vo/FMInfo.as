@@ -25,16 +25,38 @@ package fm.last.model.vo
 	 * ValueObject used by different model as bio
 	 * 	 * @author christian	 */	public class FMInfo 
 	{
+		/**
+		 * The date the information has been published as returned by the web service
+		 */
 		public var publishedDateRaw : String;
+		
+		/**
+		 * Abstract of the content
+		 */
 		public var summary : String;
+		
+		/**
+		 * The full length content, which can contain HTML
+		 */
 		public var content : String;
 		
+		/**
+		 * Creates an instance of the model starting from the XML node returned by the web service
+		 * 
+		 * @param the xml node representing the model
+		 * @return the new populated instance
+		 */
 		public static function createFromXML ( xml : XML) : FMInfo
 		{
 			var b : FMInfo = new FMInfo();
 			b.populateFromXML(xml);
 			return b;		}
 		
+		/**
+		 * Populate the model from the different XML formats returned by the web service
+		 * 
+		 * @param the XML node representing the model
+		 */
 		protected function populateFromXML ( xml : XML ) : void
 		{
 			publishedDateRaw = xml.published.text();

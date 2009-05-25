@@ -25,19 +25,43 @@ package fm.last.model.vo
 	/**
 	 * ValueObject used by FMImage
 	 * 
+	 * NOTE: might have sense to consider the replacement with FMUser
+	 * 
 	 * @see FMImage
 	 * 	 * @author christian	 */	public class FMOwner 
 	{
+		/**
+		 * Defines the owen type (ie. "user")
+		 */
 		public var type : String;
+		
+		/**
+		 * The name of the owner
+		 */
 		public var name : String;
+		
+		/**
+		 * The url on LastFM
+		 */
 		public var url : String;
 		
+		/**
+		 * Creates an instance of the model starting from the XML node returned by the web service
+		 * 
+		 * @param the xml node representing the model
+		 * @return the new populated instance
+		 */
 		public static function createFromXML (xml : XML) : FMOwner
 		{
 			var o : FMOwner = new FMOwner();
 			o.populateFromXML(xml);
 			return o;		}
 		
+		/**
+		 * Populate the model from the different XML formats returned by the web service
+		 * 
+		 * @param the XML node representing the model
+		 */
 		protected function populateFromXML ( xml : XML ) : void
 		{
 			type = xml.@type;

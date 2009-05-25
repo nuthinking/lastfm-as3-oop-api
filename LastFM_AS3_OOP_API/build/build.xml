@@ -9,5 +9,23 @@
 			<arg line="-include-sources='${basedir}/${source.dir}'"/>
 		</exec>
 	</target>
+	
+	<target name="asdocs">
+		<property name="asdoc.dir" value="${basedir}/docs"/>
+		<delete dir="${asdoc.dir}" failOnError="false" includeEmptyDirs="true"/>
+		<mkdir dir="${asdoc.dir}"/>
+		<java classname="flex2.tools.ASDoc" fork="true">
+			<classpath>
+				<fileset dir="${flex3-3.dir}/lib" includes="*.jar"/>
+			</classpath>
+			<jvmarg value="-Dapplication.home=${flex3-3.dir}"/>
+			<jvmarg value="-Xmx1024m"/>
+			<jvmarg value="-Dsun.io.useCanonCaches=false"/>
+			<jvmarg value="-Xbootclasspath/p:${flex3-3.dir}/asdoc/lib/xalan.jar"/>
+			<arg line="-source-path '${basedir}/src'" />
+			<arg line="-doc-sources '${basedir}/src/fm'" />
+			<arg line="-output '${asdoc.dir}'" />
+		</java>
+	</target>
 
 </project>

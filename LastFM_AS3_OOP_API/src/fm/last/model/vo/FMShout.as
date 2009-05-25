@@ -25,11 +25,27 @@ package fm.last.model.vo
 	 * ValueObject returned by getShouts methods
 	 * 	 * @author christian	 */	public class FMShout 
 	{
-	
+		/**
+		 * The content of the shout
+		 */
 		public var body : String;
+		
+		/**
+		 * The author name of the shout
+		 */
 		public var author : String;
+		
+		/**
+		 * The date of the shout as returned by the web service
+		 */
 		public var dateRaw : String;
 		
+		/**
+		 * Creates an instance of the model starting from the XML node returned by the web service
+		 * 
+		 * @param the xml node representing the model
+		 * @return the new populated instance
+		 */
 		public static function createFromXML ( xml : XML ) : FMShout
 		{
 			var r : FMShout = new FMShout();
@@ -37,6 +53,11 @@ package fm.last.model.vo
 			return r;
 		}
 		
+		/**
+		 * Populate the model from the different XML formats returned by the web service
+		 * 
+		 * @param the XML node representing the model
+		 */
 		protected function populateFromXML ( xml : XML ) : void
 		{
 			body = xml.body.text();

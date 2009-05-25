@@ -22,12 +22,26 @@
 package fm.last.events 
 {	import flash.events.Event;
 	
-	/**	 * @author christian	 */	public class FMLoadEvent extends Event 
+	/**
+	 * Event internally dispatched when the XML has been loaded from the web service
+	 * 	 * @author christian	 */	public class FMLoadEvent extends Event 
 	{
+		/**
+		 * Id for the load complete event
+		 */
 		public static const LOAD_COMPLETE : String = "loadComplete";
-
+		
+		/**
+		 * The entire XML returned by the web service call
+		 */
 		public var response : XML;
-
+		
+		/**
+		 * Constructor
+		 * 
+		 * @param the event type
+		 * @param the entire XML returned by the web service call
+		 */
 		public function FMLoadEvent(type : String, response : XML)
 		{			super(type);
 			

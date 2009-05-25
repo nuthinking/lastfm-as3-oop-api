@@ -21,11 +21,10 @@
  */
 package fm.last.search 
 {
+	import fm.last.model.FMModelBase;
+
 	import flash.events.Event;
 
-	import fm.last.model.FMTag;
-	import fm.last.model.FMModelBase;
-	
 	/**
 	 * Model which processed the loading of the top tags
 	 * 

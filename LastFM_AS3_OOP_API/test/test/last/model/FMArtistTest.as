@@ -111,11 +111,11 @@ package test.last.model
 			var a : FMArtist = FMArtist(event.currentTarget);
 			assertEquals("FMArtist.getEvents should return the images", 70, a.images.length);
 			var firstImage : FMImage = a.images[0];
-			assertEquals("the first image should have the right title", "CHER14", firstImage.title);
+			assertEquals("the first image should have the right name", "CHER14", firstImage.name);
 			assertEquals("the first image should have the right url", "http://www.last.fm/music/Cher/+images/13638451", firstImage.url);
 			assertEquals("the first image should have the right owner name", "AngelPOA", firstImage.owner.name);
 			var lastImage : FMImage = a.images.pop();
-			assertEquals("the last image should have the right title", "normal_photo1992greatest_03", lastImage.title);
+			assertEquals("the last image should have the right name", "normal_photo1992greatest_03", lastImage.name);
 			assertEquals("the last image should have the right url", "http://www.last.fm/music/Cher/+images/20233011", lastImage.url);
 			assertEquals("the last image should have the right owner name", "JoKo93", lastImage.owner.name);
 		}

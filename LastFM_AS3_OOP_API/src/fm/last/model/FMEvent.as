@@ -21,8 +21,6 @@
  */
 package fm.last.model
 {
-	import fm.last.model.vo.FMShout;
-
 	import flash.events.Event;
 
 	/**
@@ -57,6 +55,11 @@ package fm.last.model
 			propertiesToTrace = ["id","title","venue"];
 		}
 		
+		/**
+		 * Populate the model from the different XML formats returned by the web service
+		 * 
+		 * @param the XML node representing the model
+		 */
 		protected function populateFromXML ( xml : XML) : void
 		{
 			id = parseInt(xml.id.text());
@@ -89,6 +92,12 @@ package fm.last.model
 			url = xml.url.text();
 		}
 		
+		/**
+		 * Creates an instance of the model starting from the XML node returned by the web service
+		 * 
+		 * @param the xml node representing the model
+		 * @return the new populated instance
+		 */
 		public static function createFromXML(xml : XML) : FMEvent
 		{
 			var e : FMEvent = new FMEvent();

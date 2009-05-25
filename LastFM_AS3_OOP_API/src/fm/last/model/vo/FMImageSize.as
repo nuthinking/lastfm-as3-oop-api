@@ -30,17 +30,43 @@ package fm.last.model.vo
 	 * @see FMImage
 	 * 	 * @author christian	 */	public class FMImageSize 
 	{
+		/**
+		 * The image title
+		 */
 		public var name : String;
+		
+		/**
+		 * The image width
+		 */
 		public var width : Number;
+		
+		/**
+		 * The image height
+		 */
 		public var height : Number;
+		
+		/**
+		 * The image asset url
+		 */
 		public var url : String;
 		
+		/**
+		 * Creates an instance of the model starting from the XML node returned by the web service
+		 * 
+		 * @param the xml node representing the model
+		 * @return the new populated instance
+		 */
 		public static function createFromXML ( xml : XML ) : FMImageSize
 		{
 			var r : FMImageSize = new FMImageSize();
 			r.populateFromXML(xml);
 			return r;		}
 		
+		/**
+		 * Populate the model from the different XML formats returned by the web service
+		 * 
+		 * @param the XML node representing the model
+		 */
 		protected function populateFromXML ( xml : XML ) : void
 		{
 			name = xml.@name;
