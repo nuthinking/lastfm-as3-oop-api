@@ -1,8 +1,8 @@
 package  
 {
-	import fm.last.model.LastFMPreferences;
 	import fm.last.enum.FMSortType;
 	import fm.last.model.FMArtist;
+	import fm.last.model.LastFMPreferences;
 	import fm.last.model.vo.FMImage;
 
 	import flash.display.Sprite;
@@ -86,7 +86,7 @@ package
 
 import fm.last.enum.FMImageSizeType;
 import fm.last.model.vo.FMImage;
-import fm.last.model.vo.FMImageSize;
+import fm.last.model.vo.FMImageFile;
 
 import flash.display.Loader;
 import flash.display.Sprite;
@@ -99,7 +99,7 @@ class ImageView extends Sprite
 
 	public function ImageView(model : FMImage)
 	{
-		var img : FMImageSize = model.getImageBySize(FMImageSizeType.MEDIUM);
+		var img : FMImageFile = model.getImageFileBySize(FMImageSizeType.SMALL);
 		
 		createBg(img.width, img.height);
 		
