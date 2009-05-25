@@ -23,17 +23,41 @@ package fm.last.enum
 {
 
 	/**
+	 * Enumerator which defines the date range for methods like FMUser.getTopTracks and FMUser.getTopArtists
+	 * 
 	 * @author christian
 	 */
 	public class FMPeriodType 
 	{
+		/**
+		 * Enumerator for "overall"
+		 */
 		public static const OVERALL : FMPeriodType = new FMPeriodType("overall");
+		
+		/**
+		 * Enumerator for "3month"
+		 */
 		public static const THREE_MONTHS : FMPeriodType = new FMPeriodType("3month");
+		
+		/**
+		 * Enumerator for "6month"
+		 */
 		public static const SIX_MONTHS : FMPeriodType = new FMPeriodType("6month");
+		
+		/**
+		 * Enumerator for "12month"
+		 */
 		public static const TWELVE_MONTHS : FMPeriodType = new FMPeriodType("12month");
 		
+		/**
+		 * The string representation of the enumerator
+		 */
 		public var value : String;
 		
+		/**
+		 * Constructor
+		 * @param the string representation of the enumerator
+		 */
 		public function FMPeriodType ( value : String )
 		{
 			this.value = value;

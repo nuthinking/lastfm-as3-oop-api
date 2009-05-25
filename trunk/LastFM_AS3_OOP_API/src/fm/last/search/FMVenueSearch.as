@@ -21,7 +21,6 @@
  */
 package fm.last.search 
 {
-	import fm.last.model.FMVenue;
 	import fm.last.search.FMSearchBase;
 
 	/**

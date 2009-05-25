@@ -64,10 +64,14 @@ package fm.last.model
 			propertiesToTrace = ["name", "artist", "rank"];
 		}
 		
-		/**
+		/*
 		 * Might need to add the date a track has been loved by the user
 		 */
-		
+		/**
+		 * Populate the model from the different XML formats returned by the web service
+		 * 
+		 * @param the XML node representing the model
+		 */
 		protected function populateFromXML ( xml : XML ) : void
 		{
 			if(xml.@rank != null)
@@ -104,7 +108,13 @@ package fm.last.model
 			if(xml.wiki[0] != null)
 				bio = mf.createInfo(xml.wiki[0]);
 		}
-
+		
+		/**
+		 * Creates an instance of the model starting from the XML node returned by the web service
+		 * 
+		 * @param the xml node representing the model
+		 * @return the new populated instance
+		 */
 		public static function createFromXML (xml : XML) : FMTrack
 		{
 			var t : FMTrack = new FMTrack();

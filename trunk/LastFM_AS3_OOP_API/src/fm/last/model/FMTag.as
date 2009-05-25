@@ -50,6 +50,11 @@ package fm.last.model
 			this.name = name;
 		}
 		
+		/**
+		 * Populate the model from the different XML formats returned by the web service
+		 * 
+		 * @param the XML node representing the model
+		 */
 		protected function populateFromXML(xml : XML) : void
 		{
 			name = xml.name.text();
@@ -60,6 +65,12 @@ package fm.last.model
 				streamable = xml.streamable.text() == "1";
 		}
 		
+		/**
+		 * Creates an instance of the model starting from the XML node returned by the web service
+		 * 
+		 * @param the xml node representing the model
+		 * @return the new populated instance
+		 */
 		public static function createFromXML ( xml : XML ) : FMTag
 		{
 			var t : FMTag = new FMTag();

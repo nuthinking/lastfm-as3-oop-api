@@ -36,7 +36,7 @@ package test.last.model
 		public function testConstructor () : void
 		{
 			var o : FMImage = FMImage.createFromXML(getEmbeddedXML(CONSTRUCTOR_XML_CLASS));
-			assertEquals("FMImage.createFromXML should set the image title", "CHER14", o.title);
+			assertEquals("FMImage.createFromXML should set the image name", "CHER14", o.name);
 			assertEquals("FMImage.createFromXML should set the image url", "http://www.last.fm/music/Cher/+images/13638451", o.url);
 			assertEquals("FMImage.createFromXML should set the image dateAddedRaw", "Mon, 13 Oct 2008 22:06:36", o.dateAddedRaw);
 			assertEquals("FMImage.createFromXML should set the image format", "jpg", o.format);

@@ -22,12 +22,22 @@
 package fm.last.model.vo 
 {
 	/**
-	 * ValueObject returned by the getWeeklyChartList methods
+	 * ValueObject returned by the getWeeklyChartList methods, it defines mainly the date range for a chart
 	 * 	 * @author christian	 */	public class FMChart 
 	{
+		/**
+		 * The starting date of the chart
+		 */
 		public var dateFrom : Date;
+		
+		/**
+		 * The ending date of the chart
+		 */
 		public var dateTo : Date;
 		
+		/**
+		 * The starting date of the chart as unix date
+		 */
 		public function get dateFromAsInt () : Number
 		{
 			if(dateFrom == null)
@@ -35,6 +45,9 @@ package fm.last.model.vo
 			return Math.round(dateFrom.time / 1000);
 		}
 		
+		/**
+		 * The ending date of the chart as unix date
+		 */
 		public function get dateToAsInt () : Number
 		{
 			if(dateTo == null)
@@ -42,12 +55,25 @@ package fm.last.model.vo
 			return Math.round(dateTo.time / 1000);
 		}
 		
+		/**
+		 * Constructor
+		 * 
+		 * @param the starting date of the chart
+		 * @param the ending date of the chart
+		 */
 		public function FMChart(dateFrom : Date = null, dateTo : Date = null)
 		{
 			this.dateFrom = dateFrom;
 			this.dateTo = dateTo;	
 		}
 		
+		/**
+		 * Creates an instance from the unix dates
+		 * 
+		 * @param starting date as unix date
+		 * @param ending date as unix date
+		 * @return the new instance
+		 */
 		public static function createFromInt (dateFrom : uint, dateTo : uint) : FMChart
 		{
 			var df : Date = new Date(dateFrom * 1000);
@@ -55,6 +81,12 @@ package fm.last.model.vo
 			return new FMChart(df, dt);
 		}
 		
+		/**
+		 * Creates an instance of the model starting from the XML node returned by the web service
+		 * 
+		 * @param the xml node representing the model
+		 * @return the new populated instance
+		 */
 		public static function createFromXML ( xml : XML ) : FMChart
 		{
 			var from : int = parseInt(xml.@from);
