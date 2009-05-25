@@ -46,8 +46,8 @@ package
 		private function onImagesLoaded(event : Event) : void
 		{
 			// You can get to an image url for instance with
-			// artist.images[0].getImageBySize(FMImageSizeType.MEDIUM)
-			// which will return an FMImageSize which contains: name, width, height and url
+			// artist.images[0].getImageFileBySize(FMImageSizeType.MEDIUM)
+			// which will return an FMImageFile which contains: name, width, height and url
 			var a : FMArtist = FMArtist(event.currentTarget);
 			for each(var img : FMImage in a.images){
 				addImage(img);
