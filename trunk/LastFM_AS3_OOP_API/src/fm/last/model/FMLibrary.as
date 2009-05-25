@@ -30,27 +30,53 @@ package fm.last.model
      */
 	public class FMLibrary extends FMModelBase
 	{
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_ALBUMS:String = "library.getAlbums";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_ARTISTS:String = "library.getArtists";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_TRACKS:String = "library.getTracks";
+		
+		/**
+		 * The user who owns the library
+		 */
 		public var user : FMUser;
 		
 		private var albumsResults : PageResults;
 		private var artistsResults : PageResults;
 		private var tracksResults : PageResults;
 		
+		/**
+		 * The list of albums loaded who are in the library
+		 */
 		public function get albums () : Array
 		{
 			if(albumsResults == null)
 				return null;
 			return albumsResults.items;
 		}
+		
+		/**
+		 * The list of artists loaded who are in the library
+		 */
 		public function get artists () : Array
 		{
 			if(artistsResults == null)
 				return null;
 			return artistsResults.items;
 		}
+		
+		/**
+		 * The list of tracks loaded who are in the library
+		 */
 		public function get tracks () : Array
 		{
 			if(tracksResults == null)
@@ -58,15 +84,23 @@ package fm.last.model
 			return tracksResults.items;
 		}
 		
-
+		/**
+		 * Constructor
+		 * 
+		 * @param the owner of the library
+		 */
 		public function FMLibrary(user : FMUser = null) {
 			this.user = user;
 		}
 		
 		/**
-		 * Get a list of all the albums in this library, with play counts and tag counts.
+		 * Load the list of all the albums in this library, with play counts and tag counts.
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=321
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_ALBUMS
+		 * 
+		 * @param the max amount of albums to load
 		 */
 		public function getAlbums(limit : int = 50) : void
 		{
@@ -104,9 +138,13 @@ package fm.last.model
 		}
 
 		/**
-		 * Get the list of artists in this library, with play counts and tag counts. 
+		 * Load the list of artists in this library, with play counts and tag counts. 
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=322
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_ARTISTS
+		 * 
+		 * @param the max amount of artists to load
 		 */
 		public function getArtists(limit : int = 50) : void
 		{
@@ -144,9 +182,13 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get a list of tracks in this library, with play counts and tag counts. 
+		 * Load the list of tracks in this library, with play counts and tag counts. 
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=298
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_TRACKS
+		 * 
+		 * @param the max amount of tracks to load
 		 */
 		public function getTracks( limit : int = 50 ):void
 		{

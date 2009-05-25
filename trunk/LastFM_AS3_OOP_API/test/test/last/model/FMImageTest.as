@@ -22,7 +22,7 @@
 package test.last.model 
 {	import fm.last.enum.FMImageSizeType;
 	import fm.last.model.vo.FMImage;
-	import fm.last.model.vo.FMImageSize;
+	import fm.last.model.vo.FMImageFile;
 
 	import test.last.model.FMModelTest;
 
@@ -43,12 +43,12 @@ package test.last.model
 			assertEquals("FMImage.createFromXML should set the image owner type", "user", o.owner.type);
 			assertEquals("FMImage.createFromXML should set the image owner name", "AngelPOA", o.owner.name);
 			assertEquals("FMImage.createFromXML should set the image owner url", "http://www.last.fm/user/AngelPOA", o.owner.url);
-			var originalSize : FMImageSize = o.getImageBySize(FMImageSizeType.ORIGINAL);
+			var originalSize : FMImageFile = o.getImageFileBySize(FMImageSizeType.ORIGINAL);
 			assertNotNull("FMImage.createFromXML should set the image size original", originalSize);
 			assertEquals("FMImage.createFromXML should set the image size original width", 402, originalSize.width);
 			assertEquals("FMImage.createFromXML should set the image size original height", 343, originalSize.height);
 			assertEquals("FMImage.createFromXML should set the image size original url", "http://userserve-ak.last.fm/serve/_/13638451/Cher+14.jpg", originalSize.url);
-			var largeSquareSize : FMImageSize = o.getImageBySize(FMImageSizeType.LARGE_SQUARE);
+			var largeSquareSize : FMImageFile = o.getImageFileBySize(FMImageSizeType.LARGE_SQUARE);
 			assertNotNull("FMImage.createFromXML should set the image size largesquare", largeSquareSize);
 			assertEquals("FMImage.createFromXML should set the image size largesquare width", 126, largeSquareSize.width);
 			assertEquals("FMImage.createFromXML should set the image size largesquare height", 126, largeSquareSize.height);

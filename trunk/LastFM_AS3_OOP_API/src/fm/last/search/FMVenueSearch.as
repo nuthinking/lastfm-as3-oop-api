@@ -41,6 +41,9 @@ package fm.last.search
 			methodName = "venue.search";
 		}
 		
+		/**
+		 * The venues loaded as result of the search
+		 */
 		public function get venues () : Array
 		{
 			if(searchResults == null)
@@ -48,6 +51,11 @@ package fm.last.search
 			return searchResults.items;
 		}
 		
+		/**
+		 * Creates the url variables object with the eventual "country" field
+		 * 
+		 * @return the initial url variables object
+		 */
 		override protected function createVariables () : Object
 		{
 			var variables : Object = {};
@@ -56,6 +64,9 @@ package fm.last.search
 			return variables;
 		}
 		
+		/**
+		 * @inheritDoc
+		 */
 		override protected function generateItems ( responseXML : XML) : Array
 		{
 			var children : XMLList = responseXML.results.venuematches.venue;

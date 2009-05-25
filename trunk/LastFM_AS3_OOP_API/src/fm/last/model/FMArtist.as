@@ -32,46 +32,154 @@ package fm.last.model
      */
 	public class FMArtist extends FMModelBase
 	{
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_EVENTS:String = "artist.getEvents";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_IMAGES:String = "artist.getImages";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_INFO:String = "artist.getInfo";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_SHOUTS:String = "artist.getShouts";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_SIMILAR:String = "artist.getSimilar";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_TOP_ALBUMS:String = "artist.getTopAlbums";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_TOP_FANS:String = "artist.getTopFans";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_TOP_TAGS:String = "artist.getTopTags";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_TOP_TRACKS:String = "artist.getTopTracks";
 		
+		/**
+		 * The name of the artist
+		 */
 		public var name : String;
+		
+		/**
+		 * The Musicbrainz id
+		 */
 		public var mbid : String;
+		
+		/**
+		 * The url in LastFM
+		 */
 		public var url : String;
+		
+		/**
+		 * If it is streamable
+		 */
 		public var streamable : Boolean;
 		//stats
+		/**
+		 * The amount of listeners
+		 */
 		public var listeners : Number;
+		
+		/**
+		 * The amount of times the artist has been played
+		 */
 		public var playCount : Number;
+		
+		/**
+		 * The list of similar artists
+		 */
 		public var similar : /*FMArtist*/ Array;
-		public var bio : FMInfo;
+		
+		/**
+		 * Editorial information
+		 */
+		public var info : FMInfo;
 		// extra
+		
+		/**
+		 * The rank position
+		 */
 		public var rank : Number;
 		
+		/**
+		 * The events the artist performed or will perform
+		 */
 		public var events : Array;
 		private var imagesOrder : FMSortType;
 		private var imagesResults : PageResults;
+		
+		/**
+		 * The shouts related to artist
+		 */
 		public var shouts : Array;
+		
+		/**
+		 * The match factor
+		 */
 		public var match : Number;
+		
+		/**
+		 * The amount of tags related to the artist
+		 */
 		public var tagCount : Number;
+		
+		/**
+		 * The most popular albums
+		 */
 		public var topAlbums : Array;
+		
+		/**
+		 * The biggest fans
+		 */
 		public var topFans : Array;
+		
+		/**
+		 * The most popular tags related to the artist
+		 */
 		public var topTags : Array;
+		
+		/**
+		 * The most popular tracks
+		 */
 		public var topTracks : Array;
-
+		
+		/**
+		 * The loaded images related to the artist
+		 */
 		public function get images () : Array
 		{
 			if(imagesResults == null)
 				return null;
 			return imagesResults.items;
 		}
-
+		
+		/**
+		 * Constructor
+		 * 
+		 * @param the artist name
+		 */
 		public function FMArtist(name : String = null) 
 		{
 			this.name = name;
@@ -116,7 +224,7 @@ package fm.last.model
 				}
 			}
 			if(xml.bio[0] != null)
-				bio = mf.createInfo(xml.bio[0]);
+				info = mf.createInfo(xml.bio[0]);
 			if(xml.match[0] != null)
 				match = parseFloat(xml.match.text());
 			if(xml.tagcount[0] != null
@@ -138,9 +246,11 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get a list of upcoming events for this artist.
+		 * Load the list of upcoming events for this artist.
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=117
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_EVENTS
 		 */
 		
 		public function getEvents() : void
@@ -161,9 +271,14 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get Images for this artist in a variety of sizes.
+		 * Load Images for this artist in a variety of sizes.
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=407
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_IMAGES
+		 * 
+		 * @param maximum amount of images to load
+		 * @param sort type
 		 */
 		
 		public function getImages(limit : int = 50, order : FMSortType = null) : void
@@ -205,9 +320,13 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the metadata for this artist. Includes biography.
+		 * Load the metadata for this artist. Includes biography.
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=267
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_INFO
+		 * 
+		 * @param the language the editorial information should be loaded in
 		 */
 		
 		public function getInfo(lang:String = "en"):void
@@ -230,9 +349,11 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get shouts for this artist.
+		 * Load shouts for this artist.
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=397
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_SHOUTS
 		 */
 		
 		public function getShouts() : void
@@ -253,11 +374,13 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get all the artists similar to this artist 
+		 * Load all the artists similar to this artist 
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=119
 		 * 
-		 * @param If 0, there is no limit
+		 * On succesfully complete, it will dispatch the event type GET_SIMILAR
+		 * 
+		 * @param max amount of similar artists to load, if 0 the max amount of artists will be loaded
 		 */
 		
 		public function getSimilar(limit:int = 0):void
@@ -282,9 +405,11 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the top albums for this artist, ordered by popularity.
+		 * Load the top albums for this artist, ordered by popularity.
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=287
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_TOP_ALBUMS
 		 */
 		public function getTopAlbums():void
 		{
@@ -304,9 +429,11 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the top fans for this artist, based on listening data. 
+		 * Load the top fans for this artist, based on listening data. 
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=310
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_TOP_FANS
 		 */
 		public function getTopFans():void
 		{
@@ -326,9 +453,11 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the top tags for this artist, ordered by popularity.
+		 * Load the top tags for this artist, ordered by popularity.
 		 * 
 		 * Ref: http://www.last.fm/api/show/?service=288
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_TOP_TAGS
 		 */
 		 
 		public function getTopTags():void
@@ -352,6 +481,8 @@ package fm.last.model
 		 *  Get the top tracks by this artist, ordered by popularity 
 		 * 
 		 * Ref: http://www.last.fm/api/show/?service=277
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_TOP_TRACKS
 		 */
 		public function getTopTracks():void
 		{

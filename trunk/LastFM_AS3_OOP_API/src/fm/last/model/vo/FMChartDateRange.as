@@ -23,7 +23,9 @@ package fm.last.model.vo
 {
 	/**
 	 * ValueObject returned by the getWeeklyChartList methods, it defines mainly the date range for a chart
-	 * 	 * @author christian	 */	public class FMChart 
+	 * 
+	 * Note: This might come back as FMChart an incapsulate the chart loading
+	 * 	 * @author christian	 */	public class FMChartDateRange 
 	{
 		/**
 		 * The starting date of the chart
@@ -61,7 +63,7 @@ package fm.last.model.vo
 		 * @param the starting date of the chart
 		 * @param the ending date of the chart
 		 */
-		public function FMChart(dateFrom : Date = null, dateTo : Date = null)
+		public function FMChartDateRange(dateFrom : Date = null, dateTo : Date = null)
 		{
 			this.dateFrom = dateFrom;
 			this.dateTo = dateTo;	
@@ -74,11 +76,11 @@ package fm.last.model.vo
 		 * @param ending date as unix date
 		 * @return the new instance
 		 */
-		public static function createFromInt (dateFrom : uint, dateTo : uint) : FMChart
+		public static function createFromInt (dateFrom : uint, dateTo : uint) : FMChartDateRange
 		{
 			var df : Date = new Date(dateFrom * 1000);
 			var dt : Date = new Date(dateTo * 1000);
-			return new FMChart(df, dt);
+			return new FMChartDateRange(df, dt);
 		}
 		
 		/**
@@ -87,7 +89,7 @@ package fm.last.model.vo
 		 * @param the xml node representing the model
 		 * @return the new populated instance
 		 */
-		public static function createFromXML ( xml : XML ) : FMChart
+		public static function createFromXML ( xml : XML ) : FMChartDateRange
 		{
 			var from : int = parseInt(xml.@from);
 			var to : int = parseInt(xml.@to);

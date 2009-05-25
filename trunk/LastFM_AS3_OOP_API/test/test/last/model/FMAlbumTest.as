@@ -83,9 +83,9 @@ package test.last.model
 			var lastTag : FMTag = a.topTags.pop();
 			assertEquals("FMAlbum.getInfo should set the last album top tag name", "albums i own", lastTag.name);
 			assertEquals("FMAlbum.getInfo should set the last album top tag url", "http://www.last.fm/tag/albums%20i%20own", lastTag.url);
-			assertEquals("FMAlbum.getInfo should set album wiki publish date", "Sun, 27 Jul 2008 15:55:58 +0000", a.bio.publishedDateRaw);
-			assertContained("FMAlbum.getInfo should set album wiki summary", "Records at the end of 1998.", a.bio.summary);
-			assertNotContained("FMAlbum.getInfo should set album wiki summary", "The album featured a change in Cher's music", a.bio.summary);
-			assertContained("FMAlbum.getInfo should set album wiki content", "The album featured a change in Cher's music", a.bio.content);
+			assertEquals("FMAlbum.getInfo should set album info publish date", "Sun, 27 Jul 2008 15:55:58 +0000", a.info.publishedDateRaw);
+			assertContained("FMAlbum.getInfo should set album info summary", "Records at the end of 1998.", a.info.summary);
+			assertNotContained("FMAlbum.getInfo should set album info summary", "The album featured a change in Cher's music", a.info.summary);
+			assertContained("FMAlbum.getInfo should set album info content", "The album featured a change in Cher's music", a.info.content);
 		}
 	}}

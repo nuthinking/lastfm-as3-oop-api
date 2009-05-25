@@ -47,8 +47,8 @@ package test.last.model
 		private function onFetched(event : Event) : void
 		{
 			var o : FMPlayList = FMPlayList(event.currentTarget);
-			assertEquals("FMPlayList.fetch should set the playlist title", "Cher - Believe", o.title);
-			assertEquals("FMPlayList.fetch should set the playlist annotation", "Previews for Cher - Believe", o.annotation);
+			assertEquals("FMPlayList.fetch should set the playlist name", "Cher - Believe", o.name);
+			assertEquals("FMPlayList.fetch should set the playlist description", "Previews for Cher - Believe", o.description);
 			assertEquals("FMPlayList.fetch should set the playlist creator", "http://www.last.fm/music/Cher/Believe", o.creator);
 			assertEquals("FMPlayList.fetch should set the playlist dateraw", "2009-05-08T09:13:20", o.dateRaw);
 			assertEquals("FMPlayList.fetch should set the playlist trackList tracks", 10, o.trackList.length);

@@ -38,13 +38,19 @@ package fm.last.search
 			methodName = "tag.search";
 		}
 		
+		/**
+		 * The tags loaded as result of the search
+		 */
 		public function get tags () : Array
 		{
 			if(searchResults == null)
 				return null;
 			return searchResults.items;
 		}
-
+		
+		/**
+		 * @inheritDoc
+		 */
 		override protected function generateItems ( responseXML : XML) : Array
 		{
 			var children : XMLList = responseXML.results.tagmatches.tag;

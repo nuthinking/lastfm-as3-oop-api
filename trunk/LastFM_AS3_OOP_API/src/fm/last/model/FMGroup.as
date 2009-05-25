@@ -22,7 +22,7 @@
 package fm.last.model
 {
 
-	import fm.last.model.vo.FMChart;
+	import fm.last.model.vo.FMChartDateRange;
 	import flash.events.Event;
 	import fm.last.utils.PageResults;
 	/**
@@ -30,35 +30,85 @@ package fm.last.model
      */
 	public class FMGroup extends FMModelBase
 	{
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_MEMBERS:String = "group.getMembers";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_WEEKLY_ALBUM_CHART:String = "group.getWeeklyAlbumChart";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_WEEKLY_ARTIST_CHART:String = "group.getWeeklyArtistChart";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_WEEKLY_CHART_LIST:String = "group.getWeeklyChartList";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_WEEKLY_TRACK_CHART:String = "group.getWeeklyTrackChart";
 		
+		/**
+		 * The group name
+		 */
 		public var name : String;
 		
 		private var membersResults : PageResults;
+		
+		/**
+		 * The list of albums in the chart loaded from a given date range
+		 */
 		public var weeklyAlbumChart : Array;
-		public var weeklyChartList : Array;
+		
+		/**
+		 * The list of date range available to load charts
+		 */
+		public var weeklyChartDateRanges : Array;
+		
+		/**
+		 * The list of artists in the chart loaded from a given date range
+		 */
 		public var weeklyArtistChart : Array;
+		
+		/**
+		 * The list of tracks in the chart loaded from a given date range
+		 */
 		public var weeklyTrackChart : Array;
-
+	
+		/**
+		 * The loaded members of this group
+		 */
 		public function get members () : Array
 		{
 			if(membersResults == null)
 				return null;
 			return membersResults.items;
 		}
-
+		
+		/**
+		 * Constructor
+		 * 
+		 * @param the group name
+		 */
 		public function FMGroup(name : String = null) {
 			this.name = name;
 		}
 		
 		/**
-		 * Get a list of members for this group. 
+		 * Load a list of members for this group. 
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=379
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_MEMBERS
+		 * 
+		 * @param the max amount of members to load
 		 */
 		
 		public function getMembers (limit : int = 50) : void
@@ -97,9 +147,11 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get a list of available charts for this group, expressed as FMChart can be sent to the chart services. 
+		 * Load a list of available charts for this group, expressed as FMChart can be sent to the chart services. 
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=295
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_WEEKLY_CHART_LIST
 		 */	
 		public function getWeeklyChartList():void
 		{
@@ -110,28 +162,32 @@ package fm.last.model
 		
 		private function onWeeklyChartListLoaded ( response : XML ) : void
 		{
-			weeklyChartList = [];
+			weeklyChartDateRanges = [];
 			var children : XMLList = response.weeklychartlist.chart;
 			for each (var child : XML in children) {
-				weeklyChartList.push(mf.createChart(child));
+				weeklyChartDateRanges.push(mf.createChartDateRange(child));
 			}
 			dispatchEvent(new Event(GET_WEEKLY_CHART_LIST));
 		}
 		
 		/**
-		 * Get an album chart for this group, for a given date range.
+		 * Load an album chart for this group, for a given date range.
 		 * If no date range is supplied, it will return the most recent album chart for this group. 
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=293
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_WEEKLY_ALBUM_CHART
+		 * 
+		 * @param the date range for the chart
 		 */
-		public function getWeeklyAlbumChart(chart : FMChart = null) : void
+		public function getWeeklyAlbumChart(dateRange : FMChartDateRange = null) : void
 		{
 			assert(name != null, "To get the group weekly album chart, you must supply the group name" );
 			
 			var variables : Object = {group: name};
-			if(chart != null){
-				variables.from = chart.dateFromAsInt;
-				variables.to = chart.dateToAsInt;
+			if(dateRange != null){
+				variables.from = dateRange.dateFromAsInt;
+				variables.to = dateRange.dateToAsInt;
 			}
 			requestURL(GET_WEEKLY_ALBUM_CHART, variables, onWeeklyAlbumChartLoaded);
 		}
@@ -147,20 +203,27 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get an artist chart for this group, for a given date range.
+		 * Load an artist chart for this group, for a given date range.
 		 * If no date range is supplied, it will return the most recent album chart for this group. 
+		 * 
+		 * Ref: 
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_WEEKLY_ARTIST_CHART
+		 * 
+		 * @param the date range for the chart
 		 */
-		public function getWeeklyArtistChart( chart : FMChart = null ) : void
+		public function getWeeklyArtistChart( dateRange : FMChartDateRange = null ) : void
 		{
 			assert(name != null, "To get the group weekly artist chart, you must supply the group name" );
 			
 			var variables : Object = {group: name};
-			if(chart != null) {
-				variables.from = chart.dateFromAsInt;
-				variables.to = chart.dateToAsInt;
+			if(dateRange != null) {
+				variables.from = dateRange.dateFromAsInt;
+				variables.to = dateRange.dateToAsInt;
 			}
 			requestURL(GET_WEEKLY_ARTIST_CHART, variables, onWeeklyArtistChartLoaded);
 		}
+		
 		private function onWeeklyArtistChartLoaded ( response : XML ) : void
 		{
 			weeklyArtistChart = [];
@@ -172,17 +235,23 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get a track chart for this group, for a given date range.
+		 * Load a track chart for this group, for a given date range.
 		 * If no date range is supplied, it will return the most recent album chart for this group. 
+		 * 
+		 * Ref:
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_WEEKLY_TRACK_CHART
+		 * 
+		 * @param the date range for the chart
 		 */
-		public function getWeeklyTrackChart( chart : FMChart = null ):void
+		public function getWeeklyTrackChart( dateRange : FMChartDateRange = null ):void
 		{
 			assert(name != null, "To get the group weekly track chart, you must supply the group name" );
 			
 			var variables : Object = {group: name};
-			if(chart != null) {
-				variables.from = chart.dateFromAsInt;
-				variables.to = chart.dateToAsInt;
+			if(dateRange != null) {
+				variables.from = dateRange.dateFromAsInt;
+				variables.to = dateRange.dateToAsInt;
 			}
 			requestURL(GET_WEEKLY_TRACK_CHART, variables, onWeeklyTrackChartLoaded);
 		}

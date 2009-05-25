@@ -30,6 +30,9 @@ package fm.last.model
      */
 	public class FMAlbum extends FMModelBase
 	{
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_INFO:String = "album.getInfo";
 		
 		/**
@@ -48,7 +51,7 @@ package fm.last.model
 		public var id : int;
 		
 		/**
-		 * The muzicbrainz id of the album
+		 * The musicbrainz id of the album
 		 */
 		public var mbid : String;
 		
@@ -68,7 +71,7 @@ package fm.last.model
 		public var listeners : Number;
 		
 		/**
-		 * The amount of times the album as been played
+		 * The amount of times the album has been played
 		 */
 		public var playCount : Number;
 		
@@ -90,7 +93,7 @@ package fm.last.model
 		/**
 		 * Editorial information about the album
 		 */
-		public var bio : FMInfo;
+		public var info : FMInfo;
 		
 		/**
 		 * Populate the model from the different XML formats returned by the web service
@@ -125,7 +128,7 @@ package fm.last.model
 			if(xml.toptags[0] != null)
 				addTagsFromNodes(xml.toptags.tag);
 			if(xml.wiki[0] != null)
-				bio = mf.createInfo(xml.wiki[0]);
+				info = mf.createInfo(xml.wiki[0]);
 			if(xml.tagcount[0] != null
 				&& String(xml.tagcount.text()).length > 0)
 					tagCount = parseInt(xml.tagcount.text());
@@ -165,12 +168,15 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the metadata of the album.
+		 * Load the metadata of the album.
 		 * See playlist.fetch on how to get the album playlist.
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=290
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_INFO
+		 * 
+		 * @param the language the editorial information should be loaded in
 		 */
-
 		public function getInfo(lang:String = "en"):void
 		{
 			assert((name != null && artist != null && artist.name != null) || mbid != null, "To get an album info, you must supply either an artist and album name or a musicbrainz id");

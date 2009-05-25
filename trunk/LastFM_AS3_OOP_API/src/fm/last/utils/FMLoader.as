@@ -30,7 +30,9 @@ package fm.last.utils
 	import flash.net.URLLoader;
 	import flash.net.URLRequest;
 	import flash.net.URLVariables;
-	/**	 * @author christian	 */	public class FMLoader extends URLLoader implements IFMLoader
+	/**
+	 * Loader for web service calls, it handles errors and result status validation
+	 * 	 * @author christian	 */	public class FMLoader extends URLLoader implements IFMLoader
 	{		public function FMLoader()
 		{
 			super(null);		}
@@ -79,7 +81,10 @@ package fm.last.utils
         private function ioErrorHandler(event:IOErrorEvent):void 
         {
             trace("ioErrorHandler: " + event);
-		}				public function requestUrl(apiMethod : String, variables : Object, requestMethod : String = "GET") : void		{
+		}		
+		/**
+		 * @inheritDoc
+		 */		public function requestUrl(apiMethod : String, variables : Object, requestMethod : String = "GET") : void		{
 			var v : URLVariables = new URLVariables();
 			v.method = apiMethod;
 			v.api_key = LastFMPreferences.API_KEY;

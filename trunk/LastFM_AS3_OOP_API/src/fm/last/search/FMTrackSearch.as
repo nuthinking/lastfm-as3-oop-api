@@ -41,13 +41,21 @@ package fm.last.search
 			this.artistName = artistName;
 		}
 		
+		/**
+		 * The tracks loaded as result of the search
+		 */
 		public function get tracks () : Array
 		{
 			if(searchResults == null)
 				return null;
 			return searchResults.items;
 		}
-
+		
+		/**
+		 * Creates the url variables object with the eventual "artist" field
+		 * 
+		 * @return the initial url variables object
+		 */
 		override protected function createVariables () : Object
 		{
 			var variables : Object = {};
@@ -56,6 +64,9 @@ package fm.last.search
 			return variables;
 		}
 		
+		/**
+		 * @inheritDoc
+		 */
 		override protected function generateItems ( responseXML : XML) : Array
 		{
 			var children : XMLList = responseXML.results.trackmatches.track;

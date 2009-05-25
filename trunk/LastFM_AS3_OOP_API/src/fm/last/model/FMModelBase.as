@@ -39,26 +39,49 @@ package fm.last.model
 	{
 		private var images : Dictionary;
 		
+		/**
+		 * The list of the default property to return during the toString
+		 */
 		protected var propertiesToTrace : Array = ["id", "name", "title"];
 		
+		/**
+		 * The class which should be used for the api calls loading, it could for instance change for local unit testing
+		 */
 		public static var LOADER_CLASS : Class = FMLoader;
 		
+		/**
+		 * @inheritDoc
+		 */
 		override public function toString () : String
 		{
 			return TraceUtils.generateObjectDescription(this, propertiesToTrace);
 		}
 		
+		/**
+		 * short cut to the model factory
+		 */
 		protected function get mf () : IFMModelFactory
 		{
 			return LastFMPreferences.modelFactory;
 		}
-
+		
+		/**
+		 * throws an error if the condition is false
+		 * 
+		 * @param the condition
+		 * @param the message to throw in case of error
+		 */
 		protected function assert (cond : Boolean, message : String) : void
 		{
 			if(!cond)
 				throw new Error(message);
 		}
 		
+		/**
+		 * Add the images url to the model
+		 * 
+		 * @param the node containing the images
+		 */
 		protected function addImages(imageNodes : XMLList) : void
 		{
 			for each(var child : XML in imageNodes){
@@ -69,6 +92,12 @@ package fm.last.model
 			}
 		}
 		
+		/**
+		 * Add an image url using as key the size type
+		 * 
+		 * @param the size type of the image url
+		 * @param the image url
+		 */
 		public function addImage(sizeType : FMImageSizeType, url : String) : void
 		{
 			if(images == null)
@@ -76,6 +105,12 @@ package fm.last.model
 			images[sizeType] = url;
 		}
 		
+		/**
+		 * Returns the url of an image base on the size type
+		 * 
+		 * @param the size type
+		 * @return the image url
+		 */
 		public function getImageUrlBySize(sizeType : FMImageSizeType) : String
 		{
 			if(images == null || images[sizeType] == null){

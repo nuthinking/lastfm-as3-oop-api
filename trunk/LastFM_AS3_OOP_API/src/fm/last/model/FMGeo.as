@@ -30,18 +30,47 @@ package fm.last.model
      */
 	public class FMGeo extends FMModelBase
 	{
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_EVENTS:String = "geo.getEvents";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_TOP_ARTISTS:String = "geo.getTopArtists";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_TOP_TRACKS:String = "geo.getTopTracks";
 		
+		/**
+		 * The geo location as String
+		 */
 		public var location : String;
+		
+		/**
+		 * The latitude value
+		 */
 		public var latitude : Number;
+		
+		/**
+		 * The longitude value
+		 */
 		public var longitude : Number;
 		
 		private var eventsMaxDistance : Number;
 		private var eventsResults : PageResults;
 		
+		/**
+		 * The most popular artists assigned to this location
+		 */
 		public var topArtists : /*FMArtist*/ Array;
+		
+		/**
+		 * The most popular tracks assigned to this location
+		 */
 		public var topTracks : /*FMTrack*/ Array;
 		
 		/**
@@ -61,7 +90,10 @@ package fm.last.model
 			g.populateFromXML(xml);
 			return g;
 		}
-
+		
+		/**
+		 * Constructor
+		 */
 		public function FMGeo()
 		{
 			propertiesToTrace = ["country","location","latitude","longitude"];
@@ -78,7 +110,10 @@ package fm.last.model
 			latitude = xml.geo::lat.text();
 			longitude = xml.geo::long.text();
 		}
-		public function get events () : Array
+		
+		/**
+		 * The loaded events nearby this location
+		 */		public function get events () : Array
 		{
 			if(eventsResults == null)
 				return null;
@@ -86,11 +121,15 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get all events nearby this location.
+		 * Load events nearby this location.
 		 * 
-		 * Ref:  http://www.last.fm/api/show?service=270
+		 * Ref: http://www.last.fm/api/show?service=270
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_EVENTS
+		 * 
+		 * @param the max amount of events to load
+		 * @param the max distance for an event to be loaded
 		 */
-
 		public function getEvents(limit : int = 10, distance:Number = 20):void
 		{
 			assert(location != null || (!isNaN(latitude) && !isNaN(longitude)),
@@ -140,9 +179,11 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the most popular artists by country 
+		 * Load the most popular artists by country 
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=297
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_TOP_ARTISTS
 		 */
 		
  		public function getTopArtists():void
@@ -166,9 +207,11 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the most popular tracks by country 
+		 * Load the most popular tracks by country 
 		 * 
 		 * Ref: http://www.last.fm/api/show/?service=298
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_TOP_TRACKS
 		 */
 		
  		public function getTopTracks():void

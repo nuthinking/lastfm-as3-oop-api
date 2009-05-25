@@ -64,7 +64,7 @@ package fm.last.model.vo
 		 */
 		public var thumbsDown : Number;
 		
-		private var sizes : Dictionary;
+		private var files : Dictionary;
 		
 		/**
 		 * Creates an instance of the model starting from the XML node returned by the web service
@@ -93,25 +93,26 @@ package fm.last.model.vo
 			if(xml.owner[0] != null)
 				owner = LastFMPreferences.modelFactory.createOwner(xml.owner[0]);
 			// sizes
-			sizes = new Dictionary();
+			files = new Dictionary();
 			var children : XMLList = xml.sizes.size;
 			for each(var child : XML in children){
 				var s : FMImageSizeType = FMImageSizeType.getEnumByValue(child.@name);
-				sizes[s] = LastFMPreferences.modelFactory.createImageSize(child);
+				files[s] = LastFMPreferences.modelFactory.createImageFile(child);
 			}
 			thumbsUp = parseInt(xml.votes.thumbsup.text());
 			thumbsDown = parseInt(xml.votes.thumbsdown.text());
 		}
 		
 		/**
-		 * Returns an image registered to the relative enumerator
+		 * Returns an image file assigned to a particular type of size
 		 * 
-		 * @return an image registered to the relative enumerator
+		 * @param the type of size
+		 * @return the image file
 		 */
-		public function getImageBySize(size : FMImageSizeType) : FMImageSize
+		public function getImageFileBySize(size : FMImageSizeType) : FMImageFile
 		{
-			if(sizes == null)
+			if(files == null)
 				return null;
-			var r : FMImageSize = sizes[size];
+			var r : FMImageFile = files[size];
 			return r;		}
 	}}
