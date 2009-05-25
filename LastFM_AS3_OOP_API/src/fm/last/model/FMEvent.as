@@ -28,27 +28,106 @@ package fm.last.model
      */
 	public class FMEvent extends FMModelBase
 	{
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_ATTENDEES:String = "event.getAttendees";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_INFO:String = "event.getInfo";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_SHOUTS : String = "event.getshouts";
 		
+		/**
+		 * The event id in LastFM
+		 */
 		public var id : Number;
+		
+		/**
+		 * The name
+		 */
 		public var name : String;
+		
+		/**
+		 * The list of artist which performed or will performe on the event
+		 */
 		public var artists : /*FMArtist*/ Array;
+		
+		/**
+		 * The main artist for the event, it should appear in the artists list too
+		 */
 		public var headliner : FMArtist;
+		
+		/**
+		 * The venue the event has happened or will happen
+		 */
 		public var venue : FMVenue;
+		
+		/**
+		 * The start date as returned by the web service
+		 */
 		public var startDateRaw : String;
+		
+		/**
+		 * The start time as returned by the web service
+		 */
 		public var startTimeRaw : String;
+		
+		/**
+		 * The start date as object (not implemented yet)
+		 */
 		public var startDate : Date;
+		
+		/**
+		 * The end date as returned by the web service
+		 */
 		public var endDateRaw : String;
+		
+		/**
+		 * The description of the event
+		 */
 		public var description : String;
+		
+		/**
+		 * The amount of users in LastFM which has attended or will attend the event
+		 */
 		public var attendance : uint;
+		
+		/**
+		 * The amount of reviews on LastFM
+		 */
 		public var reviews : uint;
+		
+		/**
+		 * The tag related to the event
+		 */
 		public var tag : String;
+		
+		/**
+		 * The url of the event on LastFM
+		 */
 		public var url : String;
+		
+		/**
+		 * The list of attendees to the event
+		 */
 		public var attendees : Array;
+		
+		/**
+		 * The list of shouts related to the event
+		 */
 		public var shouts : Array;
-
+		
+		/**
+		 * Constructor
+		 * 
+		 * @param the id on LastFM
+		 */
 		public function FMEvent(id : Number = NaN)
 		{
 			this.id = id;	
@@ -106,9 +185,11 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get a list of attendees for this event. 
+		 * Load the list of attendees for this event. 
 		 * 
 		 * Ref: http://www.last.fm/api/show/?service=391
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_ATTENDEES
 		 */
 		
 		public function getAttendees () : void
@@ -129,10 +210,12 @@ package fm.last.model
 		}
 
 		/**
-		 * Get the metadata for this event.
+		 * Load the metadata for this event.
 		 * Includes attendance and lineup information. 
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=292
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_INFO
 		 */
 		public function getInfo():void
 		{
@@ -149,9 +232,11 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get shouts for this event.
+		 * Load shouts for this event.
 		 * 
 		 * Ref: http://www.last.fm/api/show/?service=399
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_SHOUTS
 		 */
 		
 		public function getShouts () : void

@@ -22,8 +22,13 @@
 package fm.last.utils 
 {	import flash.utils.getQualifiedClassName;
 
-	/**	 * @author christian	 */	public class TraceUtils 
+	/**
+	 * Contains utilities for simple logging
+	 * 	 * @author christian	 */	public class TraceUtils 
 	{
+		/**
+		 * Generates a human readable string version of a typed model structure
+		 */
 		public static function generateObjectDescription(obj : Object, properties : Array) : String
 		{
 			var className : String = getQualifiedClassName(obj).split("::")[1];

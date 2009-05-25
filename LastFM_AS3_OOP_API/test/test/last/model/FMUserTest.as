@@ -20,7 +20,7 @@
  *
  */
 package test.last.model 
-{	import fm.last.model.vo.FMChart;
+{	import fm.last.model.vo.FMChartDateRange;
 	import fm.last.model.FMTag;
 	import fm.last.model.FMArtist;
 	import fm.last.enum.FMImageSizeType;
@@ -222,7 +222,7 @@ package test.last.model
 			assertEquals("FMUser.getPlaylists should return the correct amount of playlists", 4, o.playlists.length);
 			var firstPlaylist : FMPlayList = o.playlists[0];
 			assertEquals("FMUser.getPlaylists should return the first playlist id", 5606, firstPlaylist.id);
-			assertEquals("FMUser.getPlaylists should return the first playlist title", "Misc gubbins", firstPlaylist.title);
+			assertEquals("FMUser.getPlaylists should return the first playlist name", "Misc gubbins", firstPlaylist.name);
 			assertEquals("FMUser.getPlaylists should return the first playlist description", "This is a misc test playlist with a few random tracks in it.", firstPlaylist.description);
 			assertEquals("FMUser.getPlaylists should return the first playlist date row", "2006-11-15T13:05:48", firstPlaylist.dateRaw);
 			assertEquals("FMUser.getPlaylists should return the first playlist size", 10, firstPlaylist.size);
@@ -233,7 +233,7 @@ package test.last.model
 			assertEquals("FMUser.getPlaylists should return the first playlist image small", "http://userserve-ak.last.fm/serve/34/4218758.jpg", firstPlaylist.getImageUrlBySize(FMImageSizeType.SMALL));
 			var lastPlaylist : FMPlayList = o.playlists.pop();
 			assertEquals("FMUser.getPlaylists should return the last playlist id", 2612216, lastPlaylist.id);
-			assertEquals("FMUser.getPlaylists should return the last playlist title", "Sexyplaylist", lastPlaylist.title);
+			assertEquals("FMUser.getPlaylists should return the last playlist name", "Sexyplaylist", lastPlaylist.name);
 			assertEquals("FMUser.getPlaylists should return the last playlist description", "My only regret is that the search feature doesn't give me more than 10 results", lastPlaylist.description);
 			assertEquals("FMUser.getPlaylists should return the last playlist date row", "2008-05-21T19:43:46", lastPlaylist.dateRaw);
 			assertEquals("FMUser.getPlaylists should return the last playlist size", 9, lastPlaylist.size);
@@ -442,11 +442,11 @@ package test.last.model
 		private function onWeeklyChartListLoaded ( event : Event ) : void
 		{
 			var o : FMUser = FMUser(event.currentTarget);
-			assertTrue("FMUser.getWeeklyChartList should return some charts", o.weeklyChartList != null && o.weeklyChartList.length > 0);
-			var firstChart : FMChart = o.weeklyChartList[0];
+			assertTrue("FMUser.getWeeklyChartList should return some charts", o.weeklyChartDateRanges != null && o.weeklyChartDateRanges.length > 0);
+			var firstChart : FMChartDateRange = o.weeklyChartDateRanges[0];
 			assertEquals("FMUser.getWeeklyChartList should return the first chart from", 1108296002, firstChart.dateFromAsInt);
 			assertEquals("FMUser.getWeeklyChartList should return the first chart to", 1108900802, firstChart.dateToAsInt);
-			var lastChart : FMChart = o.weeklyChartList.pop();
+			var lastChart : FMChartDateRange = o.weeklyChartDateRanges.pop();
 			assertEquals("FMUser.getWeeklyChartList should return the last chart from", 1241956800, lastChart.dateFromAsInt);
 			assertEquals("FMUser.getWeeklyChartList should return the last chart to", 1242561600, lastChart.dateToAsInt);
 		}

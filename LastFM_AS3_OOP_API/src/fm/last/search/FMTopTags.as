@@ -32,13 +32,26 @@ package fm.last.search
 	 */
 	public class FMTopTags extends FMModelBase 
 	{
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_TOP_TAGS : String = "tag.getTopTags";
+		
+		/**
+		 * The tags loaded from the web service
+		 */
 		public var tags : Array;
-
+		
+		/**
+		 * Constructor
+		 */
 		public function FMTopTags()
 		{
 		}
 		
+		/**
+		 * Load the top tags and on success it will dispatch the event type GET_TOP_TAGS
+		 */
 		public function getTopTags () : void
 		{
 			requestURL(GET_TOP_TAGS, {}, onTagsLoaded);

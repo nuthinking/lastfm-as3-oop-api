@@ -82,10 +82,10 @@ package test.last.model
 			assertEquals("FMTrack.getInfo should set track the first topTags", "pop", firstTag.name);
 			var lastTag : FMTag = o.topTags.pop();
 			assertEquals("FMTrack.getInfo should set track the last topTags", "female vocalists", lastTag.name);
-			assertEquals("FMTrack.getInfo should set track wiki publish date", "Sun, 27 Jul 2008 15:44:58 +0000", o.bio.publishedDateRaw);
-			assertContained("FMTrack.getInfo should set track wiki publish summary", "The song is featured on the Karaoke Revolution video game", o.bio.summary);
-			assertNotContained("FMTrack.getInfo should set track wiki publish summary", "In March 2007, the United World Chart ranked", o.bio.summary);
-			assertContained("FMTrack.getInfo should set track wiki publish content", "In March 2007, the United World Chart ranked", o.bio.content);
+			assertEquals("FMTrack.getInfo should set track info publish date", "Sun, 27 Jul 2008 15:44:58 +0000", o.info.publishedDateRaw);
+			assertContained("FMTrack.getInfo should set track info publish summary", "The song is featured on the Karaoke Revolution video game", o.info.summary);
+			assertNotContained("FMTrack.getInfo should set track info publish summary", "In March 2007, the United World Chart ranked", o.info.summary);
+			assertContained("FMTrack.getInfo should set track info publish content", "In March 2007, the United World Chart ranked", o.info.content);
 		}
 		
 		public function testGetSimilar () : void

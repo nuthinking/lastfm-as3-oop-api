@@ -22,7 +22,7 @@
 package fm.last.model
 {
 	import fm.last.enum.FMPeriodType;
-	import fm.last.model.vo.FMChart;
+	import fm.last.model.vo.FMChartDateRange;
 	import fm.last.utils.PageResults;
 
 	import flash.events.Event;
@@ -32,47 +32,188 @@ package fm.last.model
      */
 	public class FMUser extends FMModelBase
 	{
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_EVENTS:String = "user.getEvents";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_FRIENDS:String = "user.getFriends";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_LOVED_TRACKS:String = "user.getLovedTracks";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_NEIGHBOURS:String = "user.getNeighbours";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_PAST_EVENTS:String = "user.getPastEvents";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_PLAYLISTS:String = "user.getPlaylists";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_RECENT_TRACKS:String = "user.getRecentTracks";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_SHOUTS:String = "user.getShouts";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_TOP_ALBUMS:String = "user.getTopAlbums";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_TOP_ARTISTS:String = "user.getTopArtists";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_TOP_TAGS:String = "user.getTopTags";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_TOP_TRACKS:String = "user.getTopTracks";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_WEEKLY_ALBUM_CHART:String = "user.getWeeklyAlbumChart";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_WEEKLY_ARTIST_CHART:String = "user.getWeeklyArtistChart";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_WEEKLY_CHART_LIST:String = "user.getWeeklyChartList";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_WEEKLY_TRACK_CHART:String = "user.getWeeklyTrackChart";
 		
+		/**
+		 * The user name
+		 */
 		public var name : String;
+		
+		/**
+		 * The long version of the name
+		 */
 		public var realname : String;
+		
+		/**
+		 * The url on LastFM
+		 */
 		public var url : String;
+		
+		/**
+		 * The relevance in weight of the user (ie. as fan)
+		 */
 		public var weight : int;
+		
+		/**
+		 * The relevance in floating point of the user (ie. as neighbour)
+		 */
 		public var match : Number;
+		
+		/**
+		 * The list of upcoming events the user will attend
+		 */
 		public var events : Array;
 		
+		/**
+		 * The most recent track the user listened
+		 */
 		public var recentTrack : FMTrack;
 		
 		private var friendsResults : PageResults;
 		private var hasToGetFriendsRecentTracks : Boolean;
+		
+		/**
+		 * The list of tracks loved by the user
+		 */
 		public var lovedTracks : Array;
+		
+		/**
+		 * The list of geographical neighbours
+		 */
 		public var neighbours : Array;
 		private var pastEventsResults : PageResults;
+		
+		/**
+		 * The list of playlist
+		 */
 		public var playlists : Array;
+		
+		/**
+		 * The list of the most recent tracks listened by the user
+		 */
 		public var recentTracks : Array;
+		
+		/**
+		 * The list of shouts
+		 */
 		public var shouts : Array;
+		
+		/**
+		 * The most favorite albums
+		 */
 		public var topAlbums : Array;
+		
+		/**
+		 * The most favorite artists
+		 */
 		public var topArtists : Array;
+		
+		/**
+		 * The most favorite tags
+		 */
 		public var topTags : Array;
+		
+		/**
+		 * The most favorite tracks
+		 */
 		public var topTracks : Array;
-		public var weeklyChartList : Array;
+		
+		/**
+		 * The list of data range which can be used to load the charts
+		 */
+		public var weeklyChartDateRanges : Array;
+		
+		/**
+		 * The chart of albums for a given week
+		 */
 		public var weeklyAlbumChart : Array;
+		
+		/**
+		 * The chart of artists for a given week
+		 */
 		public var weeklyArtistChart : Array;
+		
+		/**
+		 * the chart of tracks for a given week
+		 */
 		public var weeklyTrackChart : Array;
 		
 		/**
@@ -128,9 +269,11 @@ package fm.last.model
 		}
 
 		/**
-		 * Get the list of the upcoming events that this user is attending.
+		 * Load the list of the upcoming events that this user is attending.
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=291
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_EVENTS
 		 */
 		public function getEvents() : void
 		{
@@ -149,9 +292,14 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get a list of friends for this user, and eventually their recent tracks.
+		 * Load a list of friends for this user, and eventually their recent tracks.
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=263
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_FRIENDS
+		 * 
+		 * @param if to load the recent tracks they played
+		 * @param the max amount of friends to load
 		 */
 		public function getFriends(recentTracks:Boolean = false, limit:int = 50):void
 		{
@@ -192,9 +340,11 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the last 50 tracks loved by this user.
+		 * Load the last 50 tracks loved by this user.
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=329
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_LOVED_TRACKS
 		 */
 		public function getLovedTracks() : void
 		{
@@ -214,9 +364,13 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get a the neighbours for this user.
+		 * Load a the neighbours for this user.
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=264
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_NEIGHBOURS
+		 * 
+		 * @param the max amount of neighbours to load
 		 */
 		public function getNeighbours(limit:int = 60):void
 		{
@@ -237,9 +391,13 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the list of all the events this user has attended in the past. 
+		 * Load the list of all the events this user has attended in the past. 
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=343
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_PAST_EVENTS
+		 * 
+		 * @param the max amount of past events to load
 		 */
 		 
 		public function getPastEvents(limit:uint = 30) : void
@@ -278,9 +436,11 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the list of this user's playlists.
+		 * Load the list of this user's playlists.
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=313
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_PLAYLISTS
 		 */
 		public function getPlaylists() : void
 		{
@@ -300,12 +460,14 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get a list of the recent tracks listened to by this user.
+		 * Load a list of the recent tracks listened to by this user.
 		 * Indicates now playing track if the user is currently listening.
 		 * 
-		 * If limit is equals to 0, it will return the maximum available
-		 * 
 		 * Ref: http://www.last.fm/api/show?service=278
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_RECENT_TRACKS
+		 * 
+		 * @param the max amount of tracks to load, if it is equals to 0, it will return the maximum available
 		 */
 		public function getRecentTracks(limit:uint = 10) : void
 		{
@@ -326,9 +488,11 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the shouts for this user.
+		 * Load the shouts for this user.
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=401
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_SHOUTS
 		 */
 		
 		public function getShouts () : void
@@ -349,11 +513,15 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the top albums listened to by this user.
+		 * Load the top albums listened to by this user.
 		 * You can stipulate a time period.
 		 * Sends the overall chart by default.
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=299
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_TOP_ALBUMS
+		 * 
+		 * @param the period to consider
 		 */
 		
 		public function getTopAlbums (period : FMPeriodType = null)  : void
@@ -377,11 +545,15 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the top artists listened to by this user.
+		 * Load the top artists listened to by this user.
 		 * You can stipulate a time period.
 		 * Sends the overall chart by default. 
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=300
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_TOP_ARTISTS
+		 * 
+		 * @param the period to consider
 		 */
 		public function getTopArtists(period : FMPeriodType = null) : void
 		{
@@ -404,10 +576,14 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the top tags used by this user.
+		 * Load the top tags used by this user.
 		 * @param if 0, will return without limit
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=123
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_TOP_TAGS
+		 * 
+		 * @param the max amount of tags to load
 		 */
 		public function getTopTags(limit:int = 30):void
 		{
@@ -428,11 +604,15 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the top tracks listened to by this user.
+		 * Load the top tracks listened to by this user.
 		 * You can stipulate a time period.
 		 * Sends the overall chart by default.
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=301
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_TOP_TRACKS
+		 * 
+		 * @param the period to consider
 		 */
 		public function getTopTracks(period : FMPeriodType = null) : void
 		{
@@ -455,20 +635,24 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the album chart for this user, for a given date range.
+		 * Load the album chart for this user, for a given date range.
 		 * If no date range is supplied, it will return the most recent album chart for this user. 
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=279
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_WEEKLY_ALBUM_CHART
+		 * 
+		 * @param the date range for the chart
 		 */
 		
-		public function getWeeklyAlbumChart(chart : FMChart = null) : void
+		public function getWeeklyAlbumChart(dateRange : FMChartDateRange = null) : void
 		{
 			assert(name != null, "To get the user weekly album chart, you must supply the user name" );
 			
 			var variables : Object = {user: name};
-			if(chart != null){
-				variables.from = chart.dateFromAsInt;
-				variables.to = chart.dateToAsInt;
+			if(dateRange != null){
+				variables.from = dateRange.dateFromAsInt;
+				variables.to = dateRange.dateToAsInt;
 			}
 			requestURL(GET_WEEKLY_ALBUM_CHART, variables, onWeeklyAlbumChartLoaded);
 		}
@@ -484,20 +668,24 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the artist chart for this user, for a given date range.
+		 * Load the artist chart for this user, for a given date range.
 		 * If no date range is supplied, it will return the most recent artist chart for this user. 
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=281
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_WEEKLY_ARTIST_CHART
+		 * 
+		 * @param the date range for the chart
 		 */
 		
-		public function getWeeklyArtistChart( chart : FMChart = null ) : void
+		public function getWeeklyArtistChart( dateRange : FMChartDateRange = null ) : void
 		{
 			assert(name != null, "To get the user weekly artist chart, you must supply the user name" );
 			
 			var variables : Object = {user: name};
-			if(chart != null) {
-				variables.from = chart.dateFromAsInt;
-				variables.to = chart.dateToAsInt;
+			if(dateRange != null) {
+				variables.from = dateRange.dateFromAsInt;
+				variables.to = dateRange.dateToAsInt;
 			}
 			requestURL(GET_WEEKLY_ARTIST_CHART, variables, onWeeklyArtistChartLoaded);
 		}
@@ -512,9 +700,11 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the list of available charts for this user, expressed as date ranges which can be sent to the chart services. 
+		 * Load the list of available charts for this user, expressed as date ranges which can be sent to the chart services. 
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=280
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_WEEKLY_CHART_LIST
 		 */
 		
 		public function getWeeklyChartList():void
@@ -526,29 +716,33 @@ package fm.last.model
 		
 		private function onWeeklyChartListLoaded ( response : XML ) : void
 		{
-			weeklyChartList = [];
+			weeklyChartDateRanges = [];
 			var children : XMLList = response.weeklychartlist.chart;
 			for each (var child : XML in children) {
-				weeklyChartList.push(mf.createChart(child));
+				weeklyChartDateRanges.push(mf.createChartDateRange(child));
 			}
 			dispatchEvent(new Event(GET_WEEKLY_CHART_LIST));
 		}
 		
 		/**
-		 * Get the track chart for this user, for a given date range.
+		 * Load the track chart for this user, for a given date range.
 		 * If no date range is supplied, it will return the most recent track chart for this user. 
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=282
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_WEEKLY_TRACK_CHART
+		 * 
+		 * @param the date range for the chart
 		 */ 
 		 
-		public function getWeeklyTrackChart( chart : FMChart = null ):void
+		public function getWeeklyTrackChart( dateRange : FMChartDateRange = null ):void
 		{
 			assert(name != null, "To get the user weekly track chart, you must supply the user name" );
 			
 			var variables : Object = {user: name};
-			if(chart != null) {
-				variables.from = chart.dateFromAsInt;
-				variables.to = chart.dateToAsInt;
+			if(dateRange != null) {
+				variables.from = dateRange.dateFromAsInt;
+				variables.to = dateRange.dateToAsInt;
 			}
 			requestURL(GET_WEEKLY_TRACK_CHART, variables, onWeeklyTrackChartLoaded);
 		}

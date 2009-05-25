@@ -61,9 +61,9 @@ package test.last.model
 			assertEquals("createFromXML should set artist similar image small", "http://userserve-ak.last.fm/serve/34/4987379.jpg", similarArtist.getImageUrlBySize(FMImageSizeType.SMALL));
 			similarArtist = a.similar[a.similar.length-1];
 			assertEquals("createFromXML should set artist last similar name", "Céline Dion", similarArtist.name);
-			assertContained("createFromXML should set artist summary", "Cher first rose to prominence in 1965 as one half of the pop/rock duo Sonny &amp; Cher.", a.bio.summary);
-			assertNotContained("createFromXML should set artist summary", "She became a television star in the 1970s", a.bio.summary);
-			assertContained("createFromXML should set artist summary", "She became a television star in the 1970s", a.bio.content);
+			assertContained("createFromXML should set artist summary", "Cher first rose to prominence in 1965 as one half of the pop/rock duo Sonny &amp; Cher.", a.info.summary);
+			assertNotContained("createFromXML should set artist summary", "She became a television star in the 1970s", a.info.summary);
+			assertContained("createFromXML should set artist summary", "She became a television star in the 1970s", a.info.content);
 		}
 		
 		public function testGetEvents () : void

@@ -26,7 +26,7 @@ package test.last.model
 	import fm.last.model.FMGroup;
 	import fm.last.model.FMTrack;
 	import fm.last.model.FMUser;
-	import fm.last.model.vo.FMChart;
+	import fm.last.model.vo.FMChartDateRange;
 
 	import test.last.model.FMModelTest;
 
@@ -81,13 +81,13 @@ package test.last.model
 		private function onWeeklyChartListLoaded ( event : Event ) : void
 		{
 			var o : FMGroup = FMGroup(event.currentTarget);
-			assertEquals("FMGroup.getWeeklyChartList should return the correct amount of charts", 136, o.weeklyChartList.length);
-			var firstChart : FMChart = o.weeklyChartList[0];
+			assertEquals("FMGroup.getWeeklyChartList should return the correct amount of charts", 136, o.weeklyChartDateRanges.length);
+			var firstChart : FMChartDateRange = o.weeklyChartDateRanges[0];
 			assertEquals("FMGroup.getWeeklyChartList should set the first chart from int", 1159099200, firstChart.dateFromAsInt);
 			assertEquals("FMGroup.getWeeklyChartList should set the first chart to int", 1159704000, firstChart.dateToAsInt);
 			/*var fromDate : Date = new Date(2006, 8, 24, 12, 0, 0, 0); // TODO: sort the GMT issue
 			assertEquals("FMGroup.getWeeklyChartList should set the first chart from date", fromDate.toString(), firstChart.dateFrom.toString());*/
-			var lastChart : FMChart = o.weeklyChartList.pop();
+			var lastChart : FMChartDateRange = o.weeklyChartDateRanges.pop();
 			assertEquals("FMGroup.getWeeklyChartList should set the last chart from int", 1240747200, lastChart.dateFromAsInt);
 			assertEquals("FMGroup.getWeeklyChartList should set the last chart to int", 1241352000, lastChart.dateToAsInt);
 		}

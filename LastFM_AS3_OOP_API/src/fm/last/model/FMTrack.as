@@ -26,38 +26,130 @@ package fm.last.model
 	import flash.events.Event;
 	import fm.last.model.vo.FMInfo;
 	/**
-	 * Incapsulates all the methods of the Last.fm track web service
+	 * Incapsulates all the methods of the Last.fm track web service. It represents a song on LastFM.
      */
 	public class FMTrack extends FMModelBase
 	{
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_INFO:String = "track.getInfo";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_SIMILAR:String = "track.getSimilar";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_TOP_FANS:String = "track.getTopFans";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_TOP_TAGS:String = "track.getTopTags";
 		
+		/**
+		 * LastFM id
+		 */
 		public var id : int;
+		
+		/**
+		 * The title of the song
+		 */
 		public var name : String;
+		
+		/**
+		 * The amount of times the track has been played
+		 */
 		public var playCount : uint;
+		
+		/**
+		 * The Musicbrainz id
+		 */
 		public var mbid : String;
+		
+		/**
+		 * The url on LastFM
+		 */
 		public var url : String;
+		
+		/**
+		 * If it is streamable
+		 */
 		public var streamable : Boolean;
+		
+		/**
+		 * If it is entirely streamable
+		 */
 		public var streamableAsFullTrack : Boolean;
+		
+		/**
+		 * The artist who recorded this track
+		 */
 		public var artist : FMArtist;
 		// extra
+		/**
+		 * The rank of the rank, presumably in a chart
+		 */
 		public var rank : Number;
+		
+		/**
+		 * The match factor
+		 */
 		public var match : Number;
+		
+		/**
+		 * The amount of related tags
+		 */
 		public var tagCount : Number;
+		
+		/**
+		 * The amount of people are listening to the track
+		 */
 		public var listeners : Number;
+		
+		/**
+		 * The duration in milliseconds
+		 */
 		public var duration : int;
+		
+		/**
+		 * The album which contains this track
+		 */
 		public var album : FMAlbum;
+		
+		/**
+		 * The list of the most popular tags related
+		 */
 		public var topTags : Array;
-		public var bio : FMInfo;
-		// responses
+		
+		/**
+		 * Editorial information
+		 */
+		public var info : FMInfo;
+		
+		/**
+		 * The list of similar tracks
+		 */		
 		public var similar : Array;
+		
+		/**
+		 * The list of the biggests fans
+		 */
 		public var topFans : Array;
 		
-		protected var xmlns:Namespace = new Namespace("http://xspf.org/ns/0/");
-
+		/**
+		 * Namespace for the XSPF format
+		 */
+		protected var xspfNamespace:Namespace = new Namespace("http://xspf.org/ns/0/");
+		
+		/**
+		 * Constructor
+		 * 
+		 * @param the tile of the track
+		 */
 		public function FMTrack(name : String = null) 
 		{
 			this.name = name;
@@ -106,7 +198,7 @@ package fm.last.model
 				}
 			}
 			if(xml.wiki[0] != null)
-				bio = mf.createInfo(xml.wiki[0]);
+				info = mf.createInfo(xml.wiki[0]);
 		}
 		
 		/**
@@ -122,16 +214,27 @@ package fm.last.model
 			return t;
 		}
 		
+		/**
+		 * Populate the model from an XSPF formatted XML
+		 * 
+		 * @param the XML node representing the model
+		 */
 		protected function populateFromXSPF ( xml : XML ) : void
 		{
-			name = xml.xmlns::title.text();
-			url = xml.xmlns::identifier.text();
-			artist = new FMArtist(xml.xmlns::creator.text());
-			album = new FMAlbum(xml.xmlns::album.text());
-			duration = parseInt(xml.xmlns::duration.text());
-			addImage(FMImageSizeType.LARGE, xml.xmlns::image.text());
+			name = xml.xspfNamespace::title.text();
+			url = xml.xspfNamespace::identifier.text();
+			artist = new FMArtist(xml.xspfNamespace::creator.text());
+			album = new FMAlbum(xml.xspfNamespace::album.text());
+			duration = parseInt(xml.xspfNamespace::duration.text());
+			addImage(FMImageSizeType.LARGE, xml.xspfNamespace::image.text());
 		}
 		
+		/**
+		 * Creates an instance of the model starting from an XSPF formatted XML
+		 * 
+		 * @param the xml node representing the model
+		 * @return the new populated instance
+		 */
 		public static function createFromXSPF ( xml : XML ) : FMTrack
 		{
 			var t : FMTrack = new FMTrack();
@@ -158,9 +261,11 @@ package fm.last.model
 		}
 
 		/**
-		 * Get the metadata for this track.
+		 * Load the metadata for this track.
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=356
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_INFO
 		 */
 		public function getInfo():void
 		{
@@ -177,9 +282,11 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get similar tracks based on listening data.
+		 * Load similar tracks based on listening data.
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=319
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_SIMILAR
 		 */
 		public function getSimilar():void
 		{
@@ -199,9 +306,11 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the top fans for this track, based on listening data.
+		 * Load the top fans for this track, based on listening data.
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=312
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_TOP_FANS
 		 */
 		public function getTopFans() : void
 		{
@@ -221,9 +330,11 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the top tags for this track, ordered by tag count.
+		 * Load the top tags for this track, ordered by tag count.
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=289
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_TOP_TAGS
 		 */
 		public function getTopTags() : void
 		{

@@ -23,12 +23,10 @@ package fm.last.model.vo
 {	import fm.last.utils.TraceUtils;
 
 	/**
-	 * ValueObject used by FMImage to identify the visual representation of an image
-	 * 
-	 * (I'm not particularly sure about the name of this class)
+	 * ValueObject used by FMImage to describe a related file
 	 * 
 	 * @see FMImage
-	 * 	 * @author christian	 */	public class FMImageSize 
+	 * 	 * @author christian	 */	public class FMImageFile 
 	{
 		/**
 		 * The image title
@@ -56,9 +54,9 @@ package fm.last.model.vo
 		 * @param the xml node representing the model
 		 * @return the new populated instance
 		 */
-		public static function createFromXML ( xml : XML ) : FMImageSize
+		public static function createFromXML ( xml : XML ) : FMImageFile
 		{
-			var r : FMImageSize = new FMImageSize();
+			var r : FMImageFile = new FMImageFile();
 			r.populateFromXML(xml);
 			return r;		}
 		

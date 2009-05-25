@@ -21,31 +21,98 @@
  */
 package fm.last.model
 {
-	import fm.last.model.vo.FMChart;
+	import fm.last.model.vo.FMChartDateRange;
 	import flash.events.Event;
 	/**
 	 * Incapsulates all the methods of the Last.fm tag web service
      */
 	public class FMTag extends FMModelBase
 	{
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_SIMILAR:String = "tag.getSimilar";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_TOP_ALBUMS:String = "tag.getTopAlbums";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_TOP_ARTISTS:String = "tag.getTopArtists";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_TOP_TRACKS:String = "tag.getTopTracks";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_WEEKLY_CHART_LIST:String = "tag.getWeeklyChartList";
+		
+		/**
+		 * Defines the related web service method and has been used also as event type id when to dispatch outside the status complete of the method
+		 */
 		public static const GET_WEEKLY_ARTIST_CHART:String = "tag.getWeeklyArtistChart";
 		
+		/**
+		 * The tag name
+		 */
 		public var name : String;
+		
+		/**
+		 * The url on LastFM
+		 */
 		public var url : String;
+		
+		/**
+		 * amount of presence
+		 */
 		public var count : Number;
+		
+		/**
+		 * list of similar tags
+		 */
 		public var similar : Array;
+		
+		/**
+		 * If it is streamable
+		 */
 		public var streamable : Boolean;
+		
+		/**
+		 * The most related popular albums
+		 */
 		public var topAlbums : Array;
+		
+		/**
+		 * The most popular related artists
+		 */
 		public var topArtists : Array;
+		
+		/**
+		 * The most popular tracks
+		 */
 		public var topTracks : Array;
-		public var chartList : Array;
+		
+		/**
+		 * The list of chart date ranges, in weeks, which can be used to query the charts
+		 */
+		public var weeklyChartDateRanges : Array;
+		
+		/**
+		 * The list of artists, chart, for a given week
+		 */
 		public var weeklyArtistChart : Array;
-
+		
+		/**
+		 * Constructor
+		 * 
+		 * @param the name of the tag
+		 */
 		public function FMTag(name : String = null) {
 			this.name = name;
 		}
@@ -79,10 +146,12 @@ package fm.last.model
 		}
 		
 		/**
-		 * Search for tags similar to this one.
+		 * Load tags similar to this one.
 		 * Returns tags ranked by similarity, based on listening data. 
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=311
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_SIMILAR
 		 */
 		public function getSimilar():void
 		{
@@ -102,9 +171,11 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the top albums tagged by this tag, ordered by tag count. 
+		 * Load the top albums tagged by this tag, ordered by tag count. 
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=283
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_TOP_ALBUMS
 		 */
 		public function getTopAlbums():void
 		{
@@ -123,9 +194,11 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the top artists tagged by this tag, ordered by tag count. 
+		 * Load the top artists tagged by this tag, ordered by tag count. 
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=284
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_TOP_ARTISTS
 		 */
 		public function getTopArtists():void
 		{
@@ -133,6 +206,7 @@ package fm.last.model
 			
 			requestURL(GET_TOP_ARTISTS, {tag: name}, onTopArtistsLoaded);
 		}
+		
 		private function onTopArtistsLoaded ( response : XML ) : void
 		{
 			topArtists = [];
@@ -144,9 +218,11 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the top tracks tagged by this tag, ordered by tag count.
+		 * Load the top tracks tagged by this tag, ordered by tag count.
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=285
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_TOP_TRACKS
 		 */
 		public function getTopTracks():void
 		{
@@ -154,6 +230,7 @@ package fm.last.model
 			
 			requestURL(GET_TOP_TRACKS, {tag: name}, onTopTracksLoaded);
 		}
+		
 		private function onTopTracksLoaded ( response : XML ) : void
 		{
 			topTracks = [];
@@ -165,10 +242,12 @@ package fm.last.model
 		}
 		
 		/**
-		 * Get the list of available charts for this tag, expressed as FMChart which can be sent to the chart services. 
+		 * Load the list of available charts for this tag, expressed as FMChart which can be sent to the chart services. 
 		 * If no date range is supplied, it will return the most recent artist chart for this tag.
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=359
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_WEEKLY_CHART_LIST
 		 */	
 		public function getWeeklyChartList():void
 		{
@@ -176,24 +255,30 @@ package fm.last.model
 			
 			requestURL(GET_WEEKLY_CHART_LIST, {tag: name}, onWeeklyChartListLoaded);
 		}
+		
 		private function onWeeklyChartListLoaded ( response : XML ) : void
 		{
-			chartList = [];
+			weeklyChartDateRanges = [];
 			var children : XMLList = response.weeklychartlist.chart;
 			for each(var child : XML in children) {
-				chartList.push(mf.createChart(child));
+				weeklyChartDateRanges.push(mf.createChartDateRange(child));
 			}
 			dispatchEvent(new Event(GET_WEEKLY_CHART_LIST));
 		}
 		
 		
 		/**
-		 * Get an artist chart for this tag, for a given FMChart.
+		 * Load an artist chart for this tag, for a given FMChart.
 		 * If no date range is supplied, it will return the most recent artist chart for this tag. 
 		 * 
 		 * Ref: http://www.last.fm/api/show?service=358
+		 * 
+		 * On succesfully complete, it will dispatch the event type GET_WEEKLY_ARTIST_CHART
+		 * 
+		 * @param the date range for the chart
+		 * @param the max amount of artists to load
 		 */
-		public function getWeeklyArtistChart( chart : FMChart = null, limit : int = 50 ) : void
+		public function getWeeklyArtistChart( dateRange : FMChartDateRange = null, limit : int = 50 ) : void
 		{
 			assert(name != null, "To get the group weekly artist chart, you must supply the tag name" );
 			assert(limit > 0, "you should request more than 0 artists");
@@ -202,12 +287,13 @@ package fm.last.model
 				tag: name,
 				limit: limit
 			};
-			if(chart != null) {
-				variables.from = chart.dateFromAsInt;
-				variables.to = chart.dateToAsInt;
+			if(dateRange != null) {
+				variables.from = dateRange.dateFromAsInt;
+				variables.to = dateRange.dateToAsInt;
 			}
 			requestURL(GET_WEEKLY_ARTIST_CHART, variables, onWeeklyArtistChartLoaded);
 		}
+		
 		private function onWeeklyArtistChartLoaded ( response : XML ) : void
 		{
 			weeklyArtistChart = [];
